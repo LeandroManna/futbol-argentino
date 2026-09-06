@@ -1,0 +1,22 @@
+{
+  "name": "Liga Argentina 2026",
+  "short_name": "Liga Argentina",
+  "description": "Fixture, resultados, tablas y equipos de la Liga Profesional Argentina 2026.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#07110d",
+  "icons": [
+    {
+      "src": "assets/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

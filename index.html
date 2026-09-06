@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Liga Argentina 2026</title>
+  <meta name="description" content="Fixture, resultados, tablas y datos de la Liga Profesional Argentina 2026.">
+  <meta name="theme-color" content="#07110d">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Liga Argentina">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="icon" href="assets/icons/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top app-navbar">
+    <div class="container-xl">
+      <a class="navbar-brand" href="#inicio">
+        <span class="brand-mark">LPF</span>
+        <span>Liga Argentina</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Abrir navegación">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav ms-auto gap-lg-2">
+          <li class="nav-item"><a class="nav-link" href="#fixture">Fixture</a></li>
+          <li class="nav-item"><a class="nav-link" href="#tablas">Tablas</a></li>
+          <li class="nav-item"><a class="nav-link" href="#promedios">Promedios</a></li>
+          <li class="nav-item"><a class="nav-link" href="#equipos">Equipos</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main id="inicio">
+    <section class="hero-section">
+      <div class="container-xl">
+        <div class="hero-content">
+          <p class="eyebrow">Temporada 2026</p>
+          <h1>Liga Profesional Argentina</h1>
+          <p class="hero-copy">Fixture, resultados, tablas, promedios y equipos del torneo local en una experiencia rápida y responsive.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band" id="fixture">
+      <div class="container-xl">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Partidos</p>
+            <h2>Fixture y resultados</h2>
+          </div>
+          <span class="muted-small" id="fixtureCount">0 partidos</span>
+        </div>
+
+        <div class="filters-bar row g-2 align-items-end">
+          <div class="col-md-2">
+            <label class="form-label" for="filterDate">Fecha</label>
+            <input class="form-control" id="filterDate" type="date">
+          </div>
+          <div class="col-md-2">
+            <label class="form-label" for="filterStage">Etapa</label>
+            <select class="form-select" id="filterStage"></select>
+          </div>
+          <div class="col-md-2">
+            <label class="form-label" for="filterStatus">Estado</label>
+            <select class="form-select" id="filterStatus"></select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label" for="filterTeam">Equipo</label>
+            <select class="form-select" id="filterTeam"></select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label" for="filterSearch">Buscar</label>
+            <input class="form-control" id="filterSearch" type="search" placeholder="Equipo o estadio">
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-end mb-3">
+          <button class="btn btn-outline-light btn-sm" id="clearDateButton" type="button">Ver todas las fechas</button>
+        </div>
+
+        <div class="match-list" id="matchList"></div>
+      </div>
+    </section>
+
+    <section class="section-band section-alt" id="tablas">
+      <div class="container-xl">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Posiciones</p>
+            <h2>Tablas del torneo</h2>
+          </div>
+          <div class="table-controls">
+            <select class="form-select" id="stageSelect"></select>
+            <select class="form-select" id="tableTypeSelect"></select>
+          </div>
+        </div>
+        <div id="standingsTables" class="standings-grid"></div>
+      </div>
+    </section>
+
+    <section class="section-band" id="promedios">
+      <div class="container-xl">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Descenso y copas</p>
+            <h2>Promedios y tabla anual</h2>
+          </div>
+        </div>
+        <div class="row g-4">
+          <div class="col-lg-6">
+            <div class="data-panel h-100">
+              <div class="panel-title-row">
+                <h3>Promedios</h3>
+                <span>zona baja</span>
+              </div>
+              <div class="table-responsive">
+                <table class="table app-table compact" id="relegationTable"></table>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="data-panel h-100">
+              <div class="panel-title-row">
+                <h3>Tabla anual</h3>
+                <span>tabla completa</span>
+              </div>
+              <div class="table-responsive">
+                <table class="table app-table compact" id="championshipTable"></table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-band section-alt" id="equipos">
+      <div class="container-xl">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Clubes</p>
+            <h2>Equipos participantes</h2>
+          </div>
+          <span class="muted-small" id="teamCount">0 equipos</span>
+        </div>
+        <div class="teams-grid" id="teamsGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal fade" id="teamModal" tabindex="-1" aria-labelledby="teamModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content team-modal-content">
+        <div class="modal-header">
+          <div class="modal-team-title">
+            <img id="teamModalLogo" alt="" width="62" height="62">
+            <div>
+              <p class="eyebrow mb-1" id="teamModalNickname"></p>
+              <h2 class="modal-title h4" id="teamModalLabel"></h2>
+            </div>
+          </div>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+        </div>
+        <div class="modal-body" id="teamModalBody"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <div class="container-xl d-flex flex-column flex-md-row justify-content-between gap-2">
+      <span>&copy; 2026 Leandro Manna</span>
+      <a href="https://leandromanna.com" target="_blank" rel="noopener noreferrer">leandromanna.com</a>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,36 @@
+name: Update data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build data JSON
+        env:
+          LIGA_STANDINGS_URL: ${{ secrets.LIGA_STANDINGS_URL }}
+          LIGA_FIXTURE_URL: ${{ secrets.LIGA_FIXTURE_URL }}
+          LIGA_EVENTS_URL: ${{ secrets.LIGA_EVENTS_URL }}
+        run: python scripts/build_app_data.py
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update league data"
+          file_pattern: data/app-data.json
+
