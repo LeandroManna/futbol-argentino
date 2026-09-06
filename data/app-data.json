@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:59:02",
+  "generatedAt": "2026-09-06T22:04:38",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 369,
+    "played": 371,
     "fixtures": 124,
-    "playing": 2,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35007,8 +35007,8 @@
       "week": "8",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "19ij50t7wklqr3w2bye5r7tp4",
         "name": "Lanús",
@@ -35030,7 +35030,7 @@
         "logo": "assets/icons/escudos/defensa-y-justicia.svg"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
         "htHome": 0,
         "htAway": 0
@@ -35042,8 +35042,8 @@
         "lat": "-34.717708296",
         "lng": "-58.383815289"
       },
-      "cardsCount": 3,
-      "substitutionsCount": 8
+      "cardsCount": 4,
+      "substitutionsCount": 10
     },
     {
       "id": "1d5st2cvjubncm2kmbp9scrh0",
@@ -35052,8 +35052,8 @@
       "week": "8",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "1x5i9dl7uyrh5o2th8ore61e6",
         "name": "Central Córdoba SdE",
@@ -35087,8 +35087,8 @@
         "lat": "-27.793820266",
         "lng": "-64.264268875"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 5
+      "cardsCount": 1,
+      "substitutionsCount": 8
     },
     {
       "id": "1g506h0yhby1st0x0qr3asmc4",
@@ -41089,16 +41089,23 @@
       "logo": "assets/icons/escudos/central-cordoba.svg",
       "homeVenue": "Estadio Único Madre de Ciudades",
       "stats": {
-        "played": 23,
+        "played": 24,
         "won": 6,
         "drawn": 5,
-        "lost": 12,
+        "lost": 13,
         "goalsFor": 15,
-        "goalsAgainst": 28,
-        "goalDifference": -13,
+        "goalsAgainst": 29,
+        "goalDifference": -14,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Córdoba SdE",
+          "away": "Independiente",
+          "score": "0-1"
+        },
         {
           "date": "2026-08-29",
           "stage": "Clausura",
@@ -41126,13 +41133,6 @@
           "home": "Unión",
           "away": "Córdoba SdE",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-03",
-          "stage": "Clausura",
-          "home": "Córdoba SdE",
-          "away": "San Lorenzo",
-          "score": "1-0"
         }
       ]
     },
@@ -41147,16 +41147,23 @@
       "logo": "assets/icons/escudos/defensa-y-justicia.svg",
       "homeVenue": "Estadio Norberto Tito Tomaghello",
       "stats": {
-        "played": 23,
+        "played": 24,
         "won": 8,
         "drawn": 9,
-        "lost": 6,
+        "lost": 7,
         "goalsFor": 27,
-        "goalsAgainst": 29,
-        "goalDifference": -2,
+        "goalsAgainst": 30,
+        "goalDifference": -3,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Lanús",
+          "away": "Def y Justicia",
+          "score": "1-0"
+        },
         {
           "date": "2026-08-31",
           "stage": "Clausura",
@@ -41184,13 +41191,6 @@
           "home": "Def y Justicia",
           "away": "Newell's",
           "score": "2-1"
-        },
-        {
-          "date": "2026-08-01",
-          "stage": "Clausura",
-          "home": "Estudiantes",
-          "away": "Def y Justicia",
-          "score": "3-0"
         }
       ]
     },
@@ -41553,16 +41553,23 @@
       "logo": "assets/icons/escudos/independiente.svg",
       "homeVenue": "Estadio Libertadores de América",
       "stats": {
-        "played": 24,
-        "won": 9,
+        "played": 25,
+        "won": 10,
         "drawn": 7,
         "lost": 8,
-        "goalsFor": 31,
+        "goalsFor": 32,
         "goalsAgainst": 29,
-        "goalDifference": 2,
+        "goalDifference": 3,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Córdoba SdE",
+          "away": "Independiente",
+          "score": "0-1"
+        },
         {
           "date": "2026-08-30",
           "stage": "Clausura",
@@ -41590,13 +41597,6 @@
           "home": "Independiente",
           "away": "Platense",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-03",
-          "stage": "Clausura",
-          "home": "Vélez",
-          "away": "Independiente",
-          "score": "1-0"
         }
       ]
     },
@@ -41727,16 +41727,23 @@
       "logo": "assets/icons/escudos/lanus.svg",
       "homeVenue": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
       "stats": {
-        "played": 24,
-        "won": 8,
+        "played": 25,
+        "won": 9,
         "drawn": 7,
         "lost": 9,
-        "goalsFor": 25,
+        "goalsFor": 26,
         "goalsAgainst": 25,
-        "goalDifference": 0,
+        "goalDifference": 1,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Lanús",
+          "away": "Def y Justicia",
+          "score": "1-0"
+        },
         {
           "date": "2026-08-28",
           "stage": "Clausura",
@@ -41764,13 +41771,6 @@
           "home": "Talleres",
           "away": "Lanús",
           "score": "0-3"
-        },
-        {
-          "date": "2026-08-06",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Lanús",
-          "score": "2-1"
         }
       ]
     },
