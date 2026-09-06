@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:59:00",
+  "generatedAt": "2026-09-06T21:16:46",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-06T20:49:40Z",
+    "lastUpdated": "2026-09-06T21:08:12Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -35077,8 +35077,8 @@
       "score": {
         "home": 0,
         "away": 0,
-        "htHome": null,
-        "htAway": null
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "5yy0k9r70dj3yf3eea0ikdwv3",
