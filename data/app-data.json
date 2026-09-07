@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:22:11",
+  "generatedAt": "2026-09-07T00:25:22",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 371,
+    "played": 372,
     "fixtures": 123,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35097,8 +35097,8 @@
       "week": "8",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "115foion8jwrvp2e7xif675kx",
         "name": "River Plate",
@@ -35120,10 +35120,10 @@
         "logo": "assets/icons/escudos/independiente-rivadavia.svg"
       },
       "score": {
-        "home": 1,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "7xyfskcpghmryithcog91y6y3",
@@ -35132,8 +35132,8 @@
         "lat": "-34.545325187",
         "lng": "-58.449722528"
       },
-      "cardsCount": 3,
-      "substitutionsCount": 0
+      "cardsCount": 6,
+      "substitutionsCount": 9
     },
     {
       "id": "1gmc6irvg57h19oysml4gr5sk",
@@ -41611,16 +41611,23 @@
       "logo": "assets/icons/escudos/independiente-rivadavia.svg",
       "homeVenue": "Estadio Bautista Gargantini",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 13,
         "drawn": 6,
-        "lost": 5,
-        "goalsFor": 38,
-        "goalsAgainst": 24,
-        "goalDifference": 14,
+        "lost": 6,
+        "goalsFor": 39,
+        "goalsAgainst": 27,
+        "goalDifference": 12,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "River",
+          "away": "Independiente",
+          "score": "3-1"
+        },
         {
           "date": "2026-08-30",
           "stage": "Clausura",
@@ -41647,13 +41654,6 @@
           "stage": "Clausura",
           "home": "Independiente",
           "away": "Estudiantes RC",
-          "score": "2-1"
-        },
-        {
-          "date": "2026-08-03",
-          "stage": "Clausura",
-          "home": "Sarmiento",
-          "away": "Independiente",
           "score": "2-1"
         }
       ]
@@ -41959,16 +41959,23 @@
       "logo": "assets/icons/escudos/river.svg",
       "homeVenue": "Estadio Monumental",
       "stats": {
-        "played": 27,
-        "won": 14,
+        "played": 28,
+        "won": 15,
         "drawn": 3,
         "lost": 10,
-        "goalsFor": 40,
-        "goalsAgainst": 28,
-        "goalDifference": 12,
+        "goalsFor": 43,
+        "goalsAgainst": 29,
+        "goalDifference": 14,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "River",
+          "away": "Independiente",
+          "score": "3-1"
+        },
         {
           "date": "2026-08-30",
           "stage": "Clausura",
@@ -41996,13 +42003,6 @@
           "home": "Tigre",
           "away": "River",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-02",
-          "stage": "Clausura",
-          "home": "River",
-          "away": "Rosario",
-          "score": "0-1"
         }
       ]
     },
