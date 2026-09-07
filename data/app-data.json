@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:16:37",
+  "generatedAt": "2026-09-07T09:52:01",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 372,
+    "played": 373,
     "fixtures": 122,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35132,7 +35132,7 @@
         "lat": "-34.545325187",
         "lng": "-58.449722528"
       },
-      "cardsCount": 6,
+      "cardsCount": 7,
       "substitutionsCount": 9
     },
     {
@@ -35142,8 +35142,8 @@
       "week": "8",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "39acfbxikh52o6y9opfb0q0nb",
         "name": "Racing Club",
@@ -35165,10 +35165,10 @@
         "logo": "assets/icons/escudos/atletico-tucuman.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 1
       },
       "venue": {
         "id": "2y66786gtjefwc1uqfda4wfqe",
@@ -35177,8 +35177,8 @@
         "lat": "-34.667479030",
         "lng": "-58.368574977"
       },
-      "cardsCount": 1,
-      "substitutionsCount": 0
+      "cardsCount": 3,
+      "substitutionsCount": 9
     },
     {
       "id": "1f4cx7p1weev197ig63bbbeok",
@@ -40799,16 +40799,23 @@
       "logo": "assets/icons/escudos/atletico-tucuman.svg",
       "homeVenue": "Estadio Monumental Presidente José Fierro",
       "stats": {
-        "played": 23,
-        "won": 5,
+        "played": 24,
+        "won": 6,
         "drawn": 9,
         "lost": 9,
-        "goalsFor": 19,
-        "goalsAgainst": 22,
-        "goalDifference": -3,
+        "goalsFor": 21,
+        "goalsAgainst": 23,
+        "goalDifference": -2,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Atl. Tucumán",
+          "score": "1-2"
+        },
         {
           "date": "2026-08-29",
           "stage": "Clausura",
@@ -40836,13 +40843,6 @@
           "home": "Atl. Tucumán",
           "away": "Sarmiento",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-03",
-          "stage": "Clausura",
-          "home": "Huracán",
-          "away": "Atl. Tucumán",
-          "score": "0-0"
         }
       ]
     },
@@ -41901,16 +41901,23 @@
       "logo": "assets/icons/escudos/racing.svg",
       "homeVenue": "Estadio Presidente Juan Domingo Perón",
       "stats": {
-        "played": 25,
+        "played": 26,
         "won": 7,
         "drawn": 8,
-        "lost": 10,
-        "goalsFor": 25,
-        "goalsAgainst": 28,
-        "goalDifference": -3,
+        "lost": 11,
+        "goalsFor": 26,
+        "goalsAgainst": 30,
+        "goalDifference": -4,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-06",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Atl. Tucumán",
+          "score": "1-2"
+        },
         {
           "date": "2026-08-30",
           "stage": "Clausura",
@@ -41938,13 +41945,6 @@
           "home": "Argentinos",
           "away": "Racing",
           "score": "2-1"
-        },
-        {
-          "date": "2026-08-01",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Tigre",
-          "score": "1-3"
         }
       ]
     },
