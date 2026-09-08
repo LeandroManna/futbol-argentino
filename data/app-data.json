@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:50:12",
+  "generatedAt": "2026-09-08T10:47:27",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 374,
+    "played": 375,
     "fixtures": 120,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35232,8 +35232,8 @@
       "week": "8",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "5o5wtxn03ktvxcdrpxht5aqdp",
         "name": "Unión",
@@ -35255,10 +35255,10 @@
         "logo": "assets/icons/escudos/instituto.svg"
       },
       "score": {
-        "home": 1,
-        "away": 1,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "5fefn764ml6jkgks2195dd0lf",
@@ -35267,8 +35267,8 @@
         "lat": "-31.631871174",
         "lng": "-60.715717077"
       },
-      "cardsCount": 2,
-      "substitutionsCount": 0
+      "cardsCount": 7,
+      "substitutionsCount": 10
     },
     {
       "id": "1lho2xunchnbi2hmavrmtjo5w",
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Juan Domingo Perón",
       "stats": {
-        "played": 23,
+        "played": 24,
         "won": 11,
         "drawn": 4,
-        "lost": 8,
-        "goalsFor": 23,
-        "goalsAgainst": 19,
-        "goalDifference": 4,
+        "lost": 9,
+        "goalsFor": 25,
+        "goalsAgainst": 22,
+        "goalDifference": 3,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-07",
+          "stage": "Clausura",
+          "home": "Unión",
+          "away": "Instituto",
+          "score": "3-2"
+        },
         {
           "date": "2026-08-31",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Instituto",
           "away": "Gim Mendoza",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-02",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Instituto",
-          "score": "0-1"
         }
       ]
     },
@@ -42307,16 +42307,23 @@
       "logo": "assets/icons/escudos/union.svg",
       "homeVenue": "Estadio 15 de Abril",
       "stats": {
-        "played": 25,
-        "won": 9,
+        "played": 26,
+        "won": 10,
         "drawn": 7,
         "lost": 9,
-        "goalsFor": 38,
-        "goalsAgainst": 33,
-        "goalDifference": 5,
+        "goalsFor": 41,
+        "goalsAgainst": 35,
+        "goalDifference": 6,
         "upcoming": 8
       },
       "recentMatches": [
+        {
+          "date": "2026-09-07",
+          "stage": "Clausura",
+          "home": "Unión",
+          "away": "Instituto",
+          "score": "3-2"
+        },
         {
           "date": "2026-08-28",
           "stage": "Clausura",
@@ -42344,13 +42351,6 @@
           "home": "Unión",
           "away": "Córdoba SdE",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-06",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Lanús",
-          "score": "2-1"
         }
       ]
     },
