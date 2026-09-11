@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:51:30",
+  "generatedAt": "2026-09-11T03:32:07",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -36936,51 +36936,6 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2183k4fcf0xqfc67qfret4e8k",
-      "date": "2026-10-04",
-      "time": "14:45",
-      "week": "11",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "1tsjuhn8qeikaj837w2ybx77n",
-        "name": "Sarmiento",
-        "clubName": "Sarmiento",
-        "shortName": "Sarmiento",
-        "officialName": "CA Sarmiento",
-        "code": "SAR",
-        "nickname": "El Verde de Junín",
-        "logo": "assets/icons/escudos/sarmiento.svg"
-      },
-      "away": {
-        "id": "115foion8jwrvp2e7xif675kx",
-        "name": "River Plate",
-        "clubName": "River Plate",
-        "shortName": "River",
-        "officialName": "CA River Plate",
-        "code": "RIV",
-        "nickname": "Millonario",
-        "logo": "assets/icons/escudos/river.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
-        "name": "Estadio Eva Perón de Junín",
-        "shortName": "Estadio Eva Perón de Junín",
-        "lat": "-34.585382973",
-        "lng": "-60.929263830"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "1wq8we25o963532yuf8i3o104",
       "date": "2026-10-04",
       "time": "17:00",
@@ -37291,6 +37246,51 @@
         "shortName": "Estadio Florencio Solá",
         "lat": "-34.750877816",
         "lng": "-58.387538195"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2183k4fcf0xqfc67qfret4e8k",
+      "date": "2026-10-07",
+      "time": "19:30",
+      "week": "11",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "1tsjuhn8qeikaj837w2ybx77n",
+        "name": "Sarmiento",
+        "clubName": "Sarmiento",
+        "shortName": "Sarmiento",
+        "officialName": "CA Sarmiento",
+        "code": "SAR",
+        "nickname": "El Verde de Junín",
+        "logo": "assets/icons/escudos/sarmiento.svg"
+      },
+      "away": {
+        "id": "115foion8jwrvp2e7xif675kx",
+        "name": "River Plate",
+        "clubName": "River Plate",
+        "shortName": "River",
+        "officialName": "CA River Plate",
+        "code": "RIV",
+        "nickname": "Millonario",
+        "logo": "assets/icons/escudos/river.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
+        "name": "Estadio Eva Perón de Junín",
+        "shortName": "Estadio Eva Perón de Junín",
+        "lat": "-34.585382973",
+        "lng": "-60.929263830"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
