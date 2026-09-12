@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T04:35:56",
+  "generatedAt": "2026-09-12T08:51:16",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 376,
-    "fixtures": 118,
-    "playing": 1,
+    "played": 378,
+    "fixtures": 117,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35322,8 +35322,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "1n4ioqcbh1hemy9ezzu6v86n7",
         "name": "Defensa y Justicia",
@@ -35367,8 +35367,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "ciqt22ivoc48zj62detdyh1mm",
         "name": "Boca Juniors",
@@ -35390,10 +35390,10 @@
         "logo": "assets/icons/escudos/central-cordoba.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 1,
+        "htHome": 2,
+        "htAway": 0
       },
       "venue": {
         "id": "6nan0as2jh7b0oex8qew6y5oi",
@@ -35402,8 +35402,8 @@
         "lat": "-34.635582546",
         "lng": "-58.364637494"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 8
     },
     {
       "id": "1kzfqo67938sfvcdwc3cbgtuc",
@@ -41031,16 +41031,23 @@
       "logo": "assets/icons/escudos/boca.svg",
       "homeVenue": "Estadio Alberto José Armando",
       "stats": {
-        "played": 25,
-        "won": 10,
+        "played": 26,
+        "won": 11,
         "drawn": 11,
         "lost": 4,
-        "goalsFor": 33,
-        "goalsAgainst": 22,
-        "goalDifference": 11,
-        "upcoming": 8
+        "goalsFor": 36,
+        "goalsAgainst": 23,
+        "goalDifference": 13,
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-11",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Córdoba SdE",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-05",
           "stage": "Clausura",
@@ -41068,13 +41075,6 @@
           "home": "Platense",
           "away": "Boca",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-08",
-          "stage": "Clausura",
-          "home": "Boca",
-          "away": "Vélez",
-          "score": "1-1"
         }
       ]
     },
@@ -41089,16 +41089,23 @@
       "logo": "assets/icons/escudos/central-cordoba.svg",
       "homeVenue": "Estadio Único Madre de Ciudades",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 6,
         "drawn": 5,
-        "lost": 13,
-        "goalsFor": 15,
-        "goalsAgainst": 29,
-        "goalDifference": -14,
-        "upcoming": 8
+        "lost": 14,
+        "goalsFor": 16,
+        "goalsAgainst": 32,
+        "goalDifference": -16,
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-11",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Córdoba SdE",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-06",
           "stage": "Clausura",
@@ -41126,13 +41133,6 @@
           "home": "Córdoba SdE",
           "away": "Instituto",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-10",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Córdoba SdE",
-          "score": "1-2"
         }
       ]
     },
@@ -41147,16 +41147,23 @@
       "logo": "assets/icons/escudos/defensa-y-justicia.svg",
       "homeVenue": "Estadio Norberto Tito Tomaghello",
       "stats": {
-        "played": 24,
-        "won": 8,
+        "played": 25,
+        "won": 9,
         "drawn": 9,
         "lost": 7,
-        "goalsFor": 27,
+        "goalsFor": 29,
         "goalsAgainst": 30,
-        "goalDifference": -3,
+        "goalDifference": -1,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-11",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "Gim Mendoza",
+          "score": "2-0"
+        },
         {
           "date": "2026-09-06",
           "stage": "Clausura",
@@ -41184,13 +41191,6 @@
           "home": "Vélez",
           "away": "Def y Justicia",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-09",
-          "stage": "Clausura",
-          "home": "Def y Justicia",
-          "away": "Newell's",
-          "score": "2-1"
         }
       ]
     },
@@ -41437,16 +41437,23 @@
       "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
       "homeVenue": "Estadio Víctor Antonio Legrotaglie",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 10,
         "drawn": 5,
-        "lost": 9,
+        "lost": 10,
         "goalsFor": 28,
-        "goalsAgainst": 29,
-        "goalDifference": -1,
+        "goalsAgainst": 31,
+        "goalDifference": -3,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-11",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "Gim Mendoza",
+          "score": "2-0"
+        },
         {
           "date": "2026-09-05",
           "stage": "Clausura",
@@ -41474,13 +41481,6 @@
           "home": "Gim Mendoza",
           "away": "Talleres",
           "score": "3-1"
-        },
-        {
-          "date": "2026-08-08",
-          "stage": "Clausura",
-          "home": "Instituto",
-          "away": "Gim Mendoza",
-          "score": "1-0"
         }
       ]
     },
