@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:12:35",
+  "generatedAt": "2026-09-13T14:34:10",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 381,
+    "played": 382,
     "fixtures": 113,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-13T01:15:08Z",
+    "lastUpdated": "2026-09-13T11:28:25Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -12588,12 +12588,12 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
-                  "teamId": "ciqt22ivoc48zj62detdyh1mm",
-                  "team": "CA Boca Juniors",
-                  "clubName": "Boca Juniors",
-                  "shortName": "Boca",
-                  "code": "BOC",
-                  "logo": "assets/icons/escudos/boca.svg",
+                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
+                  "team": "CA Vélez Sarsfield",
+                  "clubName": "Vélez Sarsfield",
+                  "shortName": "Vélez",
+                  "code": "VEL",
+                  "logo": "assets/icons/escudos/velez.svg",
                   "points": 3,
                   "played": 3,
                   "won": 0,
@@ -12609,12 +12609,12 @@
                 {
                   "rank": 8,
                   "rankStatus": null,
-                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
-                  "team": "CA Vélez Sarsfield",
-                  "clubName": "Vélez Sarsfield",
-                  "shortName": "Vélez",
-                  "code": "VEL",
-                  "logo": "assets/icons/escudos/velez.svg",
+                  "teamId": "ciqt22ivoc48zj62detdyh1mm",
+                  "team": "CA Boca Juniors",
+                  "clubName": "Boca Juniors",
+                  "shortName": "Boca",
+                  "code": "BOC",
+                  "logo": "assets/icons/escudos/boca.svg",
                   "points": 3,
                   "played": 3,
                   "won": 0,
@@ -35547,8 +35547,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "ajeh0pq7dtphe0btz4wc4xb0g",
         "name": "Talleres de Córdoba",
@@ -35570,8 +35570,8 @@
         "logo": "assets/icons/escudos/union.svg"
       },
       "score": {
-        "home": 1,
-        "away": 0,
+        "home": 2,
+        "away": 1,
         "htHome": 1,
         "htAway": 0
       },
@@ -35582,8 +35582,8 @@
         "lat": "-31.368991412",
         "lng": "-64.246051311"
       },
-      "cardsCount": 4,
-      "substitutionsCount": 2
+      "cardsCount": 5,
+      "substitutionsCount": 10
     },
     {
       "id": "1lz8hkyig5mnod079znr19ct0",
@@ -42191,16 +42191,23 @@
       "logo": "assets/icons/escudos/talleres.svg",
       "homeVenue": "Estadio Mario Alberto Kempes",
       "stats": {
-        "played": 25,
-        "won": 8,
+        "played": 26,
+        "won": 9,
         "drawn": 7,
         "lost": 10,
-        "goalsFor": 25,
-        "goalsAgainst": 27,
-        "goalDifference": -2,
+        "goalsFor": 27,
+        "goalsAgainst": 28,
+        "goalDifference": -1,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-12",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Unión",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-05",
           "stage": "Clausura",
@@ -42228,13 +42235,6 @@
           "home": "Gim Mendoza",
           "away": "Talleres",
           "score": "3-1"
-        },
-        {
-          "date": "2026-08-11",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Lanús",
-          "score": "0-3"
         }
       ]
     },
@@ -42307,16 +42307,23 @@
       "logo": "assets/icons/escudos/union.svg",
       "homeVenue": "Estadio 15 de Abril",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 10,
         "drawn": 7,
-        "lost": 9,
-        "goalsFor": 41,
-        "goalsAgainst": 35,
-        "goalDifference": 6,
+        "lost": 10,
+        "goalsFor": 42,
+        "goalsAgainst": 37,
+        "goalDifference": 5,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-12",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Unión",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-07",
           "stage": "Clausura",
@@ -42344,13 +42351,6 @@
           "home": "San Lorenzo",
           "away": "Unión",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-10",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Córdoba SdE",
-          "score": "1-2"
         }
       ]
     },
