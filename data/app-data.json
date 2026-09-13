@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:50:30",
+  "generatedAt": "2026-09-13T22:11:35",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 382,
-    "fixtures": 113,
+    "played": 384,
+    "fixtures": 111,
     "playing": 0,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-13T19:47:16Z",
+    "lastUpdated": "2026-09-13T21:53:28Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -6731,21 +6731,21 @@
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
                   "points": null,
-                  "played": 97,
+                  "played": 98,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 118,
-                  "goalsAgainst": 84,
+                  "goalsFor": 119,
+                  "goalsAgainst": 85,
                   "goalDifference": 34,
                   "lastSix": null,
-                  "relegationAverage": 1.639,
+                  "relegationAverage": 1.632,
                   "relegation": {
-                    "played": 97,
-                    "points": 159,
-                    "average": 1.639,
-                    "goalsFor": 118,
-                    "goalsAgainst": 84,
+                    "played": 98,
+                    "points": 160,
+                    "average": 1.632,
+                    "goalsFor": 119,
+                    "goalsAgainst": 85,
                     "goalDifference": 34,
                     "seasons": [
                       {
@@ -6779,13 +6779,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 24,
+                        "matchesPlayed": 25,
                         "matchesWon": 13,
                         "matchesLost": 4,
-                        "matchesDraw": 7,
-                        "goalsPro": 29,
-                        "goalsAgainst": 20,
-                        "points": 46
+                        "matchesDraw": 8,
+                        "goalsPro": 30,
+                        "goalsAgainst": 21,
+                        "points": 47
                       }
                     ]
                   }
@@ -7697,21 +7697,21 @@
                   "code": "GLP",
                   "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
                   "points": null,
-                  "played": 97,
+                  "played": 98,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 93,
-                  "goalsAgainst": 111,
+                  "goalsFor": 94,
+                  "goalsAgainst": 112,
                   "goalDifference": -18,
                   "lastSix": null,
-                  "relegationAverage": 1.309,
+                  "relegationAverage": 1.306,
                   "relegation": {
-                    "played": 97,
-                    "points": 127,
-                    "average": 1.309,
-                    "goalsFor": 93,
-                    "goalsAgainst": 111,
+                    "played": 98,
+                    "points": 128,
+                    "average": 1.306,
+                    "goalsFor": 94,
+                    "goalsAgainst": 112,
                     "goalDifference": -18,
                     "seasons": [
                       {
@@ -7745,13 +7745,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 24,
+                        "matchesPlayed": 25,
                         "matchesWon": 13,
                         "matchesLost": 9,
-                        "matchesDraw": 2,
-                        "goalsPro": 31,
-                        "goalsAgainst": 31,
-                        "points": 41
+                        "matchesDraw": 3,
+                        "goalsPro": 32,
+                        "goalsAgainst": 32,
+                        "points": 42
                       }
                     ]
                   }
@@ -8622,13 +8622,13 @@
                   "shortName": "Argentinos",
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 46,
-                  "played": 24,
+                  "points": 47,
+                  "played": 25,
                   "won": 13,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 4,
-                  "goalsFor": 29,
-                  "goalsAgainst": 20,
+                  "goalsFor": 30,
+                  "goalsAgainst": 21,
                   "goalDifference": "+9",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -8721,6 +8721,27 @@
                 {
                   "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 42,
+                  "played": 25,
+                  "won": 13,
+                  "drawn": 3,
+                  "lost": 9,
+                  "goalsFor": 32,
+                  "goalsAgainst": 32,
+                  "goalDifference": "+0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -8735,27 +8756,6 @@
                   "goalsFor": 28,
                   "goalsAgainst": 16,
                   "goalDifference": "+12",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 41,
-                  "played": 24,
-                  "won": 13,
-                  "drawn": 2,
-                  "lost": 9,
-                  "goalsFor": 31,
-                  "goalsAgainst": 31,
-                  "goalDifference": "+0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9569,15 +9569,15 @@
                   "shortName": "Argentinos",
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 17,
-                  "played": 8,
+                  "points": 18,
+                  "played": 9,
                   "won": 5,
-                  "drawn": 2,
+                  "drawn": 3,
                   "lost": 1,
-                  "goalsFor": 12,
-                  "goalsAgainst": 7,
+                  "goalsFor": 13,
+                  "goalsAgainst": 8,
                   "goalDifference": "+5",
-                  "lastSix": "DWDLWW",
+                  "lastSix": "DDWDLW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9605,6 +9605,27 @@
                 {
                   "rank": 3,
                   "rankStatus": "8th Finals",
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 16,
+                  "played": 9,
+                  "won": 5,
+                  "drawn": 1,
+                  "lost": 3,
+                  "goalsFor": 13,
+                  "goalsAgainst": 13,
+                  "goalDifference": "0",
+                  "lastSix": "DWWLLW",
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 4,
+                  "rankStatus": "8th Finals",
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
                   "clubName": "Rosario Central",
@@ -9620,27 +9641,6 @@
                   "goalsAgainst": 8,
                   "goalDifference": "+2",
                   "lastSix": "WDLDWW",
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 4,
-                  "rankStatus": "8th Finals",
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 15,
-                  "played": 8,
-                  "won": 5,
-                  "drawn": 0,
-                  "lost": 3,
-                  "goalsFor": 12,
-                  "goalsAgainst": 12,
-                  "goalDifference": "0",
-                  "lastSix": "WWLLWW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -10228,6 +10228,27 @@
                 {
                   "rank": 2,
                   "rankStatus": null,
+                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
+                  "team": "AA Argentinos Juniors",
+                  "clubName": "Argentinos Juniors",
+                  "shortName": "Argentinos",
+                  "code": "ARG",
+                  "logo": "assets/icons/escudos/argentinos.svg",
+                  "points": 10,
+                  "played": 4,
+                  "won": 3,
+                  "drawn": 1,
+                  "lost": 0,
+                  "goalsFor": 8,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+5",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 3,
+                  "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
                   "clubName": "Sarmiento",
@@ -10242,27 +10263,6 @@
                   "goalsFor": 9,
                   "goalsAgainst": 5,
                   "goalDifference": "+4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 3,
-                  "rankStatus": null,
-                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
-                  "team": "AA Argentinos Juniors",
-                  "clubName": "Argentinos Juniors",
-                  "shortName": "Argentinos",
-                  "code": "ARG",
-                  "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 9,
-                  "played": 3,
-                  "won": 3,
-                  "drawn": 0,
-                  "lost": 0,
-                  "goalsFor": 7,
-                  "goalsAgainst": 2,
-                  "goalDifference": "+5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -10935,6 +10935,27 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 7,
+                  "played": 5,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 2,
+                  "goalsFor": 6,
+                  "goalsAgainst": 9,
+                  "goalDifference": "-3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
                   "clubName": "Belgrano",
@@ -10954,7 +10975,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
@@ -10975,7 +10996,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -10991,27 +11012,6 @@
                   "goalsFor": 7,
                   "goalsAgainst": 8,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 6,
-                  "played": 4,
-                  "won": 2,
-                  "drawn": 0,
-                  "lost": 2,
-                  "goalsFor": 5,
-                  "goalsAgainst": 8,
-                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11537,48 +11537,6 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 12,
-                  "played": 6,
-                  "won": 4,
-                  "drawn": 0,
-                  "lost": 2,
-                  "goalsFor": 10,
-                  "goalsAgainst": 10,
-                  "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 4,
-                  "rankStatus": null,
-                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
-                  "team": "AA Argentinos Juniors",
-                  "clubName": "Argentinos Juniors",
-                  "shortName": "Argentinos",
-                  "code": "ARG",
-                  "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 11,
-                  "played": 6,
-                  "won": 3,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 8,
-                  "goalsAgainst": 5,
-                  "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 5,
-                  "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
                   "clubName": "Rosario Central",
@@ -11598,7 +11556,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
@@ -11619,7 +11577,28 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 5,
+                  "rankStatus": null,
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 10,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 1,
+                  "lost": 2,
+                  "goalsFor": 9,
+                  "goalsAgainst": 10,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
@@ -11640,7 +11619,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
@@ -11656,6 +11635,27 @@
                   "goalsFor": 4,
                   "goalsAgainst": 3,
                   "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
+                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
+                  "team": "AA Argentinos Juniors",
+                  "clubName": "Argentinos Juniors",
+                  "shortName": "Argentinos",
+                  "code": "ARG",
+                  "logo": "assets/icons/escudos/argentinos.svg",
+                  "points": 9,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 3,
+                  "lost": 1,
+                  "goalsFor": 6,
+                  "goalsAgainst": 6,
+                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12139,27 +12139,6 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
-                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
-                  "team": "AA Argentinos Juniors",
-                  "clubName": "Argentinos Juniors",
-                  "shortName": "Argentinos",
-                  "code": "ARG",
-                  "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 9,
-                  "played": 3,
-                  "won": 3,
-                  "drawn": 0,
-                  "lost": 0,
-                  "goalsFor": 7,
-                  "goalsAgainst": 2,
-                  "goalDifference": "+5",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 2,
-                  "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
                   "clubName": "Independiente Rivadavia",
@@ -12179,7 +12158,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 3,
+                  "rank": 2,
                   "rankStatus": null,
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
@@ -12200,7 +12179,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -12216,6 +12195,27 @@
                   "goalsFor": 5,
                   "goalsAgainst": 1,
                   "goalDifference": "+4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 4,
+                  "rankStatus": null,
+                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
+                  "team": "AA Argentinos Juniors",
+                  "clubName": "Argentinos Juniors",
+                  "shortName": "Argentinos",
+                  "code": "ARG",
+                  "logo": "assets/icons/escudos/argentinos.svg",
+                  "points": 7,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 0,
+                  "goalsFor": 5,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12867,27 +12867,6 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 6,
-                  "played": 3,
-                  "won": 2,
-                  "drawn": 0,
-                  "lost": 1,
-                  "goalsFor": 4,
-                  "goalsAgainst": 6,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 6,
-                  "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
                   "clubName": "Belgrano",
@@ -12907,7 +12886,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -12928,7 +12907,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -12949,7 +12928,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -12965,6 +12944,27 @@
                   "goalsFor": 1,
                   "goalsAgainst": 2,
                   "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 9,
+                  "rankStatus": null,
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 4,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 1,
+                  "lost": 1,
+                  "goalsFor": 3,
+                  "goalsAgainst": 6,
+                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13469,6 +13469,27 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 13,
+                  "played": 9,
+                  "won": 3,
+                  "drawn": 4,
+                  "lost": 2,
+                  "goalsFor": 4,
+                  "goalsAgainst": 4,
+                  "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 4,
+                  "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
                   "clubName": "Barracas Central",
@@ -13488,7 +13509,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
@@ -13509,7 +13530,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -13530,7 +13551,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -13551,7 +13572,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
@@ -13567,27 +13588,6 @@
                   "goalsFor": 7,
                   "goalsAgainst": 6,
                   "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 10,
-                  "played": 8,
-                  "won": 2,
-                  "drawn": 4,
-                  "lost": 2,
-                  "goalsFor": 3,
-                  "goalsAgainst": 4,
-                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13644,13 +13644,13 @@
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
                   "points": 9,
-                  "played": 8,
+                  "played": 9,
                   "won": 2,
                   "drawn": 3,
-                  "lost": 3,
+                  "lost": 4,
                   "goalsFor": 3,
-                  "goalsAgainst": 4,
-                  "goalDifference": "-1",
+                  "goalsAgainst": 5,
+                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14267,13 +14267,13 @@
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
                   "points": 4,
-                  "played": 3,
+                  "played": 4,
                   "won": 1,
                   "drawn": 1,
-                  "lost": 1,
+                  "lost": 2,
                   "goalsFor": 2,
-                  "goalsAgainst": 2,
-                  "goalDifference": "0",
+                  "goalsAgainst": 3,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14736,6 +14736,27 @@
                 {
                   "rank": 2,
                   "rankStatus": null,
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 8,
+                  "played": 5,
+                  "won": 2,
+                  "drawn": 2,
+                  "lost": 1,
+                  "goalsFor": 3,
+                  "goalsAgainst": 2,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 3,
+                  "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
                   "clubName": "Rosario Central",
@@ -14755,7 +14776,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 3,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
@@ -14776,7 +14797,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -14797,7 +14818,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
@@ -14818,7 +14839,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -14839,7 +14860,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -14855,27 +14876,6 @@
                   "goalsFor": 2,
                   "goalsAgainst": 1,
                   "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 5,
-                  "played": 4,
-                  "won": 1,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 2,
-                  "goalsAgainst": 2,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15401,14 +15401,14 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "teamId": "8inprqnxjps9ckiamn3cfoo8v",
+                  "team": "CS Independiente Rivadavia",
+                  "clubName": "Independiente Rivadavia",
+                  "shortName": "Independiente",
+                  "code": "IND",
+                  "logo": "assets/icons/escudos/independiente-rivadavia.svg",
                   "points": null,
-                  "played": 8,
+                  "played": 9,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15422,12 +15422,12 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
-                  "teamId": "8inprqnxjps9ckiamn3cfoo8v",
-                  "team": "CS Independiente Rivadavia",
-                  "clubName": "Independiente Rivadavia",
-                  "shortName": "Independiente",
-                  "code": "IND",
-                  "logo": "assets/icons/escudos/independiente-rivadavia.svg",
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
                   "points": null,
                   "played": 9,
                   "won": null,
@@ -15513,7 +15513,7 @@
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
                   "points": null,
-                  "played": 8,
+                  "played": 9,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15896,21 +15896,21 @@
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
                   "points": null,
-                  "played": 97,
+                  "played": 98,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 118,
-                  "goalsAgainst": 84,
+                  "goalsFor": 119,
+                  "goalsAgainst": 85,
                   "goalDifference": 34,
                   "lastSix": null,
-                  "relegationAverage": 1.639,
+                  "relegationAverage": 1.632,
                   "relegation": {
-                    "played": 97,
-                    "points": 159,
-                    "average": 1.639,
-                    "goalsFor": 118,
-                    "goalsAgainst": 84,
+                    "played": 98,
+                    "points": 160,
+                    "average": 1.632,
+                    "goalsFor": 119,
+                    "goalsAgainst": 85,
                     "goalDifference": 34,
                     "seasons": [
                       {
@@ -15944,13 +15944,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 24,
+                        "matchesPlayed": 25,
                         "matchesWon": 13,
                         "matchesLost": 4,
-                        "matchesDraw": 7,
-                        "goalsPro": 29,
-                        "goalsAgainst": 20,
-                        "points": 46
+                        "matchesDraw": 8,
+                        "goalsPro": 30,
+                        "goalsAgainst": 21,
+                        "points": 47
                       }
                     ]
                   }
@@ -16862,21 +16862,21 @@
                   "code": "GLP",
                   "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
                   "points": null,
-                  "played": 97,
+                  "played": 98,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 93,
-                  "goalsAgainst": 111,
+                  "goalsFor": 94,
+                  "goalsAgainst": 112,
                   "goalDifference": -18,
                   "lastSix": null,
-                  "relegationAverage": 1.309,
+                  "relegationAverage": 1.306,
                   "relegation": {
-                    "played": 97,
-                    "points": 127,
-                    "average": 1.309,
-                    "goalsFor": 93,
-                    "goalsAgainst": 111,
+                    "played": 98,
+                    "points": 128,
+                    "average": 1.306,
+                    "goalsFor": 94,
+                    "goalsAgainst": 112,
                     "goalDifference": -18,
                     "seasons": [
                       {
@@ -16910,13 +16910,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 24,
+                        "matchesPlayed": 25,
                         "matchesWon": 13,
                         "matchesLost": 9,
-                        "matchesDraw": 2,
-                        "goalsPro": 31,
-                        "goalsAgainst": 31,
-                        "points": 41
+                        "matchesDraw": 3,
+                        "goalsPro": 32,
+                        "goalsAgainst": 32,
+                        "points": 42
                       }
                     ]
                   }
@@ -17787,13 +17787,13 @@
                   "shortName": "Argentinos",
                   "code": "ARG",
                   "logo": "assets/icons/escudos/argentinos.svg",
-                  "points": 46,
-                  "played": 24,
+                  "points": 47,
+                  "played": 25,
                   "won": 13,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 4,
-                  "goalsFor": 29,
-                  "goalsAgainst": 20,
+                  "goalsFor": 30,
+                  "goalsAgainst": 21,
                   "goalDifference": "+9",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -17886,6 +17886,27 @@
                 {
                   "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
+                  "team": "Club de Gimnasia y Esgrima La Plata",
+                  "clubName": "Gimnasia La Plata",
+                  "shortName": "GELP",
+                  "code": "GLP",
+                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
+                  "points": 42,
+                  "played": 25,
+                  "won": 13,
+                  "drawn": 3,
+                  "lost": 9,
+                  "goalsFor": 32,
+                  "goalsAgainst": 32,
+                  "goalDifference": "+0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -17900,27 +17921,6 @@
                   "goalsFor": 28,
                   "goalsAgainst": 16,
                   "goalDifference": "+12",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
-                  "team": "Club de Gimnasia y Esgrima La Plata",
-                  "clubName": "Gimnasia La Plata",
-                  "shortName": "GELP",
-                  "code": "GLP",
-                  "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
-                  "points": 41,
-                  "played": 24,
-                  "won": 13,
-                  "drawn": 2,
-                  "lost": 9,
-                  "goalsFor": 31,
-                  "goalsAgainst": 31,
-                  "goalDifference": "+0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -35592,8 +35592,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "1tsjuhn8qeikaj837w2ybx77n",
         "name": "Sarmiento",
@@ -35615,10 +35615,10 @@
         "logo": "assets/icons/escudos/belgrano.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
@@ -35627,8 +35627,8 @@
         "lat": "-34.585382973",
         "lng": "-60.929263830"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 9
     },
     {
       "id": "1ox8no3awoga563pedpph0cus",
@@ -35637,8 +35637,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "cs3122cdx3g2nviltzfilmz5c",
         "name": "Tigre",
@@ -35660,10 +35660,10 @@
         "logo": "assets/icons/escudos/rosario-central.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 0,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "75bjb0kb899ifi74s3aryx5cn",
@@ -35672,8 +35672,8 @@
         "lat": "-34.449360850",
         "lng": "-58.542226553"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 7,
+      "substitutionsCount": 9
     },
     {
       "id": "1og4g1pa7ulssur4maq2sqck4",
@@ -40973,16 +40973,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 14,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 6,
-        "goalsFor": 36,
-        "goalsAgainst": 24,
+        "goalsFor": 37,
+        "goalsAgainst": 25,
         "goalDifference": 12,
-        "upcoming": 8
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-13",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "Belgrano",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-04",
           "stage": "Clausura",
@@ -41010,13 +41017,6 @@
           "home": "Belgrano",
           "away": "Independiente",
           "score": "2-0"
-        },
-        {
-          "date": "2026-08-10",
-          "stage": "Clausura",
-          "home": "Banfield",
-          "away": "Belgrano",
-          "score": "0-2"
         }
       ]
     },
@@ -42017,16 +42017,23 @@
       "logo": "assets/icons/escudos/rosario-central.svg",
       "homeVenue": "Estadio Gigante de Arroyito",
       "stats": {
-        "played": 27,
-        "won": 13,
+        "played": 28,
+        "won": 14,
         "drawn": 7,
         "lost": 7,
-        "goalsFor": 34,
+        "goalsFor": 35,
         "goalsAgainst": 27,
-        "goalDifference": 7,
-        "upcoming": 8
+        "goalDifference": 8,
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-13",
+          "stage": "Clausura",
+          "home": "Tigre",
+          "away": "Rosario",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-06",
           "stage": "Clausura",
@@ -42054,13 +42061,6 @@
           "home": "Barracas",
           "away": "Rosario",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-07",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "Aldosivi",
-          "score": "2-1"
         }
       ]
     },
@@ -42133,16 +42133,23 @@
       "logo": "assets/icons/escudos/sarmiento.svg",
       "homeVenue": "Estadio Eva Perón de Junín",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 11,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 12,
-        "goalsFor": 28,
-        "goalsAgainst": 32,
+        "goalsFor": 29,
+        "goalsAgainst": 33,
         "goalDifference": -4,
-        "upcoming": 8
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-13",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "Belgrano",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-04",
           "stage": "Clausura",
@@ -42170,13 +42177,6 @@
           "home": "Sarmiento",
           "away": "Huracán",
           "score": "2-0"
-        },
-        {
-          "date": "2026-08-08",
-          "stage": "Clausura",
-          "home": "Atl. Tucumán",
-          "away": "Sarmiento",
-          "score": "1-2"
         }
       ]
     },
@@ -42249,16 +42249,23 @@
       "logo": "assets/icons/escudos/tigre.svg",
       "homeVenue": "Estadio José Dellagiovanna",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 7,
         "drawn": 11,
-        "lost": 6,
+        "lost": 7,
         "goalsFor": 25,
-        "goalsAgainst": 20,
-        "goalDifference": 5,
-        "upcoming": 8
+        "goalsAgainst": 21,
+        "goalDifference": 4,
+        "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-13",
+          "stage": "Clausura",
+          "home": "Tigre",
+          "away": "Rosario",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-05",
           "stage": "Clausura",
@@ -42286,13 +42293,6 @@
           "home": "Aldosivi",
           "away": "Tigre",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-08",
-          "stage": "Clausura",
-          "home": "Tigre",
-          "away": "River",
-          "score": "1-0"
         }
       ]
     },
