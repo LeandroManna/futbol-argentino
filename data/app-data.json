@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:20:45",
+  "generatedAt": "2026-09-15T12:48:55",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 389,
+    "played": 390,
     "fixtures": 105,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35907,8 +35907,8 @@
       "week": "9",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "2zjoq67ogz8lmaoesxkubxhp6",
         "name": "Instituto",
@@ -35931,7 +35931,7 @@
       },
       "score": {
         "home": 2,
-        "away": 0,
+        "away": 1,
         "htHome": 0,
         "htAway": 0
       },
@@ -35943,7 +35943,7 @@
         "lng": "-64.180251360"
       },
       "cardsCount": 6,
-      "substitutionsCount": 4
+      "substitutionsCount": 9
     },
     {
       "id": "1raty9l0l97prchhepsasjbpw",
@@ -41321,16 +41321,23 @@
       "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
       "homeVenue": "Estadio Ciudad de Río Cuarto",
       "stats": {
-        "played": 24,
+        "played": 25,
         "won": 2,
         "drawn": 5,
-        "lost": 17,
-        "goalsFor": 8,
-        "goalsAgainst": 33,
-        "goalDifference": -25,
+        "lost": 18,
+        "goalsFor": 9,
+        "goalsAgainst": 35,
+        "goalDifference": -26,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-14",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Estudiantes RC",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-04",
           "stage": "Clausura",
@@ -41358,13 +41365,6 @@
           "home": "Estudiantes RC",
           "away": "Atl. Tucumán",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-07",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Estudiantes RC",
-          "score": "2-1"
         }
       ]
     },
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Juan Domingo Perón",
       "stats": {
-        "played": 24,
-        "won": 11,
+        "played": 25,
+        "won": 12,
         "drawn": 4,
         "lost": 9,
-        "goalsFor": 25,
-        "goalsAgainst": 22,
-        "goalDifference": 3,
+        "goalsFor": 27,
+        "goalsAgainst": 23,
+        "goalDifference": 4,
         "upcoming": 7
       },
       "recentMatches": [
+        {
+          "date": "2026-09-14",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Estudiantes RC",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-07",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Córdoba SdE",
           "away": "Instituto",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-08",
-          "stage": "Clausura",
-          "home": "Instituto",
-          "away": "Gim Mendoza",
-          "score": "1-0"
         }
       ]
     },
