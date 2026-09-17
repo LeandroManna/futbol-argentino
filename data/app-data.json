@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:51:14",
+  "generatedAt": "2026-09-17T11:10:55",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-16T01:16:26Z",
+    "lastUpdated": "2026-09-17T09:02:57Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -8636,7 +8636,7 @@
                 },
                 {
                   "rank": 3,
-                  "rankStatus": "CONMEBOL Libertadores",
+                  "rankStatus": "CONMEBOL Libertadores Qualifiers",
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
@@ -17801,7 +17801,7 @@
                 },
                 {
                   "rank": 3,
-                  "rankStatus": "CONMEBOL Libertadores",
+                  "rankStatus": "CONMEBOL Libertadores Qualifiers",
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
