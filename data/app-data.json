@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:06:45",
+  "generatedAt": "2026-09-19T09:31:51",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 391,
+    "played": 392,
     "fixtures": 103,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -35997,8 +35997,8 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "39acfbxikh52o6y9opfb0q0nb",
         "name": "Racing Club",
@@ -36020,10 +36020,10 @@
         "logo": "assets/icons/escudos/sarmiento.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "2y66786gtjefwc1uqfda4wfqe",
@@ -36032,8 +36032,8 @@
         "lat": "-34.667479030",
         "lng": "-58.368574977"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 10
     },
     {
       "id": "1qtogiytnd8xl7gnfesmxotuc",
@@ -41901,16 +41901,23 @@
       "logo": "assets/icons/escudos/racing.svg",
       "homeVenue": "Estadio Presidente Juan Domingo Perón",
       "stats": {
-        "played": 27,
-        "won": 7,
+        "played": 28,
+        "won": 8,
         "drawn": 8,
         "lost": 12,
-        "goalsFor": 27,
-        "goalsAgainst": 32,
-        "goalDifference": -5,
+        "goalsFor": 30,
+        "goalsAgainst": 33,
+        "goalDifference": -3,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-18",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Sarmiento",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-13",
           "stage": "Clausura",
@@ -41938,13 +41945,6 @@
           "home": "Racing",
           "away": "Boca",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-14",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Banfield",
-          "score": "0-1"
         }
       ]
     },
@@ -42133,16 +42133,23 @@
       "logo": "assets/icons/escudos/sarmiento.svg",
       "homeVenue": "Estadio Eva Perón de Junín",
       "stats": {
-        "played": 25,
+        "played": 26,
         "won": 11,
         "drawn": 2,
-        "lost": 12,
-        "goalsFor": 29,
-        "goalsAgainst": 33,
-        "goalDifference": -4,
+        "lost": 13,
+        "goalsFor": 30,
+        "goalsAgainst": 36,
+        "goalDifference": -6,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-18",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Sarmiento",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-13",
           "stage": "Clausura",
@@ -42169,13 +42176,6 @@
           "stage": "Clausura",
           "home": "Sarmiento",
           "away": "Estudiantes",
-          "score": "2-0"
-        },
-        {
-          "date": "2026-08-16",
-          "stage": "Clausura",
-          "home": "Sarmiento",
-          "away": "Huracán",
           "score": "2-0"
         }
       ]
