@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:45:47",
+  "generatedAt": "2026-09-20T12:04:18",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 396,
+    "played": 397,
     "fixtures": 98,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -36222,8 +36222,8 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "2zjoq67ogz8lmaoesxkubxhp6",
         "name": "Instituto",
@@ -36245,8 +36245,8 @@
         "logo": "assets/icons/escudos/talleres.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 3,
+        "away": 1,
         "htHome": 0,
         "htAway": 0
       },
@@ -36257,8 +36257,8 @@
         "lat": "-31.383720551",
         "lng": "-64.180251360"
       },
-      "cardsCount": 5,
-      "substitutionsCount": 2
+      "cardsCount": 8,
+      "substitutionsCount": 9
     },
     {
       "id": "1rrp04ydt1ahgykgayqyp1lw4",
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Juan Domingo Perón",
       "stats": {
-        "played": 25,
-        "won": 12,
+        "played": 26,
+        "won": 13,
         "drawn": 4,
         "lost": 9,
-        "goalsFor": 27,
-        "goalsAgainst": 23,
-        "goalDifference": 4,
+        "goalsFor": 30,
+        "goalsAgainst": 24,
+        "goalDifference": 6,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-19",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Talleres",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-14",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Atl. Tucumán",
           "away": "Instituto",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-16",
-          "stage": "Clausura",
-          "home": "Córdoba SdE",
-          "away": "Instituto",
-          "score": "0-1"
         }
       ]
     },
@@ -42191,16 +42191,23 @@
       "logo": "assets/icons/escudos/talleres.svg",
       "homeVenue": "Estadio Mario Alberto Kempes",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 9,
         "drawn": 7,
-        "lost": 10,
-        "goalsFor": 27,
-        "goalsAgainst": 28,
-        "goalDifference": -1,
+        "lost": 11,
+        "goalsFor": 28,
+        "goalsAgainst": 31,
+        "goalDifference": -3,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-19",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Talleres",
+          "score": "3-1"
+        },
         {
           "date": "2026-09-12",
           "stage": "Clausura",
@@ -42228,13 +42235,6 @@
           "home": "Talleres",
           "away": "Rosario",
           "score": "2-2"
-        },
-        {
-          "date": "2026-08-17",
-          "stage": "Clausura",
-          "home": "Gim Mendoza",
-          "away": "Talleres",
-          "score": "3-1"
         }
       ]
     },
