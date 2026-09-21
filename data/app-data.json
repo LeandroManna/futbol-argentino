@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:23:14",
+  "generatedAt": "2026-09-21T06:50:21",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 400,
-    "fixtures": 94,
+    "played": 401,
+    "fixtures": 93,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-21T01:15:29Z",
+    "lastUpdated": "2026-09-21T02:20:54Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -6666,8 +6666,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 109,
-                  "goalsAgainst": 82,
+                  "goalsFor": 111,
+                  "goalsAgainst": 84,
                   "goalDifference": 27,
                   "lastSix": null,
                   "relegationAverage": 1.656,
@@ -6675,8 +6675,8 @@
                     "played": 99,
                     "points": 164,
                     "average": 1.656,
-                    "goalsFor": 109,
-                    "goalsAgainst": 82,
+                    "goalsFor": 111,
+                    "goalsAgainst": 84,
                     "goalDifference": 27,
                     "seasons": [
                       {
@@ -6714,8 +6714,8 @@
                         "matchesWon": 12,
                         "matchesLost": 2,
                         "matchesDraw": 12,
-                        "goalsPro": 31,
-                        "goalsAgainst": 19,
+                        "goalsPro": 33,
+                        "goalsAgainst": 21,
                         "points": 48
                       }
                     ]
@@ -7977,8 +7977,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 91,
-                  "goalsAgainst": 102,
+                  "goalsFor": 93,
+                  "goalsAgainst": 104,
                   "goalDifference": -11,
                   "lastSix": null,
                   "relegationAverage": 1.212,
@@ -7986,8 +7986,8 @@
                     "played": 99,
                     "points": 120,
                     "average": 1.212,
-                    "goalsFor": 91,
-                    "goalsAgainst": 102,
+                    "goalsFor": 93,
+                    "goalsAgainst": 104,
                     "goalDifference": -11,
                     "seasons": [
                       {
@@ -8025,8 +8025,8 @@
                         "matchesWon": 7,
                         "matchesLost": 8,
                         "matchesDraw": 11,
-                        "goalsPro": 25,
-                        "goalsAgainst": 22,
+                        "goalsPro": 27,
+                        "goalsAgainst": 24,
                         "points": 32
                       }
                     ]
@@ -8627,8 +8627,8 @@
                   "won": 12,
                   "drawn": 12,
                   "lost": 2,
-                  "goalsFor": 31,
-                  "goalsAgainst": 19,
+                  "goalsFor": 33,
+                  "goalsAgainst": 21,
                   "goalDifference": "+12",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -9026,8 +9026,8 @@
                   "won": 7,
                   "drawn": 11,
                   "lost": 8,
-                  "goalsFor": 25,
-                  "goalsAgainst": 22,
+                  "goalsFor": 27,
+                  "goalsAgainst": 24,
                   "goalDifference": "+3",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -9274,10 +9274,10 @@
                   "won": 5,
                   "drawn": 5,
                   "lost": 0,
-                  "goalsFor": 13,
-                  "goalsAgainst": 7,
+                  "goalsFor": 15,
+                  "goalsAgainst": 9,
                   "goalDifference": "+6",
-                  "lastSix": "DWDDDD",
+                  "lastSix": "WDWDDD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9763,10 +9763,10 @@
                   "won": 3,
                   "drawn": 3,
                   "lost": 4,
-                  "goalsFor": 7,
-                  "goalsAgainst": 7,
+                  "goalsFor": 9,
+                  "goalsAgainst": 9,
                   "goalDifference": "0",
-                  "lastSix": "LLDWDW",
+                  "lastSix": "LLLDWD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9939,8 +9939,8 @@
                   "won": 4,
                   "drawn": 1,
                   "lost": 0,
-                  "goalsFor": 5,
-                  "goalsAgainst": 1,
+                  "goalsFor": 7,
+                  "goalsAgainst": 3,
                   "goalDifference": "+4",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11072,8 +11072,8 @@
                   "won": 1,
                   "drawn": 1,
                   "lost": 3,
-                  "goalsFor": 4,
-                  "goalsAgainst": 5,
+                  "goalsFor": 6,
+                  "goalsAgainst": 7,
                   "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11332,8 +11332,8 @@
                   "won": 2,
                   "drawn": 4,
                   "lost": 0,
-                  "goalsFor": 7,
-                  "goalsAgainst": 5,
+                  "goalsFor": 9,
+                  "goalsAgainst": 7,
                   "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11695,8 +11695,8 @@
                   "won": 1,
                   "drawn": 2,
                   "lost": 3,
-                  "goalsFor": 3,
-                  "goalsAgainst": 5,
+                  "goalsFor": 5,
+                  "goalsAgainst": 7,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11934,8 +11934,8 @@
                   "won": 2,
                   "drawn": 1,
                   "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 1,
+                  "goalsFor": 5,
+                  "goalsAgainst": 3,
                   "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -13004,8 +13004,8 @@
                   "won": 0,
                   "drawn": 1,
                   "lost": 2,
-                  "goalsFor": 1,
-                  "goalsAgainst": 3,
+                  "goalsFor": 3,
+                  "goalsAgainst": 5,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -13106,6 +13106,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
+                  "team": "CA Vélez Sarsfield",
+                  "clubName": "Vélez Sarsfield",
+                  "shortName": "Vélez",
+                  "code": "VEL",
+                  "logo": "assets/icons/escudos/velez.svg",
+                  "points": 19,
+                  "played": 10,
+                  "won": 5,
+                  "drawn": 4,
+                  "lost": 1,
+                  "goalsFor": 7,
+                  "goalsAgainst": 4,
+                  "goalDifference": "+3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
                   "team": "CSD Defensa y Justicia",
                   "clubName": "Defensa y Justicia",
@@ -13125,7 +13146,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 2,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "ciqt22ivoc48zj62detdyh1mm",
                   "team": "CA Boca Juniors",
@@ -13146,7 +13167,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 3,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -13162,27 +13183,6 @@
                   "goalsFor": 7,
                   "goalsAgainst": 3,
                   "goalDifference": "+4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 4,
-                  "rankStatus": null,
-                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
-                  "team": "CA Vélez Sarsfield",
-                  "clubName": "Vélez Sarsfield",
-                  "shortName": "Vélez",
-                  "code": "VEL",
-                  "logo": "assets/icons/escudos/velez.svg",
-                  "points": 16,
-                  "played": 9,
-                  "won": 4,
-                  "drawn": 4,
-                  "lost": 1,
-                  "goalsFor": 6,
-                  "goalsAgainst": 4,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13560,13 +13560,13 @@
                   "code": "TIG",
                   "logo": "assets/icons/escudos/tigre.svg",
                   "points": 12,
-                  "played": 9,
+                  "played": 10,
                   "won": 2,
                   "drawn": 6,
-                  "lost": 1,
+                  "lost": 2,
                   "goalsFor": 4,
-                  "goalsAgainst": 1,
-                  "goalDifference": "+3",
+                  "goalsAgainst": 2,
+                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13750,6 +13750,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
+                  "team": "CA Vélez Sarsfield",
+                  "clubName": "Vélez Sarsfield",
+                  "shortName": "Vélez",
+                  "code": "VEL",
+                  "logo": "assets/icons/escudos/velez.svg",
+                  "points": 13,
+                  "played": 5,
+                  "won": 4,
+                  "drawn": 1,
+                  "lost": 0,
+                  "goalsFor": 4,
+                  "goalsAgainst": 0,
+                  "goalDifference": "+4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
                   "team": "CSD Defensa y Justicia",
                   "clubName": "Defensa y Justicia",
@@ -13764,27 +13785,6 @@
                   "goalsFor": 5,
                   "goalsAgainst": 1,
                   "goalDifference": "+4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 2,
-                  "rankStatus": null,
-                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
-                  "team": "CA Vélez Sarsfield",
-                  "clubName": "Vélez Sarsfield",
-                  "shortName": "Vélez",
-                  "code": "VEL",
-                  "logo": "assets/icons/escudos/velez.svg",
-                  "points": 10,
-                  "played": 4,
-                  "won": 3,
-                  "drawn": 1,
-                  "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 0,
-                  "goalDifference": "+3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14911,13 +14911,13 @@
                   "code": "TIG",
                   "logo": "assets/icons/escudos/tigre.svg",
                   "points": 5,
-                  "played": 4,
+                  "played": 5,
                   "won": 1,
                   "drawn": 2,
-                  "lost": 1,
+                  "lost": 2,
                   "goalsFor": 2,
-                  "goalsAgainst": 1,
-                  "goalDifference": "+1",
+                  "goalsAgainst": 2,
+                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15101,6 +15101,27 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
+                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
+                  "team": "CA Vélez Sarsfield",
+                  "clubName": "Vélez Sarsfield",
+                  "shortName": "Vélez",
+                  "code": "VEL",
+                  "logo": "assets/icons/escudos/velez.svg",
+                  "points": null,
+                  "played": 10,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 5,
+                  "rankStatus": null,
                   "teamId": "d08q2rnrt7mss1axbuu595tyu",
                   "team": "CA Platense",
                   "clubName": "Platense",
@@ -15120,7 +15141,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
                   "team": "CSD Defensa y Justicia",
@@ -15141,7 +15162,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -15151,27 +15172,6 @@
                   "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
                   "points": null,
                   "played": 10,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 7,
-                  "rankStatus": null,
-                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
-                  "team": "CA Vélez Sarsfield",
-                  "clubName": "Vélez Sarsfield",
-                  "shortName": "Vélez",
-                  "code": "VEL",
-                  "logo": "assets/icons/escudos/velez.svg",
-                  "points": null,
-                  "played": 9,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15548,6 +15548,27 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
+                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
+                  "team": "CA Tigre",
+                  "clubName": "Tigre",
+                  "shortName": "Tigre",
+                  "code": "TIG",
+                  "logo": "assets/icons/escudos/tigre.svg",
+                  "points": null,
+                  "played": 10,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
                   "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
                   "team": "AA Estudiantes de Río Cuarto",
                   "clubName": "Estudiantes Río Cuarto",
@@ -15567,7 +15588,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
@@ -15588,7 +15609,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -15598,27 +15619,6 @@
                   "logo": "assets/icons/escudos/huracan.svg",
                   "points": null,
                   "played": 10,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
-                  "team": "CA Tigre",
-                  "clubName": "Tigre",
-                  "shortName": "Tigre",
-                  "code": "TIG",
-                  "logo": "assets/icons/escudos/tigre.svg",
-                  "points": null,
-                  "played": 9,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15831,8 +15831,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 109,
-                  "goalsAgainst": 82,
+                  "goalsFor": 111,
+                  "goalsAgainst": 84,
                   "goalDifference": 27,
                   "lastSix": null,
                   "relegationAverage": 1.656,
@@ -15840,8 +15840,8 @@
                     "played": 99,
                     "points": 164,
                     "average": 1.656,
-                    "goalsFor": 109,
-                    "goalsAgainst": 82,
+                    "goalsFor": 111,
+                    "goalsAgainst": 84,
                     "goalDifference": 27,
                     "seasons": [
                       {
@@ -15879,8 +15879,8 @@
                         "matchesWon": 12,
                         "matchesLost": 2,
                         "matchesDraw": 12,
-                        "goalsPro": 31,
-                        "goalsAgainst": 19,
+                        "goalsPro": 33,
+                        "goalsAgainst": 21,
                         "points": 48
                       }
                     ]
@@ -17142,8 +17142,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 91,
-                  "goalsAgainst": 102,
+                  "goalsFor": 93,
+                  "goalsAgainst": 104,
                   "goalDifference": -11,
                   "lastSix": null,
                   "relegationAverage": 1.212,
@@ -17151,8 +17151,8 @@
                     "played": 99,
                     "points": 120,
                     "average": 1.212,
-                    "goalsFor": 91,
-                    "goalsAgainst": 102,
+                    "goalsFor": 93,
+                    "goalsAgainst": 104,
                     "goalDifference": -11,
                     "seasons": [
                       {
@@ -17190,8 +17190,8 @@
                         "matchesWon": 7,
                         "matchesLost": 8,
                         "matchesDraw": 11,
-                        "goalsPro": 25,
-                        "goalsAgainst": 22,
+                        "goalsPro": 27,
+                        "goalsAgainst": 24,
                         "points": 32
                       }
                     ]
@@ -17792,8 +17792,8 @@
                   "won": 12,
                   "drawn": 12,
                   "lost": 2,
-                  "goalsFor": 31,
-                  "goalsAgainst": 19,
+                  "goalsFor": 33,
+                  "goalsAgainst": 21,
                   "goalDifference": "+12",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -18191,8 +18191,8 @@
                   "won": 7,
                   "drawn": 11,
                   "lost": 8,
-                  "goalsFor": 25,
-                  "goalsAgainst": 22,
+                  "goalsFor": 27,
+                  "goalsAgainst": 24,
                   "goalDifference": "+3",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -30992,7 +30992,7 @@
         "lat": "-32.890682564",
         "lng": "-68.863205910"
       },
-      "cardsCount": 1,
+      "cardsCount": 2,
       "substitutionsCount": 9
     },
     {
@@ -36402,8 +36402,8 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "2biw4all5ru5xiorgyqbevwr1",
         "name": "Belgrano",
@@ -36425,8 +36425,8 @@
         "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 2,
+        "away": 1,
         "htHome": 0,
         "htAway": 0
       },
@@ -36437,8 +36437,8 @@
         "lat": "-31.403516063",
         "lng": "-64.206236601"
       },
-      "cardsCount": 1,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 8
     },
     {
       "id": "1pealm91o8n9tktsm8l3hdtzo",
@@ -36447,7 +36447,7 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
@@ -36470,10 +36470,10 @@
         "logo": "assets/icons/escudos/tigre.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "86tjf697g6ddl07i419fn27wl",
@@ -40973,16 +40973,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 29,
-        "won": 14,
+        "played": 30,
+        "won": 15,
         "drawn": 9,
         "lost": 6,
-        "goalsFor": 37,
-        "goalsAgainst": 25,
-        "goalDifference": 12,
+        "goalsFor": 39,
+        "goalsAgainst": 26,
+        "goalDifference": 13,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-20",
+          "stage": "Clausura",
+          "home": "Belgrano",
+          "away": "Estudiantes RC",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-13",
           "stage": "Clausura",
@@ -41010,13 +41017,6 @@
           "home": "Belgrano",
           "away": "Def y Justicia",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-15",
-          "stage": "Clausura",
-          "home": "Belgrano",
-          "away": "Independiente",
-          "score": "2-0"
         }
       ]
     },
@@ -41321,16 +41321,23 @@
       "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
       "homeVenue": "Estadio Ciudad de Río Cuarto",
       "stats": {
-        "played": 25,
+        "played": 26,
         "won": 2,
         "drawn": 5,
-        "lost": 18,
-        "goalsFor": 9,
-        "goalsAgainst": 35,
-        "goalDifference": -26,
+        "lost": 19,
+        "goalsFor": 10,
+        "goalsAgainst": 37,
+        "goalDifference": -27,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-20",
+          "stage": "Clausura",
+          "home": "Belgrano",
+          "away": "Estudiantes RC",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-14",
           "stage": "Clausura",
@@ -41358,13 +41365,6 @@
           "home": "Estudiantes RC",
           "away": "San Lorenzo",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-17",
-          "stage": "Clausura",
-          "home": "Estudiantes RC",
-          "away": "Atl. Tucumán",
-          "score": "0-1"
         }
       ]
     },
@@ -42256,7 +42256,7 @@
         "goalsFor": 25,
         "goalsAgainst": 21,
         "goalDifference": 4,
-        "upcoming": 7
+        "upcoming": 6
       },
       "recentMatches": [
         {
@@ -42372,7 +42372,7 @@
         "goalsFor": 30,
         "goalsAgainst": 20,
         "goalDifference": 10,
-        "upcoming": 7
+        "upcoming": 6
       },
       "recentMatches": [
         {
