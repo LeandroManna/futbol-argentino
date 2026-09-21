@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:50:21",
+  "generatedAt": "2026-09-21T13:42:18",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 401,
+    "played": 402,
     "fixtures": 93,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -36447,8 +36447,8 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
         "name": "Vélez Sarsfield",
@@ -36470,8 +36470,8 @@
         "logo": "assets/icons/escudos/tigre.svg"
       },
       "score": {
-        "home": 1,
-        "away": 0,
+        "home": 3,
+        "away": 2,
         "htHome": 1,
         "htAway": 0
       },
@@ -36483,7 +36483,7 @@
         "lng": "-58.520666957"
       },
       "cardsCount": 0,
-      "substitutionsCount": 0
+      "substitutionsCount": 8
     },
     {
       "id": "1uukxrayarp65q4la0l4bqntg",
@@ -42249,16 +42249,23 @@
       "logo": "assets/icons/escudos/tigre.svg",
       "homeVenue": "Estadio José Dellagiovanna",
       "stats": {
-        "played": 25,
+        "played": 26,
         "won": 7,
         "drawn": 11,
-        "lost": 7,
-        "goalsFor": 25,
-        "goalsAgainst": 21,
-        "goalDifference": 4,
+        "lost": 8,
+        "goalsFor": 27,
+        "goalsAgainst": 24,
+        "goalDifference": 3,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-20",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Tigre",
+          "score": "3-2"
+        },
         {
           "date": "2026-09-13",
           "stage": "Clausura",
@@ -42286,13 +42293,6 @@
           "home": "Tigre",
           "away": "Córdoba SdE",
           "score": "2-1"
-        },
-        {
-          "date": "2026-08-15",
-          "stage": "Clausura",
-          "home": "Aldosivi",
-          "away": "Tigre",
-          "score": "0-0"
         }
       ]
     },
@@ -42365,16 +42365,23 @@
       "logo": "assets/icons/escudos/velez.svg",
       "homeVenue": "Estadio José Amalfitani",
       "stats": {
-        "played": 26,
-        "won": 11,
+        "played": 27,
+        "won": 12,
         "drawn": 12,
         "lost": 3,
-        "goalsFor": 30,
-        "goalsAgainst": 20,
-        "goalDifference": 10,
+        "goalsFor": 33,
+        "goalsAgainst": 22,
+        "goalDifference": 11,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-20",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Tigre",
+          "score": "3-2"
+        },
         {
           "date": "2026-09-11",
           "stage": "Clausura",
@@ -42402,13 +42409,6 @@
           "home": "River",
           "away": "Vélez",
           "score": "2-2"
-        },
-        {
-          "date": "2026-08-17",
-          "stage": "Clausura",
-          "home": "Vélez",
-          "away": "Def y Justicia",
-          "score": "1-1"
         }
       ]
     }
