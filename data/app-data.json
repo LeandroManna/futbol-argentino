@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:04:32",
+  "generatedAt": "2026-09-22T06:15:14",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 403,
-    "fixtures": 91,
+    "played": 404,
+    "fixtures": 90,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-09-22T01:01:14Z",
+    "lastUpdated": "2026-09-22T02:11:26Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -7011,8 +7011,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 111,
-                  "goalsAgainst": 92,
+                  "goalsFor": 112,
+                  "goalsAgainst": 93,
                   "goalDifference": 19,
                   "lastSix": null,
                   "relegationAverage": 1.505,
@@ -7020,8 +7020,8 @@
                     "played": 99,
                     "points": 149,
                     "average": 1.505,
-                    "goalsFor": 111,
-                    "goalsAgainst": 92,
+                    "goalsFor": 112,
+                    "goalsAgainst": 93,
                     "goalDifference": 19,
                     "seasons": [
                       {
@@ -7059,8 +7059,8 @@
                         "matchesWon": 11,
                         "matchesLost": 8,
                         "matchesDraw": 7,
-                        "goalsPro": 30,
-                        "goalsAgainst": 23,
+                        "goalsPro": 31,
+                        "goalsAgainst": 24,
                         "points": 40
                       }
                     ]
@@ -7149,8 +7149,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 118,
-                  "goalsAgainst": 97,
+                  "goalsFor": 119,
+                  "goalsAgainst": 98,
                   "goalDifference": 21,
                   "lastSix": null,
                   "relegationAverage": 1.474,
@@ -7158,8 +7158,8 @@
                     "played": 99,
                     "points": 146,
                     "average": 1.474,
-                    "goalsFor": 118,
-                    "goalsAgainst": 97,
+                    "goalsFor": 119,
+                    "goalsAgainst": 98,
                     "goalDifference": 21,
                     "seasons": [
                       {
@@ -7197,8 +7197,8 @@
                         "matchesWon": 12,
                         "matchesLost": 9,
                         "matchesDraw": 5,
-                        "goalsPro": 28,
-                        "goalsAgainst": 17,
+                        "goalsPro": 29,
+                        "goalsAgainst": 18,
                         "points": 41
                       }
                     ]
@@ -8795,8 +8795,8 @@
                   "won": 12,
                   "drawn": 5,
                   "lost": 9,
-                  "goalsFor": 28,
-                  "goalsAgainst": 17,
+                  "goalsFor": 29,
+                  "goalsAgainst": 18,
                   "goalDifference": "+11",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -8837,8 +8837,8 @@
                   "won": 11,
                   "drawn": 7,
                   "lost": 8,
-                  "goalsFor": 30,
-                  "goalsAgainst": 23,
+                  "goalsFor": 31,
+                  "goalsAgainst": 24,
                   "goalDifference": "+7",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -9379,10 +9379,10 @@
                   "won": 5,
                   "drawn": 1,
                   "lost": 4,
-                  "goalsFor": 12,
-                  "goalsAgainst": 8,
+                  "goalsFor": 13,
+                  "goalsAgainst": 9,
                   "goalDifference": "+4",
-                  "lastSix": "WWLDLW",
+                  "lastSix": "WWWLDL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9463,10 +9463,10 @@
                   "won": 3,
                   "drawn": 1,
                   "lost": 6,
-                  "goalsFor": 9,
-                  "goalsAgainst": 10,
+                  "goalsFor": 10,
+                  "goalsAgainst": 11,
                   "goalDifference": "-1",
-                  "lastSix": "WLDLWL",
+                  "lastSix": "LWLDLW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -10044,8 +10044,8 @@
                   "won": 3,
                   "drawn": 1,
                   "lost": 2,
-                  "goalsFor": 5,
-                  "goalsAgainst": 5,
+                  "goalsFor": 6,
+                  "goalsAgainst": 6,
                   "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -10835,8 +10835,8 @@
                   "won": 0,
                   "drawn": 0,
                   "lost": 5,
-                  "goalsFor": 0,
-                  "goalsAgainst": 7,
+                  "goalsFor": 1,
+                  "goalsAgainst": 8,
                   "goalDifference": "-7",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11185,8 +11185,8 @@
                   "won": 4,
                   "drawn": 1,
                   "lost": 1,
-                  "goalsFor": 9,
-                  "goalsAgainst": 2,
+                  "goalsFor": 10,
+                  "goalsAgainst": 3,
                   "goalDifference": "+7",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11395,8 +11395,8 @@
                   "won": 2,
                   "drawn": 1,
                   "lost": 3,
-                  "goalsFor": 6,
-                  "goalsAgainst": 5,
+                  "goalsFor": 7,
+                  "goalsAgainst": 6,
                   "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11955,8 +11955,8 @@
                   "won": 2,
                   "drawn": 1,
                   "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 1,
+                  "goalsFor": 4,
+                  "goalsAgainst": 2,
                   "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -12746,8 +12746,8 @@
                   "won": 0,
                   "drawn": 0,
                   "lost": 3,
-                  "goalsFor": 0,
-                  "goalsAgainst": 4,
+                  "goalsFor": 1,
+                  "goalsAgainst": 5,
                   "goalDifference": "-4",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -13232,6 +13232,27 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
+                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
+                  "team": "CA Lanús",
+                  "clubName": "Lanús",
+                  "shortName": "Lanús",
+                  "code": "LAN",
+                  "logo": "assets/icons/escudos/lanus.svg",
+                  "points": 13,
+                  "played": 10,
+                  "won": 2,
+                  "drawn": 7,
+                  "lost": 1,
+                  "goalsFor": 2,
+                  "goalsAgainst": 1,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
                   "teamId": "7gcwwr8m5docs6jqrn2stilie",
                   "team": "CD Riestra",
                   "clubName": "Deportivo Riestra",
@@ -13251,7 +13272,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
@@ -13272,7 +13293,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "d08q2rnrt7mss1axbuu595tyu",
                   "team": "CA Platense",
@@ -13293,7 +13314,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -13314,27 +13335,6 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
-                  "rankStatus": null,
-                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
-                  "team": "CA Lanús",
-                  "clubName": "Lanús",
-                  "shortName": "Lanús",
-                  "code": "LAN",
-                  "logo": "assets/icons/escudos/lanus.svg",
-                  "points": 10,
-                  "played": 9,
-                  "won": 1,
-                  "drawn": 7,
-                  "lost": 1,
-                  "goalsFor": 1,
-                  "goalsAgainst": 1,
-                  "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
                   "rank": 12,
                   "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
@@ -13344,13 +13344,13 @@
                   "code": "EST",
                   "logo": "assets/icons/escudos/estudiantes.svg",
                   "points": 9,
-                  "played": 9,
+                  "played": 10,
                   "won": 2,
                   "drawn": 3,
-                  "lost": 4,
+                  "lost": 5,
                   "goalsFor": 5,
-                  "goalsAgainst": 5,
-                  "goalDifference": "0",
+                  "goalsAgainst": 6,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13981,6 +13981,27 @@
                 {
                   "rank": 12,
                   "rankStatus": null,
+                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
+                  "team": "CA Lanús",
+                  "clubName": "Lanús",
+                  "shortName": "Lanús",
+                  "code": "LAN",
+                  "logo": "assets/icons/escudos/lanus.svg",
+                  "points": 7,
+                  "played": 6,
+                  "won": 1,
+                  "drawn": 4,
+                  "lost": 1,
+                  "goalsFor": 1,
+                  "goalsAgainst": 1,
+                  "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 13,
+                  "rankStatus": null,
                   "teamId": "1x5i9dl7uyrh5o2th8ore61e6",
                   "team": "CA Central Córdoba",
                   "clubName": "Central Córdoba SdE",
@@ -13995,27 +14016,6 @@
                   "goalsFor": 1,
                   "goalsAgainst": 1,
                   "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
-                  "team": "CA Lanús",
-                  "clubName": "Lanús",
-                  "shortName": "Lanús",
-                  "code": "LAN",
-                  "logo": "assets/icons/escudos/lanus.svg",
-                  "points": 4,
-                  "played": 5,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 1,
-                  "goalsFor": 0,
-                  "goalsAgainst": 1,
-                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14695,13 +14695,13 @@
                   "code": "EST",
                   "logo": "assets/icons/escudos/estudiantes.svg",
                   "points": 0,
-                  "played": 4,
+                  "played": 5,
                   "won": 0,
                   "drawn": 0,
-                  "lost": 4,
+                  "lost": 5,
                   "goalsFor": 0,
-                  "goalsAgainst": 4,
-                  "goalDifference": "-4",
+                  "goalsAgainst": 5,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15192,7 +15192,7 @@
                   "code": "LAN",
                   "logo": "assets/icons/escudos/lanus.svg",
                   "points": null,
-                  "played": 9,
+                  "played": 10,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15205,6 +15205,27 @@
                 },
                 {
                   "rank": 9,
+                  "rankStatus": null,
+                  "teamId": "91j32z6ga16tjj140ss2i24mt",
+                  "team": "Club Estudiantes de La Plata",
+                  "clubName": "Estudiantes",
+                  "shortName": "Estudiantes",
+                  "code": "EST",
+                  "logo": "assets/icons/escudos/estudiantes.svg",
+                  "points": null,
+                  "played": 10,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
@@ -15225,7 +15246,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "1x5i9dl7uyrh5o2th8ore61e6",
                   "team": "CA Central Córdoba",
@@ -15235,27 +15256,6 @@
                   "logo": "assets/icons/escudos/central-cordoba.svg",
                   "points": null,
                   "played": 10,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 11,
-                  "rankStatus": null,
-                  "teamId": "91j32z6ga16tjj140ss2i24mt",
-                  "team": "Club Estudiantes de La Plata",
-                  "clubName": "Estudiantes",
-                  "shortName": "Estudiantes",
-                  "code": "EST",
-                  "logo": "assets/icons/escudos/estudiantes.svg",
-                  "points": null,
-                  "played": 9,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -16176,8 +16176,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 111,
-                  "goalsAgainst": 92,
+                  "goalsFor": 112,
+                  "goalsAgainst": 93,
                   "goalDifference": 19,
                   "lastSix": null,
                   "relegationAverage": 1.505,
@@ -16185,8 +16185,8 @@
                     "played": 99,
                     "points": 149,
                     "average": 1.505,
-                    "goalsFor": 111,
-                    "goalsAgainst": 92,
+                    "goalsFor": 112,
+                    "goalsAgainst": 93,
                     "goalDifference": 19,
                     "seasons": [
                       {
@@ -16224,8 +16224,8 @@
                         "matchesWon": 11,
                         "matchesLost": 8,
                         "matchesDraw": 7,
-                        "goalsPro": 30,
-                        "goalsAgainst": 23,
+                        "goalsPro": 31,
+                        "goalsAgainst": 24,
                         "points": 40
                       }
                     ]
@@ -16314,8 +16314,8 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 118,
-                  "goalsAgainst": 97,
+                  "goalsFor": 119,
+                  "goalsAgainst": 98,
                   "goalDifference": 21,
                   "lastSix": null,
                   "relegationAverage": 1.474,
@@ -16323,8 +16323,8 @@
                     "played": 99,
                     "points": 146,
                     "average": 1.474,
-                    "goalsFor": 118,
-                    "goalsAgainst": 97,
+                    "goalsFor": 119,
+                    "goalsAgainst": 98,
                     "goalDifference": 21,
                     "seasons": [
                       {
@@ -16362,8 +16362,8 @@
                         "matchesWon": 12,
                         "matchesLost": 9,
                         "matchesDraw": 5,
-                        "goalsPro": 28,
-                        "goalsAgainst": 17,
+                        "goalsPro": 29,
+                        "goalsAgainst": 18,
                         "points": 41
                       }
                     ]
@@ -17960,8 +17960,8 @@
                   "won": 12,
                   "drawn": 5,
                   "lost": 9,
-                  "goalsFor": 28,
-                  "goalsAgainst": 17,
+                  "goalsFor": 29,
+                  "goalsAgainst": 18,
                   "goalDifference": "+11",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -18002,8 +18002,8 @@
                   "won": 11,
                   "drawn": 7,
                   "lost": 8,
-                  "goalsFor": 30,
-                  "goalsAgainst": 23,
+                  "goalsFor": 31,
+                  "goalsAgainst": 24,
                   "goalDifference": "+7",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -36537,8 +36537,8 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
         "name": "Barracas Central",
@@ -36562,8 +36562,8 @@
       "score": {
         "home": 0,
         "away": 1,
-        "htHome": null,
-        "htAway": null
+        "htHome": 0,
+        "htAway": 1
       },
       "venue": {
         "id": "15iysu1nukrkkc20vxb45b8c4",
@@ -36572,8 +36572,8 @@
         "lat": "-34.647481175",
         "lng": "-58.396773040"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 7,
+      "substitutionsCount": 10
     },
     {
       "id": "1qcldhy0bri4v69ws77554jro",
@@ -36582,7 +36582,7 @@
       "week": "10",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "19ij50t7wklqr3w2bye5r7tp4",
@@ -36605,10 +36605,10 @@
         "logo": "assets/icons/escudos/estudiantes.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "9daitdo18bb0lf3dnk4erap4l",
@@ -36617,8 +36617,8 @@
         "lat": "-34.717708296",
         "lng": "-58.383815289"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 1,
+      "substitutionsCount": 1
     },
     {
       "id": "1x99tmsm4qc8nmrv7ktoqr0no",
@@ -40915,16 +40915,23 @@
       "logo": "assets/icons/escudos/barracas-central.svg",
       "homeVenue": "Estadio Claudio Fabián Tapia",
       "stats": {
-        "played": 25,
+        "played": 26,
         "won": 8,
         "drawn": 9,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 20,
-        "goalsAgainst": 21,
-        "goalDifference": -1,
+        "goalsAgainst": 22,
+        "goalDifference": -2,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-21",
+          "stage": "Clausura",
+          "home": "Barracas",
+          "away": "Independiente",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-14",
           "stage": "Clausura",
@@ -40952,13 +40959,6 @@
           "home": "Barracas",
           "away": "Platense",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-16",
-          "stage": "Clausura",
-          "home": "Barracas",
-          "away": "Rosario",
-          "score": "0-1"
         }
       ]
     },
@@ -41270,7 +41270,7 @@
         "goalsFor": 28,
         "goalsAgainst": 17,
         "goalDifference": 11,
-        "upcoming": 7
+        "upcoming": 6
       },
       "recentMatches": [
         {
@@ -41611,16 +41611,23 @@
       "logo": "assets/icons/escudos/independiente-rivadavia.svg",
       "homeVenue": "Estadio Bautista Gargantini",
       "stats": {
-        "played": 26,
-        "won": 14,
+        "played": 27,
+        "won": 15,
         "drawn": 6,
         "lost": 6,
-        "goalsFor": 43,
+        "goalsFor": 44,
         "goalsAgainst": 30,
-        "goalDifference": 13,
+        "goalDifference": 14,
         "upcoming": 6
       },
       "recentMatches": [
+        {
+          "date": "2026-09-21",
+          "stage": "Clausura",
+          "home": "Barracas",
+          "away": "Independiente",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-12",
           "stage": "Clausura",
@@ -41648,13 +41655,6 @@
           "home": "Independiente",
           "away": "Independiente",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-15",
-          "stage": "Clausura",
-          "home": "Belgrano",
-          "away": "Independiente",
-          "score": "2-0"
         }
       ]
     },
@@ -41734,7 +41734,7 @@
         "goalsFor": 29,
         "goalsAgainst": 25,
         "goalDifference": 4,
-        "upcoming": 7
+        "upcoming": 6
       },
       "recentMatches": [
         {
