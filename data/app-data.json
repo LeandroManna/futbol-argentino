@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:12:42",
+  "generatedAt": "2026-10-03T23:07:03",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 408,
-    "fixtures": 87,
-    "playing": 0,
+    "played": 409,
+    "fixtures": 84,
+    "playing": 2,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-03T19:59:28Z",
+    "lastUpdated": "2026-10-03T21:52:30Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -7483,6 +7483,75 @@
                 {
                   "rank": 15,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": null,
+                  "played": 100,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": 97,
+                  "goalsAgainst": 107,
+                  "goalDifference": -10,
+                  "lastSix": null,
+                  "relegationAverage": 1.34,
+                  "relegation": {
+                    "played": 100,
+                    "points": 134,
+                    "average": 1.34,
+                    "goalsFor": 97,
+                    "goalsAgainst": 107,
+                    "goalDifference": -10,
+                    "seasons": [
+                      {
+                        "id": "534vuyemq3e4biv283g33zf2s",
+                        "startDate": "2024-01-25Z",
+                        "endDate": "2024-12-17Z",
+                        "name": "2024",
+                        "matchesPlayed": 41,
+                        "matchesWon": 11,
+                        "matchesLost": 14,
+                        "matchesDraw": 16,
+                        "goalsPro": 35,
+                        "goalsAgainst": 48,
+                        "points": 49
+                      },
+                      {
+                        "id": "3l4bzc8syz1ea2dnv453kp89g",
+                        "startDate": "2025-01-23Z",
+                        "endDate": "2025-12-14Z",
+                        "name": "2025",
+                        "matchesPlayed": 32,
+                        "matchesWon": 12,
+                        "matchesLost": 7,
+                        "matchesDraw": 13,
+                        "goalsPro": 39,
+                        "goalsAgainst": 35,
+                        "points": 49
+                      },
+                      {
+                        "id": "8v84l9nq3d5t0j4gb781i3llg",
+                        "startDate": "2026-01-22Z",
+                        "endDate": "2026-12-14Z",
+                        "name": "2026",
+                        "matchesPlayed": 27,
+                        "matchesWon": 9,
+                        "matchesLost": 9,
+                        "matchesDraw": 9,
+                        "goalsPro": 23,
+                        "goalsAgainst": 24,
+                        "points": 36
+                      }
+                    ]
+                  }
+                },
+                {
+                  "rank": 16,
+                  "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
                   "clubName": "Instituto",
@@ -7550,7 +7619,7 @@
                   }
                 },
                 {
-                  "rank": 16,
+                  "rank": 17,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -7613,75 +7682,6 @@
                         "matchesDraw": 7,
                         "goalsPro": 41,
                         "goalsAgainst": 39,
-                        "points": 34
-                      }
-                    ]
-                  }
-                },
-                {
-                  "rank": 17,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": null,
-                  "played": 100,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": 94,
-                  "goalsAgainst": 105,
-                  "goalDifference": -11,
-                  "lastSix": null,
-                  "relegationAverage": 1.32,
-                  "relegation": {
-                    "played": 100,
-                    "points": 132,
-                    "average": 1.32,
-                    "goalsFor": 94,
-                    "goalsAgainst": 105,
-                    "goalDifference": -11,
-                    "seasons": [
-                      {
-                        "id": "534vuyemq3e4biv283g33zf2s",
-                        "startDate": "2024-01-25Z",
-                        "endDate": "2024-12-17Z",
-                        "name": "2024",
-                        "matchesPlayed": 41,
-                        "matchesWon": 11,
-                        "matchesLost": 14,
-                        "matchesDraw": 16,
-                        "goalsPro": 35,
-                        "goalsAgainst": 48,
-                        "points": 49
-                      },
-                      {
-                        "id": "3l4bzc8syz1ea2dnv453kp89g",
-                        "startDate": "2025-01-23Z",
-                        "endDate": "2025-12-14Z",
-                        "name": "2025",
-                        "matchesPlayed": 32,
-                        "matchesWon": 12,
-                        "matchesLost": 7,
-                        "matchesDraw": 13,
-                        "goalsPro": 39,
-                        "goalsAgainst": 35,
-                        "points": 49
-                      },
-                      {
-                        "id": "8v84l9nq3d5t0j4gb781i3llg",
-                        "startDate": "2026-01-22Z",
-                        "endDate": "2026-12-14Z",
-                        "name": "2026",
-                        "matchesPlayed": 27,
-                        "matchesWon": 8,
-                        "matchesLost": 9,
-                        "matchesDraw": 10,
-                        "goalsPro": 20,
-                        "goalsAgainst": 22,
                         "points": 34
                       }
                     ]
@@ -8184,18 +8184,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 92,
-                  "goalsAgainst": 119,
-                  "goalDifference": -27,
+                  "goalsFor": 94,
+                  "goalsAgainst": 122,
+                  "goalDifference": -28,
                   "lastSix": null,
-                  "relegationAverage": 1.12,
+                  "relegationAverage": 1.11,
                   "relegation": {
                     "played": 100,
-                    "points": 112,
-                    "average": 1.12,
-                    "goalsFor": 92,
-                    "goalsAgainst": 119,
-                    "goalDifference": -27,
+                    "points": 111,
+                    "average": 1.11,
+                    "goalsFor": 94,
+                    "goalsAgainst": 122,
+                    "goalDifference": -28,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -8230,11 +8230,11 @@
                         "name": "2026",
                         "matchesPlayed": 27,
                         "matchesWon": 6,
-                        "matchesLost": 11,
-                        "matchesDraw": 10,
-                        "goalsPro": 22,
-                        "goalsAgainst": 26,
-                        "points": 28
+                        "matchesLost": 12,
+                        "matchesDraw": 9,
+                        "goalsPro": 24,
+                        "goalsAgainst": 29,
+                        "points": 27
                       }
                     ]
                   }
@@ -8889,6 +8889,27 @@
                 {
                   "rank": 15,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 36,
+                  "played": 27,
+                  "won": 9,
+                  "drawn": 9,
+                  "lost": 9,
+                  "goalsFor": 23,
+                  "goalsAgainst": 24,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 16,
+                  "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
                   "clubName": "Gimnasia Mendoza",
@@ -8908,7 +8929,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 16,
+                  "rank": 17,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -8929,7 +8950,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 17,
+                  "rank": 18,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -8950,7 +8971,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 18,
+                  "rank": 19,
                   "rankStatus": null,
                   "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
                   "team": "CA Talleres",
@@ -8965,27 +8986,6 @@
                   "lost": 10,
                   "goalsFor": 28,
                   "goalsAgainst": 30,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 19,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": 34,
-                  "played": 27,
-                  "won": 8,
-                  "drawn": 10,
-                  "lost": 9,
-                  "goalsFor": 20,
-                  "goalsAgainst": 22,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -9084,14 +9084,14 @@
                   "shortName": "Atl. Tucumán",
                   "code": "TUC",
                   "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 28,
+                  "points": 27,
                   "played": 27,
                   "won": 6,
-                  "drawn": 10,
-                  "lost": 11,
-                  "goalsFor": 22,
-                  "goalsAgainst": 26,
-                  "goalDifference": "-4",
+                  "drawn": 9,
+                  "lost": 12,
+                  "goalsFor": 24,
+                  "goalsAgainst": 29,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9361,7 +9361,7 @@
                   "goalsFor": 13,
                   "goalsAgainst": 9,
                   "goalDifference": "+4",
-                  "lastSix": "WWWLDL",
+                  "lastSix": "DWWWLD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9382,7 +9382,7 @@
                   "goalsFor": 11,
                   "goalsAgainst": 8,
                   "goalDifference": "+3",
-                  "lastSix": "WDDDWW",
+                  "lastSix": "DWDDDW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9710,21 +9710,21 @@
                 {
                   "rank": 8,
                   "rankStatus": "8th Finals",
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 14,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 15,
                   "played": 11,
-                  "won": 3,
-                  "drawn": 5,
-                  "lost": 3,
-                  "goalsFor": 7,
-                  "goalsAgainst": 6,
-                  "goalDifference": "+1",
-                  "lastSix": "LLWDDW",
+                  "won": 4,
+                  "drawn": 3,
+                  "lost": 4,
+                  "goalsFor": 8,
+                  "goalsAgainst": 9,
+                  "goalDifference": "-1",
+                  "lastSix": "WLDDDL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9752,21 +9752,21 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
                   "points": 13,
                   "played": 11,
                   "won": 3,
                   "drawn": 4,
                   "lost": 4,
-                  "goalsFor": 5,
-                  "goalsAgainst": 7,
-                  "goalDifference": "-2",
-                  "lastSix": "LDDDLL",
+                  "goalsFor": 9,
+                  "goalsAgainst": 9,
+                  "goalDifference": "0",
+                  "lastSix": "LLLWDD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -10480,27 +10480,6 @@
                 {
                   "rank": 14,
                   "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 4,
-                  "played": 6,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 2,
-                  "goalsFor": 2,
-                  "goalsAgainst": 4,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 15,
-                  "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
                   "clubName": "Barracas Central",
@@ -10515,6 +10494,27 @@
                   "goalsFor": 2,
                   "goalsAgainst": 4,
                   "goalDifference": "-2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 15,
+                  "rankStatus": null,
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "points": 3,
+                  "played": 6,
+                  "won": 0,
+                  "drawn": 3,
+                  "lost": 3,
+                  "goalsFor": 4,
+                  "goalsAgainst": 7,
+                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -10851,6 +10851,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 11,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 2,
+                  "lost": 1,
+                  "goalsFor": 6,
+                  "goalsAgainst": 5,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
                   "clubName": "Atlético Tucumán",
@@ -10870,7 +10891,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 2,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
@@ -10886,27 +10907,6 @@
                   "goalsFor": 6,
                   "goalsAgainst": 4,
                   "goalDifference": "+2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 3,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": 9,
-                  "played": 6,
-                  "won": 2,
-                  "drawn": 3,
-                  "lost": 1,
-                  "goalsFor": 3,
-                  "goalsAgainst": 3,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11669,20 +11669,41 @@
                   "shortName": "Atl. Tucumán",
                   "code": "TUC",
                   "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 8,
+                  "points": 7,
                   "played": 6,
                   "won": 2,
-                  "drawn": 2,
-                  "lost": 2,
-                  "goalsFor": 4,
-                  "goalsAgainst": 4,
-                  "goalDifference": "0",
+                  "drawn": 1,
+                  "lost": 3,
+                  "goalsFor": 6,
+                  "goalsAgainst": 7,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
                 },
                 {
                   "rank": 10,
+                  "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 6,
+                  "played": 6,
+                  "won": 1,
+                  "drawn": 3,
+                  "lost": 2,
+                  "goalsFor": 5,
+                  "goalsAgainst": 6,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -11703,7 +11724,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -11718,27 +11739,6 @@
                   "lost": 3,
                   "goalsFor": 5,
                   "goalsAgainst": 7,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 12,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": 4,
-                  "played": 6,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 2,
-                  "goalsFor": 2,
-                  "goalsAgainst": 4,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -12376,14 +12376,14 @@
                   "shortName": "Atl. Tucumán",
                   "code": "TUC",
                   "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 2,
+                  "points": 1,
                   "played": 3,
                   "won": 0,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 1,
-                  "goalsAgainst": 2,
-                  "goalDifference": "-1",
+                  "drawn": 1,
+                  "lost": 2,
+                  "goalsFor": 3,
+                  "goalsAgainst": 5,
+                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12888,6 +12888,27 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 5,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 2,
+                  "lost": 0,
+                  "goalsFor": 4,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 7,
+                  "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
                   "clubName": "Huracán",
@@ -12907,7 +12928,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
@@ -12923,27 +12944,6 @@
                   "goalsFor": 2,
                   "goalsAgainst": 3,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": 3,
-                  "played": 3,
-                  "won": 0,
-                  "drawn": 3,
-                  "lost": 0,
-                  "goalsFor": 1,
-                  "goalsAgainst": 1,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13238,10 +13238,10 @@
                   "shortName": "Lanús",
                   "code": "LAN",
                   "logo": "assets/icons/escudos/lanus.svg",
-                  "points": 13,
-                  "played": 10,
+                  "points": 14,
+                  "played": 11,
                   "won": 2,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 1,
                   "goalsFor": 2,
                   "goalsAgainst": 1,
@@ -13358,6 +13358,27 @@
                 {
                   "rank": 13,
                   "rankStatus": null,
+                  "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
+                  "team": "CA Newell's Old Boys",
+                  "clubName": "Newell's Old Boys",
+                  "shortName": "Newell's",
+                  "code": "NOB",
+                  "logo": "assets/icons/escudos/newells.svg",
+                  "points": 8,
+                  "played": 11,
+                  "won": 1,
+                  "drawn": 5,
+                  "lost": 5,
+                  "goalsFor": 1,
+                  "goalsAgainst": 5,
+                  "goalDifference": "-4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 14,
+                  "rankStatus": null,
                   "teamId": "1x5i9dl7uyrh5o2th8ore61e6",
                   "team": "CA Central Córdoba",
                   "clubName": "Central Córdoba SdE",
@@ -13372,27 +13393,6 @@
                   "goalsFor": 1,
                   "goalsAgainst": 6,
                   "goalDifference": "-5",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 14,
-                  "rankStatus": null,
-                  "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
-                  "team": "CA Newell's Old Boys",
-                  "clubName": "Newell's Old Boys",
-                  "shortName": "Newell's",
-                  "code": "NOB",
-                  "logo": "assets/icons/escudos/newells.svg",
-                  "points": 7,
-                  "played": 10,
-                  "won": 1,
-                  "drawn": 4,
-                  "lost": 5,
-                  "goalsFor": 1,
-                  "goalsAgainst": 5,
-                  "goalDifference": "-4",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13532,6 +13532,27 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "points": 14,
+                  "played": 11,
+                  "won": 2,
+                  "drawn": 8,
+                  "lost": 1,
+                  "goalsFor": 2,
+                  "goalsAgainst": 1,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 7,
+                  "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
                   "clubName": "Aldosivi",
@@ -13551,7 +13572,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -13560,19 +13581,19 @@
                   "code": "BAC",
                   "logo": "assets/icons/escudos/barracas-central.svg",
                   "points": 13,
-                  "played": 10,
+                  "played": 11,
                   "won": 3,
                   "drawn": 4,
-                  "lost": 3,
+                  "lost": 4,
                   "goalsFor": 3,
-                  "goalsAgainst": 3,
-                  "goalDifference": "0",
+                  "goalsAgainst": 4,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -13593,7 +13614,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -13614,7 +13635,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
@@ -13635,7 +13656,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
@@ -13651,27 +13672,6 @@
                   "goalsFor": 2,
                   "goalsAgainst": 3,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 12,
-                  "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 11,
-                  "played": 10,
-                  "won": 1,
-                  "drawn": 8,
-                  "lost": 1,
-                  "goalsFor": 1,
-                  "goalsAgainst": 1,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14050,10 +14050,10 @@
                   "shortName": "Newell's",
                   "code": "NOB",
                   "logo": "assets/icons/escudos/newells.svg",
-                  "points": 3,
-                  "played": 5,
+                  "points": 4,
+                  "played": 6,
                   "won": 0,
-                  "drawn": 3,
+                  "drawn": 4,
                   "lost": 2,
                   "goalsFor": 0,
                   "goalsAgainst": 2,
@@ -14239,6 +14239,27 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "points": 7,
+                  "played": 6,
+                  "won": 1,
+                  "drawn": 4,
+                  "lost": 1,
+                  "goalsFor": 1,
+                  "goalsAgainst": 1,
+                  "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 10,
+                  "rankStatus": null,
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
                   "clubName": "Gimnasia La Plata",
@@ -14258,7 +14279,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
@@ -14279,7 +14300,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -14300,7 +14321,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -14315,27 +14336,6 @@
                   "lost": 2,
                   "goalsFor": 2,
                   "goalsAgainst": 3,
-                  "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 4,
-                  "played": 5,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 1,
-                  "goalsFor": 0,
-                  "goalsAgainst": 1,
                   "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -14478,6 +14478,27 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
+                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
+                  "team": "CA Lanús",
+                  "clubName": "Lanús",
+                  "shortName": "Lanús",
+                  "code": "LAN",
+                  "logo": "assets/icons/escudos/lanus.svg",
+                  "points": 7,
+                  "played": 5,
+                  "won": 1,
+                  "drawn": 4,
+                  "lost": 0,
+                  "goalsFor": 1,
+                  "goalsAgainst": 0,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
@@ -14492,27 +14513,6 @@
                   "goalsFor": 3,
                   "goalsAgainst": 4,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 6,
-                  "rankStatus": null,
-                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
-                  "team": "CA Lanús",
-                  "clubName": "Lanús",
-                  "shortName": "Lanús",
-                  "code": "LAN",
-                  "logo": "assets/icons/escudos/lanus.svg",
-                  "points": 6,
-                  "played": 4,
-                  "won": 1,
-                  "drawn": 3,
-                  "lost": 0,
-                  "goalsFor": 1,
-                  "goalsAgainst": 0,
-                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14869,13 +14869,13 @@
                   "code": "BAC",
                   "logo": "assets/icons/escudos/barracas-central.svg",
                   "points": 6,
-                  "played": 5,
+                  "played": 6,
                   "won": 1,
                   "drawn": 3,
-                  "lost": 1,
+                  "lost": 2,
                   "goalsFor": 1,
-                  "goalsAgainst": 1,
-                  "goalDifference": "0",
+                  "goalsAgainst": 2,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15206,27 +15206,6 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
-                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
-                  "team": "CA Lanús",
-                  "clubName": "Lanús",
-                  "shortName": "Lanús",
-                  "code": "LAN",
-                  "logo": "assets/icons/escudos/lanus.svg",
-                  "points": null,
-                  "played": 10,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 10,
-                  "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -15246,7 +15225,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
                   "team": "CA Independiente",
@@ -15267,7 +15246,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "1x5i9dl7uyrh5o2th8ore61e6",
                   "team": "CA Central Córdoba",
@@ -15288,14 +15267,35 @@
                   "relegation": null
                 },
                 {
+                  "rank": 12,
+                  "rankStatus": null,
+                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
+                  "team": "CA Lanús",
+                  "clubName": "Lanús",
+                  "shortName": "Lanús",
+                  "code": "LAN",
+                  "logo": "assets/icons/escudos/lanus.svg",
+                  "points": null,
+                  "played": 11,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
                   "rank": 13,
                   "rankStatus": null,
-                  "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
-                  "team": "CA Newell's Old Boys",
-                  "clubName": "Newell's Old Boys",
-                  "shortName": "Newell's",
-                  "code": "NOB",
-                  "logo": "assets/icons/escudos/newells.svg",
+                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
+                  "team": "CD Riestra",
+                  "clubName": "Deportivo Riestra",
+                  "shortName": "Riestra",
+                  "code": "RIE",
+                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
                   "points": null,
                   "played": 10,
                   "won": null,
@@ -15311,14 +15311,14 @@
                 {
                   "rank": 14,
                   "rankStatus": null,
-                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
-                  "team": "CD Riestra",
-                  "clubName": "Deportivo Riestra",
-                  "shortName": "Riestra",
-                  "code": "RIE",
-                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
+                  "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
+                  "team": "CA Newell's Old Boys",
+                  "clubName": "Newell's Old Boys",
+                  "shortName": "Newell's",
+                  "code": "NOB",
+                  "logo": "assets/icons/escudos/newells.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -16648,6 +16648,75 @@
                 {
                   "rank": 15,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": null,
+                  "played": 100,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": 97,
+                  "goalsAgainst": 107,
+                  "goalDifference": -10,
+                  "lastSix": null,
+                  "relegationAverage": 1.34,
+                  "relegation": {
+                    "played": 100,
+                    "points": 134,
+                    "average": 1.34,
+                    "goalsFor": 97,
+                    "goalsAgainst": 107,
+                    "goalDifference": -10,
+                    "seasons": [
+                      {
+                        "id": "534vuyemq3e4biv283g33zf2s",
+                        "startDate": "2024-01-25Z",
+                        "endDate": "2024-12-17Z",
+                        "name": "2024",
+                        "matchesPlayed": 41,
+                        "matchesWon": 11,
+                        "matchesLost": 14,
+                        "matchesDraw": 16,
+                        "goalsPro": 35,
+                        "goalsAgainst": 48,
+                        "points": 49
+                      },
+                      {
+                        "id": "3l4bzc8syz1ea2dnv453kp89g",
+                        "startDate": "2025-01-23Z",
+                        "endDate": "2025-12-14Z",
+                        "name": "2025",
+                        "matchesPlayed": 32,
+                        "matchesWon": 12,
+                        "matchesLost": 7,
+                        "matchesDraw": 13,
+                        "goalsPro": 39,
+                        "goalsAgainst": 35,
+                        "points": 49
+                      },
+                      {
+                        "id": "8v84l9nq3d5t0j4gb781i3llg",
+                        "startDate": "2026-01-22Z",
+                        "endDate": "2026-12-14Z",
+                        "name": "2026",
+                        "matchesPlayed": 27,
+                        "matchesWon": 9,
+                        "matchesLost": 9,
+                        "matchesDraw": 9,
+                        "goalsPro": 23,
+                        "goalsAgainst": 24,
+                        "points": 36
+                      }
+                    ]
+                  }
+                },
+                {
+                  "rank": 16,
+                  "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
                   "clubName": "Instituto",
@@ -16715,7 +16784,7 @@
                   }
                 },
                 {
-                  "rank": 16,
+                  "rank": 17,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -16778,75 +16847,6 @@
                         "matchesDraw": 7,
                         "goalsPro": 41,
                         "goalsAgainst": 39,
-                        "points": 34
-                      }
-                    ]
-                  }
-                },
-                {
-                  "rank": 17,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": null,
-                  "played": 100,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": 94,
-                  "goalsAgainst": 105,
-                  "goalDifference": -11,
-                  "lastSix": null,
-                  "relegationAverage": 1.32,
-                  "relegation": {
-                    "played": 100,
-                    "points": 132,
-                    "average": 1.32,
-                    "goalsFor": 94,
-                    "goalsAgainst": 105,
-                    "goalDifference": -11,
-                    "seasons": [
-                      {
-                        "id": "534vuyemq3e4biv283g33zf2s",
-                        "startDate": "2024-01-25Z",
-                        "endDate": "2024-12-17Z",
-                        "name": "2024",
-                        "matchesPlayed": 41,
-                        "matchesWon": 11,
-                        "matchesLost": 14,
-                        "matchesDraw": 16,
-                        "goalsPro": 35,
-                        "goalsAgainst": 48,
-                        "points": 49
-                      },
-                      {
-                        "id": "3l4bzc8syz1ea2dnv453kp89g",
-                        "startDate": "2025-01-23Z",
-                        "endDate": "2025-12-14Z",
-                        "name": "2025",
-                        "matchesPlayed": 32,
-                        "matchesWon": 12,
-                        "matchesLost": 7,
-                        "matchesDraw": 13,
-                        "goalsPro": 39,
-                        "goalsAgainst": 35,
-                        "points": 49
-                      },
-                      {
-                        "id": "8v84l9nq3d5t0j4gb781i3llg",
-                        "startDate": "2026-01-22Z",
-                        "endDate": "2026-12-14Z",
-                        "name": "2026",
-                        "matchesPlayed": 27,
-                        "matchesWon": 8,
-                        "matchesLost": 9,
-                        "matchesDraw": 10,
-                        "goalsPro": 20,
-                        "goalsAgainst": 22,
                         "points": 34
                       }
                     ]
@@ -17349,18 +17349,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 92,
-                  "goalsAgainst": 119,
-                  "goalDifference": -27,
+                  "goalsFor": 94,
+                  "goalsAgainst": 122,
+                  "goalDifference": -28,
                   "lastSix": null,
-                  "relegationAverage": 1.12,
+                  "relegationAverage": 1.11,
                   "relegation": {
                     "played": 100,
-                    "points": 112,
-                    "average": 1.12,
-                    "goalsFor": 92,
-                    "goalsAgainst": 119,
-                    "goalDifference": -27,
+                    "points": 111,
+                    "average": 1.11,
+                    "goalsFor": 94,
+                    "goalsAgainst": 122,
+                    "goalDifference": -28,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -17395,11 +17395,11 @@
                         "name": "2026",
                         "matchesPlayed": 27,
                         "matchesWon": 6,
-                        "matchesLost": 11,
-                        "matchesDraw": 10,
-                        "goalsPro": 22,
-                        "goalsAgainst": 26,
-                        "points": 28
+                        "matchesLost": 12,
+                        "matchesDraw": 9,
+                        "goalsPro": 24,
+                        "goalsAgainst": 29,
+                        "points": 27
                       }
                     ]
                   }
@@ -18054,6 +18054,27 @@
                 {
                   "rank": 15,
                   "rankStatus": null,
+                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
+                  "team": "CA Barracas Central",
+                  "clubName": "Barracas Central",
+                  "shortName": "Barracas",
+                  "code": "BAC",
+                  "logo": "assets/icons/escudos/barracas-central.svg",
+                  "points": 36,
+                  "played": 27,
+                  "won": 9,
+                  "drawn": 9,
+                  "lost": 9,
+                  "goalsFor": 23,
+                  "goalsAgainst": 24,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 16,
+                  "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
                   "clubName": "Gimnasia Mendoza",
@@ -18073,7 +18094,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 16,
+                  "rank": 17,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -18094,7 +18115,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 17,
+                  "rank": 18,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -18115,7 +18136,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 18,
+                  "rank": 19,
                   "rankStatus": null,
                   "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
                   "team": "CA Talleres",
@@ -18130,27 +18151,6 @@
                   "lost": 10,
                   "goalsFor": 28,
                   "goalsAgainst": 30,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 19,
-                  "rankStatus": null,
-                  "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
-                  "team": "CA Barracas Central",
-                  "clubName": "Barracas Central",
-                  "shortName": "Barracas",
-                  "code": "BAC",
-                  "logo": "assets/icons/escudos/barracas-central.svg",
-                  "points": 34,
-                  "played": 27,
-                  "won": 8,
-                  "drawn": 10,
-                  "lost": 9,
-                  "goalsFor": 20,
-                  "goalsAgainst": 22,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -18249,14 +18249,14 @@
                   "shortName": "Atl. Tucumán",
                   "code": "TUC",
                   "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 28,
+                  "points": 27,
                   "played": 27,
                   "won": 6,
-                  "drawn": 10,
-                  "lost": 11,
-                  "goalsFor": 22,
-                  "goalsAgainst": 26,
-                  "goalDifference": "-4",
+                  "drawn": 9,
+                  "lost": 12,
+                  "goalsFor": 24,
+                  "goalsAgainst": 29,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -36762,8 +36762,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "1n4ioqcbh1hemy9ezzu6v86n7",
         "name": "Defensa y Justicia",
@@ -36785,10 +36785,10 @@
         "logo": "assets/icons/escudos/san-lorenzo.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 0,
+        "htHome": 3,
+        "htAway": 0
       },
       "venue": {
         "id": "7yn4al2iw5uy16cdi0sd7wxmp",
@@ -36797,8 +36797,8 @@
         "lat": "-34.821765816",
         "lng": "-58.286536932"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 10
     },
     {
       "id": "1zmi2epkuc3i4272q80aqz504",
@@ -36807,7 +36807,7 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "3oj3koph7uf63y1f9zr8r7ylo",
@@ -36830,8 +36830,8 @@
         "logo": "assets/icons/escudos/lanus.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -36843,7 +36843,7 @@
         "lng": "-60.661547184"
       },
       "cardsCount": 0,
-      "substitutionsCount": 0
+      "substitutionsCount": 1
     },
     {
       "id": "22ccwady8wwrd44ojrbyio7is",
@@ -36852,7 +36852,7 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "6u0o1i04y2mnw2avru97sn970",
@@ -36875,8 +36875,8 @@
         "logo": "assets/icons/escudos/barracas-central.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -40806,7 +40806,7 @@
         "goalsFor": 22,
         "goalsAgainst": 26,
         "goalDifference": -4,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -40922,7 +40922,7 @@
         "goalsFor": 20,
         "goalsAgainst": 22,
         "goalDifference": -2,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -41147,16 +41147,23 @@
       "logo": "assets/icons/escudos/defensa-y-justicia.svg",
       "homeVenue": "Estadio Norberto Tito Tomaghello",
       "stats": {
-        "played": 26,
-        "won": 9,
+        "played": 27,
+        "won": 10,
         "drawn": 10,
         "lost": 7,
-        "goalsFor": 31,
+        "goalsFor": 34,
         "goalsAgainst": 32,
-        "goalDifference": -1,
-        "upcoming": 6
+        "goalDifference": 2,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "San Lorenzo",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-18",
           "stage": "Clausura",
@@ -41184,13 +41191,6 @@
           "home": "Def y Justicia",
           "away": "Platense",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Belgrano",
-          "away": "Def y Justicia",
-          "score": "1-2"
         }
       ]
     },
@@ -41734,7 +41734,7 @@
         "goalsFor": 31,
         "goalsAgainst": 26,
         "goalDifference": 5,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -41792,7 +41792,7 @@
         "goalsFor": 26,
         "goalsAgainst": 35,
         "goalDifference": -9,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -42075,16 +42075,23 @@
       "logo": "assets/icons/escudos/san-lorenzo.svg",
       "homeVenue": "Estadio Pedro Bidegaín",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 8,
         "drawn": 9,
-        "lost": 10,
+        "lost": 11,
         "goalsFor": 23,
-        "goalsAgainst": 28,
-        "goalDifference": -5,
-        "upcoming": 6
+        "goalsAgainst": 31,
+        "goalDifference": -8,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "San Lorenzo",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -42112,13 +42119,6 @@
           "home": "Instituto",
           "away": "San Lorenzo",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-21",
-          "stage": "Clausura",
-          "home": "Estudiantes RC",
-          "away": "San Lorenzo",
-          "score": "0-0"
         }
       ]
     },
