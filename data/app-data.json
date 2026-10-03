@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T07:57:16",
+  "generatedAt": "2026-10-03T13:15:52",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 406,
+    "played": 408,
     "fixtures": 87,
-    "playing": 2,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -36672,8 +36672,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "ciqt22ivoc48zj62detdyh1mm",
         "name": "Boca Juniors",
@@ -36695,7 +36695,7 @@
         "logo": "assets/icons/escudos/union.svg"
       },
       "score": {
-        "home": 1,
+        "home": 3,
         "away": 0,
         "htHome": 1,
         "htAway": 0
@@ -36707,8 +36707,8 @@
         "lat": "-34.635582546",
         "lng": "-58.364637494"
       },
-      "cardsCount": 6,
-      "substitutionsCount": 5
+      "cardsCount": 7,
+      "substitutionsCount": 9
     },
     {
       "id": "22toh05cn45h3t6b04xl5h0k4",
@@ -36717,8 +36717,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "8inprqnxjps9ckiamn3cfoo8v",
         "name": "Independiente Rivadavia",
@@ -36741,7 +36741,7 @@
       },
       "score": {
         "home": 1,
-        "away": 0,
+        "away": 1,
         "htHome": 1,
         "htAway": 0
       },
@@ -36752,8 +36752,8 @@
         "lat": "-32.890682564",
         "lng": "-68.863205910"
       },
-      "cardsCount": 2,
-      "substitutionsCount": 4
+      "cardsCount": 4,
+      "substitutionsCount": 10
     },
     {
       "id": "1y7dulbxgppjv5lg2i3ra3ifo",
@@ -41031,16 +41031,23 @@
       "logo": "assets/icons/escudos/boca.svg",
       "homeVenue": "Estadio Alberto José Armando",
       "stats": {
-        "played": 27,
-        "won": 12,
+        "played": 28,
+        "won": 13,
         "drawn": 11,
         "lost": 4,
-        "goalsFor": 38,
+        "goalsFor": 41,
         "goalsAgainst": 23,
-        "goalDifference": 15,
+        "goalDifference": 18,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-02",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Unión",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -41068,13 +41075,6 @@
           "home": "Boca",
           "away": "Lanús",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Boca",
-          "score": "1-1"
         }
       ]
     },
@@ -41379,16 +41379,23 @@
       "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
       "homeVenue": "Estadio Juan Carmelo Zerillo",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 14,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 10,
-        "goalsFor": 35,
-        "goalsAgainst": 36,
+        "goalsFor": 36,
+        "goalsAgainst": 37,
         "goalDifference": -1,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-02",
+          "stage": "Clausura",
+          "home": "Independiente",
+          "away": "GELP",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -41416,13 +41423,6 @@
           "home": "Rosario",
           "away": "GELP",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "GELP",
-          "away": "Gim Mendoza",
-          "score": "2-3"
         }
       ]
     },
@@ -41611,16 +41611,23 @@
       "logo": "assets/icons/escudos/independiente-rivadavia.svg",
       "homeVenue": "Estadio Bautista Gargantini",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 15,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 6,
-        "goalsFor": 44,
-        "goalsAgainst": 30,
+        "goalsFor": 45,
+        "goalsAgainst": 31,
         "goalDifference": 14,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-02",
+          "stage": "Clausura",
+          "home": "Independiente",
+          "away": "GELP",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-21",
           "stage": "Clausura",
@@ -41648,13 +41655,6 @@
           "home": "Independiente",
           "away": "Racing",
           "score": "3-1"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Independiente",
-          "score": "0-0"
         }
       ]
     },
@@ -42307,16 +42307,23 @@
       "logo": "assets/icons/escudos/union.svg",
       "homeVenue": "Estadio 15 de Abril",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 10,
         "drawn": 7,
-        "lost": 11,
+        "lost": 12,
         "goalsFor": 43,
-        "goalsAgainst": 39,
-        "goalDifference": 4,
+        "goalsAgainst": 42,
+        "goalDifference": 1,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-02",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Unión",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -42344,13 +42351,6 @@
           "home": "Unión",
           "away": "Sarmiento",
           "score": "4-1"
-        },
-        {
-          "date": "2026-08-21",
-          "stage": "Clausura",
-          "home": "Aldosivi",
-          "away": "Unión",
-          "score": "1-3"
         }
       ]
     },
