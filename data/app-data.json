@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:07:03",
+  "generatedAt": "2026-10-04T02:40:55",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 409,
+    "played": 411,
     "fixtures": 84,
-    "playing": 2,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-03T21:52:30Z",
+    "lastUpdated": "2026-10-04T01:15:42Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -15639,7 +15639,7 @@
                   "code": "TUC",
                   "logo": "assets/icons/escudos/atletico-tucuman.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15660,7 +15660,7 @@
                   "code": "BAC",
                   "logo": "assets/icons/escudos/barracas-central.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -36807,8 +36807,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "3oj3koph7uf63y1f9zr8r7ylo",
         "name": "Newell's Old Boys",
@@ -36832,8 +36832,8 @@
       "score": {
         "home": 0,
         "away": 0,
-        "htHome": null,
-        "htAway": null
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "cozbni460l1y5l86n00qvvujn",
@@ -36842,8 +36842,8 @@
         "lat": "-32.956041911",
         "lng": "-60.661547184"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 1
+      "cardsCount": 3,
+      "substitutionsCount": 9
     },
     {
       "id": "22ccwady8wwrd44ojrbyio7is",
@@ -36852,8 +36852,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "6u0o1i04y2mnw2avru97sn970",
         "name": "Atlético Tucumán",
@@ -36875,10 +36875,10 @@
         "logo": "assets/icons/escudos/barracas-central.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 3,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "2osa2lvmmngomafhkvn6j2pqw",
@@ -36887,8 +36887,8 @@
         "lat": "-26.812805970",
         "lng": "-65.199260116"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 9
     },
     {
       "id": "21qitpwx70p1mfyant2eckwlw",
@@ -40799,16 +40799,23 @@
       "logo": "assets/icons/escudos/atletico-tucuman.svg",
       "homeVenue": "Estadio Monumental Presidente José Fierro",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 6,
         "drawn": 9,
-        "lost": 11,
-        "goalsFor": 22,
-        "goalsAgainst": 26,
-        "goalDifference": -4,
+        "lost": 12,
+        "goalsFor": 24,
+        "goalsAgainst": 29,
+        "goalDifference": -5,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Atl. Tucumán",
+          "away": "Barracas",
+          "score": "2-3"
+        },
         {
           "date": "2026-09-21",
           "stage": "Clausura",
@@ -40835,13 +40842,6 @@
           "stage": "Clausura",
           "home": "Atl. Tucumán",
           "away": "Belgrano",
-          "score": "0-0"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "Atl. Tucumán",
-          "away": "Instituto",
           "score": "0-0"
         }
       ]
@@ -40915,16 +40915,23 @@
       "logo": "assets/icons/escudos/barracas-central.svg",
       "homeVenue": "Estadio Claudio Fabián Tapia",
       "stats": {
-        "played": 26,
-        "won": 8,
+        "played": 27,
+        "won": 9,
         "drawn": 9,
         "lost": 9,
-        "goalsFor": 20,
-        "goalsAgainst": 22,
-        "goalDifference": -2,
+        "goalsFor": 23,
+        "goalsAgainst": 24,
+        "goalDifference": -1,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Atl. Tucumán",
+          "away": "Barracas",
+          "score": "2-3"
+        },
         {
           "date": "2026-09-21",
           "stage": "Clausura",
@@ -40952,13 +40959,6 @@
           "home": "Tigre",
           "away": "Barracas",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Barracas",
-          "away": "Platense",
-          "score": "1-2"
         }
       ]
     },
@@ -41727,9 +41727,9 @@
       "logo": "assets/icons/escudos/lanus.svg",
       "homeVenue": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 11,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 9,
         "goalsFor": 31,
         "goalsAgainst": 26,
@@ -41737,6 +41737,13 @@
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Newell's",
+          "away": "Lanús",
+          "score": "0-0"
+        },
         {
           "date": "2026-09-21",
           "stage": "Clausura",
@@ -41764,13 +41771,6 @@
           "home": "Boca",
           "away": "Lanús",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-24",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Argentinos",
-          "score": "1-1"
         }
       ]
     },
@@ -41785,9 +41785,9 @@
       "logo": "assets/icons/escudos/newells.svg",
       "homeVenue": "Estadio Marcelo Alberto Bielsa",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 7,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 9,
         "goalsFor": 26,
         "goalsAgainst": 35,
@@ -41795,6 +41795,13 @@
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-03",
+          "stage": "Clausura",
+          "home": "Newell's",
+          "away": "Lanús",
+          "score": "0-0"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -41822,13 +41829,6 @@
           "home": "Estudiantes",
           "away": "Newell's",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "Newell's",
-          "away": "Banfield",
-          "score": "2-1"
         }
       ]
     },
