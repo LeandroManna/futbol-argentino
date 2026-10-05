@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:14:47",
+  "generatedAt": "2026-10-05T14:55:31",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 414,
+    "played": 415,
     "fixtures": 80,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -37032,8 +37032,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "40t5qm271m6s8i8r6hdlqdzv5",
         "name": "Estudiantes Río Cuarto",
@@ -37055,10 +37055,10 @@
         "logo": "assets/icons/escudos/racing.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 2,
+        "htHome": 0,
+        "htAway": 2
       },
       "venue": {
         "id": "dqqggu7niekw3hvjpn0gvmk33",
@@ -37067,8 +37067,8 @@
         "lat": "-33.114850422",
         "lng": "-64.347664118"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 7
     },
     {
       "id": "1yodn48vy6m9ul1xxxhgvovtg",
@@ -41321,16 +41321,23 @@
       "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
       "homeVenue": "Estadio Ciudad de Río Cuarto",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 2,
         "drawn": 5,
-        "lost": 19,
-        "goalsFor": 10,
-        "goalsAgainst": 37,
-        "goalDifference": -27,
+        "lost": 20,
+        "goalsFor": 11,
+        "goalsAgainst": 39,
+        "goalDifference": -28,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Estudiantes RC",
+          "away": "Racing",
+          "score": "1-2"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -41358,13 +41365,6 @@
           "home": "Huracán",
           "away": "Estudiantes RC",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-21",
-          "stage": "Clausura",
-          "home": "Estudiantes RC",
-          "away": "San Lorenzo",
-          "score": "0-0"
         }
       ]
     },
@@ -41901,16 +41901,23 @@
       "logo": "assets/icons/escudos/racing.svg",
       "homeVenue": "Estadio Presidente Juan Domingo Perón",
       "stats": {
-        "played": 28,
-        "won": 8,
+        "played": 29,
+        "won": 9,
         "drawn": 8,
         "lost": 12,
-        "goalsFor": 30,
-        "goalsAgainst": 33,
-        "goalDifference": -3,
+        "goalsFor": 32,
+        "goalsAgainst": 34,
+        "goalDifference": -2,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Estudiantes RC",
+          "away": "Racing",
+          "score": "1-2"
+        },
         {
           "date": "2026-09-18",
           "stage": "Clausura",
@@ -41938,13 +41945,6 @@
           "home": "Independiente",
           "away": "Racing",
           "score": "3-1"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Boca",
-          "score": "1-1"
         }
       ]
     },
