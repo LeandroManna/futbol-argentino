@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:30:35",
+  "generatedAt": "2026-10-05T06:14:47",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 412,
-    "fixtures": 82,
+    "played": 414,
+    "fixtures": 80,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-05T00:13:34Z",
+    "lastUpdated": "2026-10-05T02:24:37Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -6869,22 +6869,22 @@
                   "code": "RAC",
                   "logo": "assets/icons/escudos/racing.svg",
                   "points": null,
-                  "played": 99,
+                  "played": 100,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 136,
-                  "goalsAgainst": 101,
-                  "goalDifference": 35,
+                  "goalsFor": 138,
+                  "goalsAgainst": 102,
+                  "goalDifference": 36,
                   "lastSix": null,
-                  "relegationAverage": 1.535,
+                  "relegationAverage": 1.55,
                   "relegation": {
-                    "played": 99,
-                    "points": 152,
-                    "average": 1.535,
-                    "goalsFor": 136,
-                    "goalsAgainst": 101,
-                    "goalDifference": 35,
+                    "played": 100,
+                    "points": 155,
+                    "average": 1.55,
+                    "goalsFor": 138,
+                    "goalsAgainst": 102,
+                    "goalDifference": 36,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -6917,13 +6917,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 26,
-                        "matchesWon": 7,
+                        "matchesPlayed": 27,
+                        "matchesWon": 8,
                         "matchesLost": 11,
                         "matchesDraw": 8,
-                        "goalsPro": 28,
-                        "goalsAgainst": 31,
-                        "points": 29
+                        "goalsPro": 30,
+                        "goalsAgainst": 32,
+                        "points": 32
                       }
                     ]
                   }
@@ -8525,22 +8525,22 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": null,
-                  "played": 26,
+                  "played": 27,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 10,
-                  "goalsAgainst": 37,
-                  "goalDifference": -27,
+                  "goalsFor": 11,
+                  "goalsAgainst": 39,
+                  "goalDifference": -28,
                   "lastSix": null,
-                  "relegationAverage": 0.423,
+                  "relegationAverage": 0.407,
                   "relegation": {
-                    "played": 26,
+                    "played": 27,
                     "points": 11,
-                    "average": 0.423,
-                    "goalsFor": 10,
-                    "goalsAgainst": 37,
-                    "goalDifference": -27,
+                    "average": 0.407,
+                    "goalsFor": 11,
+                    "goalsAgainst": 39,
+                    "goalDifference": -28,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -8573,12 +8573,12 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 26,
+                        "matchesPlayed": 27,
                         "matchesWon": 2,
-                        "matchesLost": 19,
+                        "matchesLost": 20,
                         "matchesDraw": 5,
-                        "goalsPro": 10,
-                        "goalsAgainst": 37,
+                        "goalsPro": 11,
+                        "goalsAgainst": 39,
                         "points": 11
                       }
                     ]
@@ -9036,6 +9036,27 @@
                 {
                   "rank": 22,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 32,
+                  "played": 27,
+                  "won": 8,
+                  "drawn": 8,
+                  "lost": 11,
+                  "goalsFor": 30,
+                  "goalsAgainst": 32,
+                  "goalDifference": "-2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 23,
+                  "rankStatus": null,
                   "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
                   "team": "CA Newell's Old Boys",
                   "clubName": "Newell's Old Boys",
@@ -9050,27 +9071,6 @@
                   "goalsFor": 26,
                   "goalsAgainst": 35,
                   "goalDifference": "-9",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 23,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 29,
-                  "played": 26,
-                  "won": 7,
-                  "drawn": 8,
-                  "lost": 11,
-                  "goalsFor": 28,
-                  "goalsAgainst": 31,
-                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9211,13 +9211,13 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": 11,
-                  "played": 26,
+                  "played": 27,
                   "won": 2,
                   "drawn": 5,
-                  "lost": 19,
-                  "goalsFor": 10,
-                  "goalsAgainst": 37,
-                  "goalDifference": "-27",
+                  "lost": 20,
+                  "goalsFor": 11,
+                  "goalsAgainst": 39,
+                  "goalDifference": "-28",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9794,6 +9794,27 @@
                 {
                   "rank": 12,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 11,
+                  "played": 11,
+                  "won": 3,
+                  "drawn": 2,
+                  "lost": 6,
+                  "goalsFor": 13,
+                  "goalsAgainst": 17,
+                  "goalDifference": "-4",
+                  "lastSix": "WWLLLD",
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 13,
+                  "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
                   "clubName": "Banfield",
@@ -9813,7 +9834,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 13,
+                  "rank": 14,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -9834,27 +9855,6 @@
                   "relegation": null
                 },
                 {
-                  "rank": 14,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 8,
-                  "played": 10,
-                  "won": 2,
-                  "drawn": 2,
-                  "lost": 6,
-                  "goalsFor": 11,
-                  "goalsAgainst": 16,
-                  "goalDifference": "-5",
-                  "lastSix": "WLLLDL",
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
                   "rank": 15,
                   "rankStatus": null,
                   "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
@@ -9864,14 +9864,14 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": 6,
-                  "played": 10,
+                  "played": 11,
                   "won": 1,
                   "drawn": 3,
-                  "lost": 6,
-                  "goalsFor": 5,
-                  "goalsAgainst": 13,
-                  "goalDifference": "-8",
-                  "lastSix": "LLLDDL",
+                  "lost": 7,
+                  "goalsFor": 6,
+                  "goalsAgainst": 15,
+                  "goalDifference": "-9",
+                  "lastSix": "LLLLDD",
                   "relegationAverage": null,
                   "relegation": null
                 }
@@ -10445,13 +10445,13 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": 5,
-                  "played": 5,
+                  "played": 6,
                   "won": 1,
                   "drawn": 2,
-                  "lost": 2,
-                  "goalsFor": 1,
-                  "goalsAgainst": 3,
-                  "goalDifference": "-2",
+                  "lost": 3,
+                  "goalsFor": 2,
+                  "goalsAgainst": 5,
+                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11109,14 +11109,14 @@
                   "shortName": "Racing",
                   "code": "RAC",
                   "logo": "assets/icons/escudos/racing.svg",
-                  "points": 1,
-                  "played": 4,
-                  "won": 0,
+                  "points": 4,
+                  "played": 5,
+                  "won": 1,
                   "drawn": 1,
                   "lost": 3,
-                  "goalsFor": 3,
-                  "goalsAgainst": 7,
-                  "goalDifference": "-4",
+                  "goalsFor": 5,
+                  "goalsAgainst": 8,
+                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11663,6 +11663,27 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 7,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 3,
+                  "goalsFor": 9,
+                  "goalsAgainst": 10,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 10,
+                  "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
                   "clubName": "Atlético Tucumán",
@@ -11682,7 +11703,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -11703,7 +11724,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -11719,27 +11740,6 @@
                   "goalsFor": 9,
                   "goalsAgainst": 11,
                   "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 12,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 4,
-                  "played": 6,
-                  "won": 1,
-                  "drawn": 1,
-                  "lost": 4,
-                  "goalsFor": 8,
-                  "goalsAgainst": 11,
-                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11779,8 +11779,8 @@
                   "won": 0,
                   "drawn": 2,
                   "lost": 4,
-                  "goalsFor": 3,
-                  "goalsAgainst": 8,
+                  "goalsFor": 4,
+                  "goalsAgainst": 9,
                   "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -12444,8 +12444,8 @@
                   "won": 0,
                   "drawn": 1,
                   "lost": 2,
-                  "goalsFor": 0,
-                  "goalsAgainst": 3,
+                  "goalsFor": 1,
+                  "goalsAgainst": 4,
                   "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -12951,6 +12951,27 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 3,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 0,
+                  "lost": 2,
+                  "goalsFor": 4,
+                  "goalsAgainst": 6,
+                  "goalDifference": "-2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 10,
+                  "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
                   "clubName": "Sarmiento",
@@ -12970,7 +12991,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -12991,7 +13012,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
                   "team": "AA Estudiantes de Río Cuarto",
@@ -13012,7 +13033,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
@@ -13033,7 +13054,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 13,
+                  "rank": 14,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -13054,7 +13075,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 14,
+                  "rank": 15,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -13070,27 +13091,6 @@
                   "goalsFor": 4,
                   "goalsAgainst": 7,
                   "goalDifference": "-3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 15,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 0,
-                  "played": 3,
-                  "won": 0,
-                  "drawn": 0,
-                  "lost": 3,
-                  "goalsFor": 3,
-                  "goalsAgainst": 7,
-                  "goalDifference": "-4",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13700,19 +13700,19 @@
                 {
                   "rank": 14,
                   "rankStatus": null,
-                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
-                  "team": "AA Estudiantes de Río Cuarto",
-                  "clubName": "Estudiantes Río Cuarto",
-                  "shortName": "Estudiantes RC",
-                  "code": "ERC",
-                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
-                  "points": 8,
-                  "played": 10,
-                  "won": 0,
-                  "drawn": 8,
-                  "lost": 2,
-                  "goalsFor": 1,
-                  "goalsAgainst": 3,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 10,
+                  "played": 11,
+                  "won": 1,
+                  "drawn": 7,
+                  "lost": 3,
+                  "goalsFor": 7,
+                  "goalsAgainst": 9,
                   "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -13721,19 +13721,19 @@
                 {
                   "rank": 15,
                   "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 7,
-                  "played": 10,
+                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
+                  "team": "AA Estudiantes de Río Cuarto",
+                  "clubName": "Estudiantes Río Cuarto",
+                  "shortName": "Estudiantes RC",
+                  "code": "ERC",
+                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
+                  "points": 8,
+                  "played": 11,
                   "won": 0,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 3,
-                  "goalsFor": 5,
-                  "goalsAgainst": 9,
+                  "goalsFor": 1,
+                  "goalsAgainst": 5,
                   "goalDifference": "-4",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -14351,13 +14351,13 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": 4,
-                  "played": 5,
+                  "played": 6,
                   "won": 0,
                   "drawn": 4,
-                  "lost": 1,
+                  "lost": 2,
                   "goalsFor": 0,
-                  "goalsAgainst": 1,
-                  "goalDifference": "-1",
+                  "goalsAgainst": 3,
+                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14799,6 +14799,27 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 7,
+                  "played": 5,
+                  "won": 1,
+                  "drawn": 4,
+                  "lost": 0,
+                  "goalsFor": 4,
+                  "goalsAgainst": 2,
+                  "goalDifference": "+2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
                   "clubName": "Banfield",
@@ -14818,7 +14839,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
@@ -14839,7 +14860,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -14860,7 +14881,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -14881,7 +14902,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -14902,7 +14923,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
@@ -14923,7 +14944,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -14944,7 +14965,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -14960,27 +14981,6 @@
                   "goalsFor": 1,
                   "goalsAgainst": 3,
                   "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 4,
-                  "played": 4,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 0,
-                  "goalsFor": 2,
-                  "goalsAgainst": 2,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15401,14 +15401,14 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
-                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
-                  "team": "CA Banfield",
-                  "clubName": "Banfield",
-                  "shortName": "Banfield",
-                  "code": "BAN",
-                  "logo": "assets/icons/escudos/banfield.svg",
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15422,12 +15422,12 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
+                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
+                  "team": "CA Banfield",
+                  "clubName": "Banfield",
+                  "shortName": "Banfield",
+                  "code": "BAN",
+                  "logo": "assets/icons/escudos/banfield.svg",
                   "points": null,
                   "played": 10,
                   "won": null,
@@ -15548,14 +15548,14 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
-                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
-                  "team": "CA Rosario Central",
-                  "clubName": "Rosario Central",
-                  "shortName": "Rosario",
-                  "code": "ROS",
-                  "logo": "assets/icons/escudos/rosario-central.svg",
+                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
+                  "team": "AA Estudiantes de Río Cuarto",
+                  "clubName": "Estudiantes Río Cuarto",
+                  "shortName": "Estudiantes RC",
+                  "code": "ERC",
+                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15569,12 +15569,12 @@
                 {
                   "rank": 11,
                   "rankStatus": null,
-                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
-                  "team": "AA Estudiantes de Río Cuarto",
-                  "clubName": "Estudiantes Río Cuarto",
-                  "shortName": "Estudiantes RC",
-                  "code": "ERC",
-                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
+                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
+                  "team": "CA Rosario Central",
+                  "clubName": "Rosario Central",
+                  "shortName": "Rosario",
+                  "code": "ROS",
+                  "logo": "assets/icons/escudos/rosario-central.svg",
                   "points": null,
                   "played": 10,
                   "won": null,
@@ -16034,22 +16034,22 @@
                   "code": "RAC",
                   "logo": "assets/icons/escudos/racing.svg",
                   "points": null,
-                  "played": 99,
+                  "played": 100,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 136,
-                  "goalsAgainst": 101,
-                  "goalDifference": 35,
+                  "goalsFor": 138,
+                  "goalsAgainst": 102,
+                  "goalDifference": 36,
                   "lastSix": null,
-                  "relegationAverage": 1.535,
+                  "relegationAverage": 1.55,
                   "relegation": {
-                    "played": 99,
-                    "points": 152,
-                    "average": 1.535,
-                    "goalsFor": 136,
-                    "goalsAgainst": 101,
-                    "goalDifference": 35,
+                    "played": 100,
+                    "points": 155,
+                    "average": 1.55,
+                    "goalsFor": 138,
+                    "goalsAgainst": 102,
+                    "goalDifference": 36,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -16082,13 +16082,13 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 26,
-                        "matchesWon": 7,
+                        "matchesPlayed": 27,
+                        "matchesWon": 8,
                         "matchesLost": 11,
                         "matchesDraw": 8,
-                        "goalsPro": 28,
-                        "goalsAgainst": 31,
-                        "points": 29
+                        "goalsPro": 30,
+                        "goalsAgainst": 32,
+                        "points": 32
                       }
                     ]
                   }
@@ -17690,22 +17690,22 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": null,
-                  "played": 26,
+                  "played": 27,
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 10,
-                  "goalsAgainst": 37,
-                  "goalDifference": -27,
+                  "goalsFor": 11,
+                  "goalsAgainst": 39,
+                  "goalDifference": -28,
                   "lastSix": null,
-                  "relegationAverage": 0.423,
+                  "relegationAverage": 0.407,
                   "relegation": {
-                    "played": 26,
+                    "played": 27,
                     "points": 11,
-                    "average": 0.423,
-                    "goalsFor": 10,
-                    "goalsAgainst": 37,
-                    "goalDifference": -27,
+                    "average": 0.407,
+                    "goalsFor": 11,
+                    "goalsAgainst": 39,
+                    "goalDifference": -28,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -17738,12 +17738,12 @@
                         "startDate": "2026-01-22Z",
                         "endDate": "2026-12-14Z",
                         "name": "2026",
-                        "matchesPlayed": 26,
+                        "matchesPlayed": 27,
                         "matchesWon": 2,
-                        "matchesLost": 19,
+                        "matchesLost": 20,
                         "matchesDraw": 5,
-                        "goalsPro": 10,
-                        "goalsAgainst": 37,
+                        "goalsPro": 11,
+                        "goalsAgainst": 39,
                         "points": 11
                       }
                     ]
@@ -18201,6 +18201,27 @@
                 {
                   "rank": 22,
                   "rankStatus": null,
+                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
+                  "team": "Racing Club",
+                  "clubName": "Racing Club",
+                  "shortName": "Racing",
+                  "code": "RAC",
+                  "logo": "assets/icons/escudos/racing.svg",
+                  "points": 32,
+                  "played": 27,
+                  "won": 8,
+                  "drawn": 8,
+                  "lost": 11,
+                  "goalsFor": 30,
+                  "goalsAgainst": 32,
+                  "goalDifference": "-2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 23,
+                  "rankStatus": null,
                   "teamId": "3oj3koph7uf63y1f9zr8r7ylo",
                   "team": "CA Newell's Old Boys",
                   "clubName": "Newell's Old Boys",
@@ -18215,27 +18236,6 @@
                   "goalsFor": 26,
                   "goalsAgainst": 35,
                   "goalDifference": "-9",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 23,
-                  "rankStatus": null,
-                  "teamId": "39acfbxikh52o6y9opfb0q0nb",
-                  "team": "Racing Club",
-                  "clubName": "Racing Club",
-                  "shortName": "Racing",
-                  "code": "RAC",
-                  "logo": "assets/icons/escudos/racing.svg",
-                  "points": 29,
-                  "played": 26,
-                  "won": 7,
-                  "drawn": 8,
-                  "lost": 11,
-                  "goalsFor": 28,
-                  "goalsAgainst": 31,
-                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -18376,13 +18376,13 @@
                   "code": "ERC",
                   "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": 11,
-                  "played": 26,
+                  "played": 27,
                   "won": 2,
                   "drawn": 5,
-                  "lost": 19,
-                  "goalsFor": 10,
-                  "goalsAgainst": 37,
-                  "goalDifference": "-27",
+                  "lost": 20,
+                  "goalsFor": 11,
+                  "goalsAgainst": 39,
+                  "goalDifference": "-28",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -36942,8 +36942,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "ajeh0pq7dtphe0btz4wc4xb0g",
         "name": "Talleres de Córdoba",
@@ -36978,7 +36978,7 @@
         "lng": "-64.246051311"
       },
       "cardsCount": 6,
-      "substitutionsCount": 7
+      "substitutionsCount": 8
     },
     {
       "id": "23rxh9qy84rlza4vhjkp5kiz8",
@@ -36987,8 +36987,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "7tev5pifn8hdy4vlts0coha1b",
         "name": "Argentinos Juniors",
@@ -37010,10 +37010,10 @@
         "logo": "assets/icons/escudos/tigre.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 1,
+        "htHome": 2,
+        "htAway": 0
       },
       "venue": {
         "id": "dvkiycglynkq2xlamwy8dzf6f",
@@ -37022,8 +37022,8 @@
         "lat": "-34.606119915",
         "lng": "-58.472607136"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 8
     },
     {
       "id": "20oyxpx6ldnlnsptr74xa4p3o",
@@ -37032,7 +37032,7 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "40t5qm271m6s8i8r6hdlqdzv5",
@@ -37055,8 +37055,8 @@
         "logo": "assets/icons/escudos/racing.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -40741,16 +40741,23 @@
       "logo": "assets/icons/escudos/argentinos.svg",
       "homeVenue": "Estadio Diego Armando Maradona",
       "stats": {
-        "played": 29,
-        "won": 15,
+        "played": 30,
+        "won": 16,
         "drawn": 8,
         "lost": 6,
-        "goalsFor": 37,
-        "goalsAgainst": 27,
-        "goalDifference": 10,
-        "upcoming": 6
+        "goalsFor": 39,
+        "goalsAgainst": 28,
+        "goalDifference": 11,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Argentinos",
+          "away": "Tigre",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -40778,13 +40785,6 @@
           "home": "Argentinos",
           "away": "Aldosivi",
           "score": "2-1"
-        },
-        {
-          "date": "2026-08-24",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Argentinos",
-          "score": "1-1"
         }
       ]
     },
@@ -40973,16 +40973,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 30,
-        "won": 15,
+        "played": 31,
+        "won": 16,
         "drawn": 9,
         "lost": 6,
-        "goalsFor": 39,
+        "goalsFor": 40,
         "goalsAgainst": 26,
-        "goalDifference": 13,
+        "goalDifference": 14,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Belgrano",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -41010,13 +41017,6 @@
           "home": "Atl. Tucumán",
           "away": "Belgrano",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Belgrano",
-          "away": "Def y Justicia",
-          "score": "1-2"
         }
       ]
     },
@@ -41328,7 +41328,7 @@
         "goalsFor": 10,
         "goalsAgainst": 37,
         "goalDifference": -27,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -41908,7 +41908,7 @@
         "goalsFor": 30,
         "goalsAgainst": 33,
         "goalDifference": -3,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -42191,16 +42191,23 @@
       "logo": "assets/icons/escudos/talleres.svg",
       "homeVenue": "Estadio Mario Alberto Kempes",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 9,
         "drawn": 7,
-        "lost": 11,
+        "lost": 12,
         "goalsFor": 28,
-        "goalsAgainst": 31,
-        "goalDifference": -3,
+        "goalsAgainst": 32,
+        "goalDifference": -4,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Belgrano",
+          "score": "0-1"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -42228,13 +42235,6 @@
           "home": "Talleres",
           "away": "Córdoba SdE",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-24",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Rosario",
-          "score": "2-2"
         }
       ]
     },
@@ -42249,16 +42249,23 @@
       "logo": "assets/icons/escudos/tigre.svg",
       "homeVenue": "Estadio José Dellagiovanna",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 7,
         "drawn": 11,
-        "lost": 8,
-        "goalsFor": 27,
-        "goalsAgainst": 24,
-        "goalDifference": 3,
-        "upcoming": 6
+        "lost": 9,
+        "goalsFor": 28,
+        "goalsAgainst": 26,
+        "goalDifference": 2,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-04",
+          "stage": "Clausura",
+          "home": "Argentinos",
+          "away": "Tigre",
+          "score": "2-1"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -42286,13 +42293,6 @@
           "home": "Tigre",
           "away": "Barracas",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-24",
-          "stage": "Clausura",
-          "home": "Tigre",
-          "away": "Córdoba SdE",
-          "score": "2-1"
         }
       ]
     },
