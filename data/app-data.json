@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:05:45",
+  "generatedAt": "2026-10-06T08:59:34",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 416,
-    "fixtures": 79,
-    "playing": 0,
+    "played": 418,
+    "fixtures": 76,
+    "playing": 1,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-06T02:01:03Z",
+    "lastUpdated": "2026-10-06T02:12:04Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -9619,7 +9619,7 @@
                   "goalsFor": 12,
                   "goalsAgainst": 9,
                   "goalDifference": "+3",
-                  "lastSix": "WWDLDW",
+                  "lastSix": "DWWDLD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9829,7 +9829,7 @@
                   "goalsFor": 12,
                   "goalsAgainst": 17,
                   "goalDifference": "-5",
-                  "lastSix": "DDLLLW",
+                  "lastSix": "DDDLLL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -13497,13 +13497,13 @@
                   "code": "ROS",
                   "logo": "assets/icons/escudos/rosario-central.svg",
                   "points": 16,
-                  "played": 10,
+                  "played": 11,
                   "won": 4,
                   "drawn": 4,
-                  "lost": 2,
+                  "lost": 3,
                   "goalsFor": 4,
-                  "goalsAgainst": 2,
-                  "goalDifference": "+2",
+                  "goalsAgainst": 3,
+                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13532,6 +13532,27 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
+                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
+                  "team": "CA Banfield",
+                  "clubName": "Banfield",
+                  "shortName": "Banfield",
+                  "code": "BAN",
+                  "logo": "assets/icons/escudos/banfield.svg",
+                  "points": 15,
+                  "played": 11,
+                  "won": 3,
+                  "drawn": 6,
+                  "lost": 2,
+                  "goalsFor": 4,
+                  "goalsAgainst": 5,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 7,
+                  "rankStatus": null,
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
                   "clubName": "Gimnasia La Plata",
@@ -13551,7 +13572,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
@@ -13572,7 +13593,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -13593,7 +13614,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -13614,7 +13635,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -13635,7 +13656,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -13651,27 +13672,6 @@
                   "goalsFor": 4,
                   "goalsAgainst": 4,
                   "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 12,
-                  "rankStatus": null,
-                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
-                  "team": "CA Banfield",
-                  "clubName": "Banfield",
-                  "shortName": "Banfield",
-                  "code": "BAN",
-                  "logo": "assets/icons/escudos/banfield.svg",
-                  "points": 12,
-                  "played": 10,
-                  "won": 2,
-                  "drawn": 6,
-                  "lost": 2,
-                  "goalsFor": 3,
-                  "goalsAgainst": 5,
-                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14176,6 +14176,27 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
+                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
+                  "team": "CA Banfield",
+                  "clubName": "Banfield",
+                  "shortName": "Banfield",
+                  "code": "BAN",
+                  "logo": "assets/icons/escudos/banfield.svg",
+                  "points": 8,
+                  "played": 5,
+                  "won": 2,
+                  "drawn": 2,
+                  "lost": 1,
+                  "goalsFor": 2,
+                  "goalsAgainst": 2,
+                  "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 7,
+                  "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
                   "clubName": "Belgrano",
@@ -14195,7 +14216,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -14216,7 +14237,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -14237,7 +14258,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -14258,7 +14279,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 10,
+                  "rank": 11,
                   "rankStatus": null,
                   "teamId": "cs3122cdx3g2nviltzfilmz5c",
                   "team": "CA Tigre",
@@ -14279,7 +14300,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
@@ -14300,7 +14321,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
@@ -14315,27 +14336,6 @@
                   "lost": 1,
                   "goalsFor": 2,
                   "goalsAgainst": 3,
-                  "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
-                  "team": "CA Banfield",
-                  "clubName": "Banfield",
-                  "shortName": "Banfield",
-                  "code": "BAN",
-                  "logo": "assets/icons/escudos/banfield.svg",
-                  "points": 5,
-                  "played": 4,
-                  "won": 1,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 1,
-                  "goalsAgainst": 2,
                   "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -14757,27 +14757,6 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
-                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
-                  "team": "CA Rosario Central",
-                  "clubName": "Rosario Central",
-                  "shortName": "Rosario",
-                  "code": "ROS",
-                  "logo": "assets/icons/escudos/rosario-central.svg",
-                  "points": 7,
-                  "played": 5,
-                  "won": 2,
-                  "drawn": 1,
-                  "lost": 2,
-                  "goalsFor": 2,
-                  "goalsAgainst": 2,
-                  "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 4,
-                  "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
                   "clubName": "Huracán",
@@ -14789,6 +14768,27 @@
                   "won": 2,
                   "drawn": 1,
                   "lost": 2,
+                  "goalsFor": 2,
+                  "goalsAgainst": 3,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 4,
+                  "rankStatus": null,
+                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
+                  "team": "CA Rosario Central",
+                  "clubName": "Rosario Central",
+                  "shortName": "Rosario",
+                  "code": "ROS",
+                  "logo": "assets/icons/escudos/rosario-central.svg",
+                  "points": 7,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 3,
                   "goalsFor": 2,
                   "goalsAgainst": 3,
                   "goalDifference": "-1",
@@ -15422,27 +15422,6 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
-                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
-                  "team": "CA Banfield",
-                  "clubName": "Banfield",
-                  "shortName": "Banfield",
-                  "code": "BAN",
-                  "logo": "assets/icons/escudos/banfield.svg",
-                  "points": null,
-                  "played": 10,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 5,
-                  "rankStatus": null,
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
                   "clubName": "Independiente Rivadavia",
@@ -15462,7 +15441,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "daclh04s6dduu6f9yw7fm8w6r",
                   "team": "CA Aldosivi",
@@ -15470,6 +15449,27 @@
                   "shortName": "Aldosivi",
                   "code": "ALD",
                   "logo": "assets/icons/escudos/aldosivi.svg",
+                  "points": null,
+                  "played": 11,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
+                  "teamId": "3lbqswe4h5wyrayjt580zmujx",
+                  "team": "CA Banfield",
+                  "clubName": "Banfield",
+                  "shortName": "Banfield",
+                  "code": "BAN",
+                  "logo": "assets/icons/escudos/banfield.svg",
                   "points": null,
                   "played": 11,
                   "won": null,
@@ -15548,12 +15548,12 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
-                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
-                  "team": "AA Estudiantes de Río Cuarto",
-                  "clubName": "Estudiantes Río Cuarto",
-                  "shortName": "Estudiantes RC",
-                  "code": "ERC",
-                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
+                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
+                  "team": "CA Rosario Central",
+                  "clubName": "Rosario Central",
+                  "shortName": "Rosario",
+                  "code": "ROS",
+                  "logo": "assets/icons/escudos/rosario-central.svg",
                   "points": null,
                   "played": 11,
                   "won": null,
@@ -15569,14 +15569,14 @@
                 {
                   "rank": 11,
                   "rankStatus": null,
-                  "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
-                  "team": "CA Rosario Central",
-                  "clubName": "Rosario Central",
-                  "shortName": "Rosario",
-                  "code": "ROS",
-                  "logo": "assets/icons/escudos/rosario-central.svg",
+                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
+                  "team": "AA Estudiantes de Río Cuarto",
+                  "clubName": "Estudiantes Río Cuarto",
+                  "shortName": "Estudiantes RC",
+                  "code": "ERC",
+                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": null,
-                  "played": 10,
+                  "played": 11,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -37122,8 +37122,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "91j32z6ga16tjj140ss2i24mt",
         "name": "Estudiantes",
@@ -37145,10 +37145,10 @@
         "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "vn5vp3t9a1xlbus4ver0uv2t",
@@ -37157,8 +37157,8 @@
         "lat": "-34.912029914",
         "lng": "-57.938954830"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 10
     },
     {
       "id": "205ess4m5lbqerv15w8zz3zmc",
@@ -37167,8 +37167,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
         "name": "Vélez Sarsfield",
@@ -37190,10 +37190,10 @@
         "logo": "assets/icons/escudos/platense.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "86tjf697g6ddl07i419fn27wl",
@@ -37202,8 +37202,8 @@
         "lat": "-34.635357444",
         "lng": "-58.520666957"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 2,
+      "substitutionsCount": 8
     },
     {
       "id": "23axvx0d1pik1gdlqmvpi000k",
@@ -37212,7 +37212,7 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "3lbqswe4h5wyrayjt580zmujx",
@@ -37235,10 +37235,10 @@
         "logo": "assets/icons/escudos/rosario-central.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "95k4bnosgpfbg3a6ivxaz26xw",
@@ -37247,8 +37247,8 @@
         "lat": "-34.750877816",
         "lng": "-58.387538195"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 7
     },
     {
       "id": "2ag75pzh6s9gvtnlqrq8ztv6c",
@@ -40864,7 +40864,7 @@
         "goalsFor": 28,
         "goalsAgainst": 35,
         "goalDifference": -7,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -41263,16 +41263,23 @@
       "logo": "assets/icons/escudos/estudiantes.svg",
       "homeVenue": "Estadio Jorge Luis Hirschi",
       "stats": {
-        "played": 27,
-        "won": 12,
+        "played": 28,
+        "won": 13,
         "drawn": 5,
         "lost": 10,
-        "goalsFor": 29,
+        "goalsFor": 32,
         "goalsAgainst": 19,
-        "goalDifference": 10,
-        "upcoming": 6
+        "goalDifference": 13,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "Gim Mendoza",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-21",
           "stage": "Clausura",
@@ -41300,13 +41307,6 @@
           "home": "Estudiantes",
           "away": "Newell's",
           "score": "0-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Sarmiento",
-          "away": "Estudiantes",
-          "score": "2-0"
         }
       ]
     },
@@ -41437,16 +41437,23 @@
       "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
       "homeVenue": "Estadio Víctor Antonio Legrotaglie",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 10,
         "drawn": 6,
-        "lost": 10,
+        "lost": 11,
         "goalsFor": 28,
-        "goalsAgainst": 31,
-        "goalDifference": -3,
-        "upcoming": 6
+        "goalsAgainst": 34,
+        "goalDifference": -6,
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "Gim Mendoza",
+          "score": "3-0"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -41474,13 +41481,6 @@
           "home": "Independiente",
           "away": "Gim Mendoza",
           "score": "0-3"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "GELP",
-          "away": "Gim Mendoza",
-          "score": "2-3"
         }
       ]
     },
@@ -41843,16 +41843,23 @@
       "logo": "assets/icons/escudos/platense.svg",
       "homeVenue": "Estadio Ciudad de Vicente López",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 5,
-        "drawn": 10,
+        "drawn": 11,
         "lost": 11,
-        "goalsFor": 19,
-        "goalsAgainst": 30,
+        "goalsFor": 21,
+        "goalsAgainst": 32,
         "goalDifference": -11,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Platense",
+          "score": "2-2"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -41880,13 +41887,6 @@
           "home": "Def y Justicia",
           "away": "Platense",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "Barracas",
-          "away": "Platense",
-          "score": "1-2"
         }
       ]
     },
@@ -42024,7 +42024,7 @@
         "goalsFor": 36,
         "goalsAgainst": 27,
         "goalDifference": 9,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
         {
@@ -42365,16 +42365,23 @@
       "logo": "assets/icons/escudos/velez.svg",
       "homeVenue": "Estadio José Amalfitani",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 12,
-        "drawn": 12,
+        "drawn": 13,
         "lost": 3,
-        "goalsFor": 33,
-        "goalsAgainst": 22,
+        "goalsFor": 35,
+        "goalsAgainst": 24,
         "goalDifference": 11,
-        "upcoming": 6
+        "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Platense",
+          "score": "2-2"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -42402,13 +42409,6 @@
           "home": "Riestra",
           "away": "Vélez",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "River",
-          "away": "Vélez",
-          "score": "2-2"
         }
       ]
     }
