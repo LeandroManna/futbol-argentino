@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:59:34",
+  "generatedAt": "2026-10-06T15:50:47",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 418,
+    "played": 419,
     "fixtures": 76,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -37212,8 +37212,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "3lbqswe4h5wyrayjt580zmujx",
         "name": "Banfield",
@@ -37248,7 +37248,7 @@
         "lng": "-58.387538195"
       },
       "cardsCount": 4,
-      "substitutionsCount": 7
+      "substitutionsCount": 9
     },
     {
       "id": "2ag75pzh6s9gvtnlqrq8ztv6c",
@@ -40857,16 +40857,23 @@
       "logo": "assets/icons/escudos/banfield.svg",
       "homeVenue": "Estadio Florencio Solá",
       "stats": {
-        "played": 26,
+        "played": 27,
         "won": 7,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 13,
-        "goalsFor": 28,
-        "goalsAgainst": 35,
+        "goalsFor": 29,
+        "goalsAgainst": 36,
         "goalDifference": -7,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Banfield",
+          "away": "Rosario",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -40894,13 +40901,6 @@
           "home": "Banfield",
           "away": "River",
           "score": "2-3"
-        },
-        {
-          "date": "2026-08-22",
-          "stage": "Clausura",
-          "home": "Newell's",
-          "away": "Banfield",
-          "score": "2-1"
         }
       ]
     },
@@ -42017,16 +42017,23 @@
       "logo": "assets/icons/escudos/rosario-central.svg",
       "homeVenue": "Estadio Gigante de Arroyito",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 15,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 7,
-        "goalsFor": 36,
-        "goalsAgainst": 27,
+        "goalsFor": 37,
+        "goalsAgainst": 28,
         "goalDifference": 9,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-05",
+          "stage": "Clausura",
+          "home": "Banfield",
+          "away": "Rosario",
+          "score": "1-1"
+        },
         {
           "date": "2026-09-20",
           "stage": "Clausura",
@@ -42054,13 +42061,6 @@
           "home": "Rosario",
           "away": "GELP",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-24",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Rosario",
-          "score": "2-2"
         }
       ]
     },
