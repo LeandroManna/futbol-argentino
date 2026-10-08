@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:02:29",
+  "generatedAt": "2026-10-08T18:51:13",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-07T01:13:54Z",
+    "lastUpdated": "2026-10-08T17:03:22Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -37971,504 +37971,9 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2bx98m0k2nijy13hmj1xt515g",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "39acfbxikh52o6y9opfb0q0nb",
-        "name": "Racing Club",
-        "clubName": "Racing Club",
-        "shortName": "Racing",
-        "officialName": "Racing Club",
-        "code": "RAC",
-        "nickname": "La Academia",
-        "logo": "assets/icons/escudos/racing.svg"
-      },
-      "away": {
-        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
-        "name": "Independiente",
-        "clubName": "Independiente",
-        "shortName": "Independiente",
-        "officialName": "CA Independiente",
-        "code": "CAI",
-        "nickname": "El Rojo de Avellaneda",
-        "logo": "assets/icons/escudos/independiente.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "2y66786gtjefwc1uqfda4wfqe",
-        "name": "Estadio Presidente Juan Domingo Perón",
-        "shortName": "Estadio Presidente Juan Domingo Perón",
-        "lat": "-34.667479030",
-        "lng": "-58.368574977"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2choc993l7c2q76yrqin8fzmc",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "ciqt22ivoc48zj62detdyh1mm",
-        "name": "Boca Juniors",
-        "clubName": "Boca Juniors",
-        "shortName": "Boca",
-        "officialName": "CA Boca Juniors",
-        "code": "BOC",
-        "nickname": "Xeneize",
-        "logo": "assets/icons/escudos/boca.svg"
-      },
-      "away": {
-        "id": "ajeh0pq7dtphe0btz4wc4xb0g",
-        "name": "Talleres de Córdoba",
-        "clubName": "Talleres de Córdoba",
-        "shortName": "Talleres",
-        "officialName": "CA Talleres",
-        "code": "TAL",
-        "nickname": "La T",
-        "logo": "assets/icons/escudos/talleres.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "6nan0as2jh7b0oex8qew6y5oi",
-        "name": "Estadio Alberto José Armando",
-        "shortName": "Estadio Alberto José Armando",
-        "lat": "-34.635582546",
-        "lng": "-58.364637494"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2d225wqrwvp6joym49chcbpjo",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "1n4ioqcbh1hemy9ezzu6v86n7",
-        "name": "Defensa y Justicia",
-        "clubName": "Defensa y Justicia",
-        "shortName": "Def y Justicia",
-        "officialName": "CSD Defensa y Justicia",
-        "code": "DYJ",
-        "nickname": "El Halcón",
-        "logo": "assets/icons/escudos/defensa-y-justicia.svg"
-      },
-      "away": {
-        "id": "2zjoq67ogz8lmaoesxkubxhp6",
-        "name": "Instituto",
-        "clubName": "Instituto",
-        "shortName": "Instituto",
-        "officialName": "Instituto AC Córdoba",
-        "code": "INS",
-        "nickname": null,
-        "logo": "assets/icons/escudos/instituto.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "7yn4al2iw5uy16cdi0sd7wxmp",
-        "name": "Estadio Norberto Tito Tomaghello",
-        "shortName": "Estadio Norberto Tito Tomaghello",
-        "lat": "-34.821765816",
-        "lng": "-58.286536932"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2dlvoaxoj9q81denb2ssi1s0k",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "7gcwwr8m5docs6jqrn2stilie",
-        "name": "Deportivo Riestra",
-        "clubName": "Deportivo Riestra",
-        "shortName": "Riestra",
-        "officialName": "CD Riestra",
-        "code": "RIE",
-        "nickname": null,
-        "logo": "assets/icons/escudos/deportivo-riestra.svg"
-      },
-      "away": {
-        "id": "5o5wtxn03ktvxcdrpxht5aqdp",
-        "name": "Unión",
-        "clubName": "Unión",
-        "shortName": "Unión",
-        "officialName": "CA Unión",
-        "code": "UNI",
-        "nickname": "El Tatengue",
-        "logo": "assets/icons/escudos/union.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "6s1u527fe4sgbs578h4fsfq05",
-        "name": "Estadio Guillermo Laza",
-        "shortName": "Estadio Guillermo Laza",
-        "lat": "-34.653332768",
-        "lng": "-58.443446159"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2e2s9ijbjq87n1sfm0y8611xw",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "91j32z6ga16tjj140ss2i24mt",
-        "name": "Estudiantes",
-        "clubName": "Estudiantes",
-        "shortName": "Estudiantes",
-        "officialName": "Club Estudiantes de La Plata",
-        "code": "EST",
-        "nickname": "Pincharrata",
-        "logo": "assets/icons/escudos/estudiantes.svg"
-      },
-      "away": {
-        "id": "2sciofe2reang4qdncm1bihgr",
-        "name": "San Lorenzo",
-        "clubName": "San Lorenzo",
-        "shortName": "San Lorenzo",
-        "officialName": "CA San Lorenzo de Almagro",
-        "code": "SLO",
-        "nickname": "Cuervo",
-        "logo": "assets/icons/escudos/san-lorenzo.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "vn5vp3t9a1xlbus4ver0uv2t",
-        "name": "Estadio Jorge Luis Hirschi",
-        "shortName": "Estadio Jorge Luis Hirschi",
-        "lat": "-34.912029914",
-        "lng": "-57.938954830"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2ejtvxwmeq59ia9rqdej8bv2s",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "3oj3koph7uf63y1f9zr8r7ylo",
-        "name": "Newell's Old Boys",
-        "clubName": "Newell's Old Boys",
-        "shortName": "Newell's",
-        "officialName": "CA Newell's Old Boys",
-        "code": "NOB",
-        "nickname": "El Leproso",
-        "logo": "assets/icons/escudos/newells.svg"
-      },
-      "away": {
-        "id": "1x5i9dl7uyrh5o2th8ore61e6",
-        "name": "Central Córdoba SdE",
-        "clubName": "Central Córdoba SdE",
-        "shortName": "Córdoba SdE",
-        "officialName": "CA Central Córdoba",
-        "code": "CCS",
-        "nickname": null,
-        "logo": "assets/icons/escudos/central-cordoba.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "cozbni460l1y5l86n00qvvujn",
-        "name": "Estadio Marcelo Alberto Bielsa",
-        "shortName": "Estadio Marcelo Alberto Bielsa",
-        "lat": "-32.956041911",
-        "lng": "-60.661547184"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2f103npxvj5sep7c53f78c1ec",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "a3kgi895b7b3ecfzmoyxbw2pl",
-        "name": "Vélez Sarsfield",
-        "clubName": "Vélez Sarsfield",
-        "shortName": "Vélez",
-        "officialName": "CA Vélez Sarsfield",
-        "code": "VEL",
-        "nickname": "El Fortín",
-        "logo": "assets/icons/escudos/velez.svg"
-      },
-      "away": {
-        "id": "9vph9w7uflam4cks28dfp98h4",
-        "name": "Gimnasia Mendoza",
-        "clubName": "Gimnasia Mendoza",
-        "shortName": "Gim Mendoza",
-        "officialName": "CA Gimnasia y Esgrima de Mendoza",
-        "code": "GMD",
-        "nickname": null,
-        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "86tjf697g6ddl07i419fn27wl",
-        "name": "Estadio José Amalfitani",
-        "shortName": "Estadio José Amalfitani",
-        "lat": "-34.635357444",
-        "lng": "-58.520666957"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2fi2arqyx3mlz35hy2tx12djo",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "d08q2rnrt7mss1axbuu595tyu",
-        "name": "Platense",
-        "clubName": "Platense",
-        "shortName": "Platense",
-        "officialName": "CA Platense",
-        "code": "PLA",
-        "nickname": null,
-        "logo": "assets/icons/escudos/platense.svg"
-      },
-      "away": {
-        "id": "19ij50t7wklqr3w2bye5r7tp4",
-        "name": "Lanús",
-        "clubName": "Lanús",
-        "shortName": "Lanús",
-        "officialName": "CA Lanús",
-        "code": "LAN",
-        "nickname": "Granate",
-        "logo": "assets/icons/escudos/lanus.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "84c7iyyxyn9nv5z6kttx6q962",
-        "name": "Estadio Ciudad de Vicente López",
-        "shortName": "Estadio Ciudad de Vicente López",
-        "lat": "-34.540217184",
-        "lng": "-58.481662273"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2g03refgfujdctmu0teq3bdw4",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "2biw4all5ru5xiorgyqbevwr1",
-        "name": "Belgrano",
-        "clubName": "Belgrano",
-        "shortName": "Belgrano",
-        "officialName": "CA Belgrano",
-        "code": "BEL",
-        "nickname": "El Pirata Cordobés",
-        "logo": "assets/icons/escudos/belgrano.svg"
-      },
-      "away": {
-        "id": "115foion8jwrvp2e7xif675kx",
-        "name": "River Plate",
-        "clubName": "River Plate",
-        "shortName": "River",
-        "officialName": "CA River Plate",
-        "code": "RIV",
-        "nickname": "Millonario",
-        "logo": "assets/icons/escudos/river.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "6xy972mpsu27prmuo2bcahfgz",
-        "name": "Estadio Julio César Villagra",
-        "shortName": "Estadio Julio César Villagra",
-        "lat": "-31.403516063",
-        "lng": "-64.206236601"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2gn2j9cve5mxw5ak30uyv9atw",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "40t5qm271m6s8i8r6hdlqdzv5",
-        "name": "Estudiantes Río Cuarto",
-        "clubName": "Estudiantes Río Cuarto",
-        "shortName": "Estudiantes RC",
-        "officialName": "AA Estudiantes de Río Cuarto",
-        "code": "ERC",
-        "nickname": null,
-        "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
-      },
-      "away": {
-        "id": "daclh04s6dduu6f9yw7fm8w6r",
-        "name": "Aldosivi",
-        "clubName": "Aldosivi",
-        "shortName": "Aldosivi",
-        "officialName": "CA Aldosivi",
-        "code": "ALD",
-        "nickname": "El Tiburón",
-        "logo": "assets/icons/escudos/aldosivi.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "dqqggu7niekw3hvjpn0gvmk33",
-        "name": "Estadio Ciudad de Río Cuarto",
-        "shortName": "Estadio Ciudad de Río Cuarto",
-        "lat": "-33.114850422",
-        "lng": "-64.347664118"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2h56syeu77afug3c2kc2fy590",
-      "date": "2026-10-18Z",
-      "time": "",
-      "week": "13",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "1tsjuhn8qeikaj837w2ybx77n",
-        "name": "Sarmiento",
-        "clubName": "Sarmiento",
-        "shortName": "Sarmiento",
-        "officialName": "CA Sarmiento",
-        "code": "SAR",
-        "nickname": "El Verde de Junín",
-        "logo": "assets/icons/escudos/sarmiento.svg"
-      },
-      "away": {
-        "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
-        "name": "Barracas Central",
-        "clubName": "Barracas Central",
-        "shortName": "Barracas",
-        "officialName": "CA Barracas Central",
-        "code": "BAC",
-        "nickname": null,
-        "logo": "assets/icons/escudos/barracas-central.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
-        "name": "Estadio Eva Perón de Junín",
-        "shortName": "Estadio Eva Perón de Junín",
-        "lat": "-34.585382973",
-        "lng": "-60.929263830"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "2ho0zd6v8k0oab9fk7ke5gdn8",
-      "date": "2026-10-18Z",
-      "time": "",
+      "date": "2026-10-15",
+      "time": "20:00",
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38511,33 +38016,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2i5afynd84n25rw8bvzdth8gk",
-      "date": "2026-10-18Z",
-      "time": "",
+      "id": "2d225wqrwvp6joym49chcbpjo",
+      "date": "2026-10-16",
+      "time": "19:00",
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "6u0o1i04y2mnw2avru97sn970",
-        "name": "Atlético Tucumán",
-        "clubName": "Atlético Tucumán",
-        "shortName": "Atl. Tucumán",
-        "officialName": "CA Tucumán",
-        "code": "TUC",
-        "nickname": "El Decano",
-        "logo": "assets/icons/escudos/atletico-tucuman.svg"
+        "id": "1n4ioqcbh1hemy9ezzu6v86n7",
+        "name": "Defensa y Justicia",
+        "clubName": "Defensa y Justicia",
+        "shortName": "Def y Justicia",
+        "officialName": "CSD Defensa y Justicia",
+        "code": "DYJ",
+        "nickname": "El Halcón",
+        "logo": "assets/icons/escudos/defensa-y-justicia.svg"
       },
       "away": {
-        "id": "e8ma1lonj51sqmwy00mwnw1ke",
-        "name": "Rosario Central",
-        "clubName": "Rosario Central",
-        "shortName": "Rosario",
-        "officialName": "CA Rosario Central",
-        "code": "ROS",
-        "nickname": "Canalla",
-        "logo": "assets/icons/escudos/rosario-central.svg"
+        "id": "2zjoq67ogz8lmaoesxkubxhp6",
+        "name": "Instituto",
+        "clubName": "Instituto",
+        "shortName": "Instituto",
+        "officialName": "Instituto AC Córdoba",
+        "code": "INS",
+        "nickname": null,
+        "logo": "assets/icons/escudos/instituto.svg"
       },
       "score": {
         "home": null,
@@ -38546,43 +38051,43 @@
         "htAway": null
       },
       "venue": {
-        "id": "2osa2lvmmngomafhkvn6j2pqw",
-        "name": "Estadio Monumental Presidente José Fierro",
-        "shortName": "Estadio Monumental Presidente José Fierro",
-        "lat": "-26.812805970",
-        "lng": "-65.199260116"
+        "id": "7yn4al2iw5uy16cdi0sd7wxmp",
+        "name": "Estadio Norberto Tito Tomaghello",
+        "shortName": "Estadio Norberto Tito Tomaghello",
+        "lat": "-34.821765816",
+        "lng": "-58.286536932"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2imei1r1z79i9anhpy8fmsjys",
-      "date": "2026-10-18Z",
-      "time": "",
+      "id": "2choc993l7c2q76yrqin8fzmc",
+      "date": "2026-10-16",
+      "time": "21:30",
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "8inprqnxjps9ckiamn3cfoo8v",
-        "name": "Independiente Rivadavia",
-        "clubName": "Independiente Rivadavia",
-        "shortName": "Independiente",
-        "officialName": "CS Independiente Rivadavia",
-        "code": "IND",
-        "nickname": null,
-        "logo": "assets/icons/escudos/independiente-rivadavia.svg"
+        "id": "ciqt22ivoc48zj62detdyh1mm",
+        "name": "Boca Juniors",
+        "clubName": "Boca Juniors",
+        "shortName": "Boca",
+        "officialName": "CA Boca Juniors",
+        "code": "BOC",
+        "nickname": "Xeneize",
+        "logo": "assets/icons/escudos/boca.svg"
       },
       "away": {
-        "id": "cs3122cdx3g2nviltzfilmz5c",
-        "name": "Tigre",
-        "clubName": "Tigre",
-        "shortName": "Tigre",
-        "officialName": "CA Tigre",
-        "code": "TIG",
-        "nickname": "El Matador de Victoria",
-        "logo": "assets/icons/escudos/tigre.svg"
+        "id": "ajeh0pq7dtphe0btz4wc4xb0g",
+        "name": "Talleres de Córdoba",
+        "clubName": "Talleres de Córdoba",
+        "shortName": "Talleres",
+        "officialName": "CA Talleres",
+        "code": "TAL",
+        "nickname": "La T",
+        "logo": "assets/icons/escudos/talleres.svg"
       },
       "score": {
         "home": null,
@@ -38591,19 +38096,19 @@
         "htAway": null
       },
       "venue": {
-        "id": "45rydocigydvn2tic6nf4fyvy",
-        "name": "Estadio Bautista Gargantini",
-        "shortName": "Estadio Bautista Gargantini",
-        "lat": "-32.890682564",
-        "lng": "-68.863205910"
+        "id": "6nan0as2jh7b0oex8qew6y5oi",
+        "name": "Estadio Alberto José Armando",
+        "shortName": "Estadio Alberto José Armando",
+        "lat": "-34.635582546",
+        "lng": "-58.364637494"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2j3h618qjajbu8oszks8kvcpg",
-      "date": "2026-10-18Z",
-      "time": "",
+      "date": "2026-10-17",
+      "time": "15:00",
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38646,23 +38151,23 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2jk7c0nxenb9f6cts7wo641ec",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
+      "id": "2fi2arqyx3mlz35hy2tx12djo",
+      "date": "2026-10-17",
+      "time": "17:30",
+      "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "3lbqswe4h5wyrayjt580zmujx",
-        "name": "Banfield",
-        "clubName": "Banfield",
-        "shortName": "Banfield",
-        "officialName": "CA Banfield",
-        "code": "BAN",
-        "nickname": "Taladro",
-        "logo": "assets/icons/escudos/banfield.svg"
+        "id": "d08q2rnrt7mss1axbuu595tyu",
+        "name": "Platense",
+        "clubName": "Platense",
+        "shortName": "Platense",
+        "officialName": "CA Platense",
+        "code": "PLA",
+        "nickname": null,
+        "logo": "assets/icons/escudos/platense.svg"
       },
       "away": {
         "id": "19ij50t7wklqr3w2bye5r7tp4",
@@ -38681,19 +38186,469 @@
         "htAway": null
       },
       "venue": {
-        "id": "95k4bnosgpfbg3a6ivxaz26xw",
-        "name": "Estadio Florencio Solá",
-        "shortName": "Estadio Florencio Solá",
-        "lat": "-34.750877816",
-        "lng": "-58.387538195"
+        "id": "84c7iyyxyn9nv5z6kttx6q962",
+        "name": "Estadio Ciudad de Vicente López",
+        "shortName": "Estadio Ciudad de Vicente López",
+        "lat": "-34.540217184",
+        "lng": "-58.481662273"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2imei1r1z79i9anhpy8fmsjys",
+      "date": "2026-10-17",
+      "time": "17:30",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "8inprqnxjps9ckiamn3cfoo8v",
+        "name": "Independiente Rivadavia",
+        "clubName": "Independiente Rivadavia",
+        "shortName": "Independiente",
+        "officialName": "CS Independiente Rivadavia",
+        "code": "IND",
+        "nickname": null,
+        "logo": "assets/icons/escudos/independiente-rivadavia.svg"
+      },
+      "away": {
+        "id": "cs3122cdx3g2nviltzfilmz5c",
+        "name": "Tigre",
+        "clubName": "Tigre",
+        "shortName": "Tigre",
+        "officialName": "CA Tigre",
+        "code": "TIG",
+        "nickname": "El Matador de Victoria",
+        "logo": "assets/icons/escudos/tigre.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "45rydocigydvn2tic6nf4fyvy",
+        "name": "Estadio Bautista Gargantini",
+        "shortName": "Estadio Bautista Gargantini",
+        "lat": "-32.890682564",
+        "lng": "-68.863205910"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2f103npxvj5sep7c53f78c1ec",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "a3kgi895b7b3ecfzmoyxbw2pl",
+        "name": "Vélez Sarsfield",
+        "clubName": "Vélez Sarsfield",
+        "shortName": "Vélez",
+        "officialName": "CA Vélez Sarsfield",
+        "code": "VEL",
+        "nickname": "El Fortín",
+        "logo": "assets/icons/escudos/velez.svg"
+      },
+      "away": {
+        "id": "9vph9w7uflam4cks28dfp98h4",
+        "name": "Gimnasia Mendoza",
+        "clubName": "Gimnasia Mendoza",
+        "shortName": "Gim Mendoza",
+        "officialName": "CA Gimnasia y Esgrima de Mendoza",
+        "code": "GMD",
+        "nickname": null,
+        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "86tjf697g6ddl07i419fn27wl",
+        "name": "Estadio José Amalfitani",
+        "shortName": "Estadio José Amalfitani",
+        "lat": "-34.635357444",
+        "lng": "-58.520666957"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2i5afynd84n25rw8bvzdth8gk",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "6u0o1i04y2mnw2avru97sn970",
+        "name": "Atlético Tucumán",
+        "clubName": "Atlético Tucumán",
+        "shortName": "Atl. Tucumán",
+        "officialName": "CA Tucumán",
+        "code": "TUC",
+        "nickname": "El Decano",
+        "logo": "assets/icons/escudos/atletico-tucuman.svg"
+      },
+      "away": {
+        "id": "e8ma1lonj51sqmwy00mwnw1ke",
+        "name": "Rosario Central",
+        "clubName": "Rosario Central",
+        "shortName": "Rosario",
+        "officialName": "CA Rosario Central",
+        "code": "ROS",
+        "nickname": "Canalla",
+        "logo": "assets/icons/escudos/rosario-central.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "2osa2lvmmngomafhkvn6j2pqw",
+        "name": "Estadio Monumental Presidente José Fierro",
+        "shortName": "Estadio Monumental Presidente José Fierro",
+        "lat": "-26.812805970",
+        "lng": "-65.199260116"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2bx98m0k2nijy13hmj1xt515g",
+      "date": "2026-10-18",
+      "time": "14:45",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "39acfbxikh52o6y9opfb0q0nb",
+        "name": "Racing Club",
+        "clubName": "Racing Club",
+        "shortName": "Racing",
+        "officialName": "Racing Club",
+        "code": "RAC",
+        "nickname": "La Academia",
+        "logo": "assets/icons/escudos/racing.svg"
+      },
+      "away": {
+        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
+        "name": "Independiente",
+        "clubName": "Independiente",
+        "shortName": "Independiente",
+        "officialName": "CA Independiente",
+        "code": "CAI",
+        "nickname": "El Rojo de Avellaneda",
+        "logo": "assets/icons/escudos/independiente.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "2y66786gtjefwc1uqfda4wfqe",
+        "name": "Estadio Presidente Juan Domingo Perón",
+        "shortName": "Estadio Presidente Juan Domingo Perón",
+        "lat": "-34.667479030",
+        "lng": "-58.368574977"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2e2s9ijbjq87n1sfm0y8611xw",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "91j32z6ga16tjj140ss2i24mt",
+        "name": "Estudiantes",
+        "clubName": "Estudiantes",
+        "shortName": "Estudiantes",
+        "officialName": "Club Estudiantes de La Plata",
+        "code": "EST",
+        "nickname": "Pincharrata",
+        "logo": "assets/icons/escudos/estudiantes.svg"
+      },
+      "away": {
+        "id": "2sciofe2reang4qdncm1bihgr",
+        "name": "San Lorenzo",
+        "clubName": "San Lorenzo",
+        "shortName": "San Lorenzo",
+        "officialName": "CA San Lorenzo de Almagro",
+        "code": "SLO",
+        "nickname": "Cuervo",
+        "logo": "assets/icons/escudos/san-lorenzo.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "vn5vp3t9a1xlbus4ver0uv2t",
+        "name": "Estadio Jorge Luis Hirschi",
+        "shortName": "Estadio Jorge Luis Hirschi",
+        "lat": "-34.912029914",
+        "lng": "-57.938954830"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2gn2j9cve5mxw5ak30uyv9atw",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "40t5qm271m6s8i8r6hdlqdzv5",
+        "name": "Estudiantes Río Cuarto",
+        "clubName": "Estudiantes Río Cuarto",
+        "shortName": "Estudiantes RC",
+        "officialName": "AA Estudiantes de Río Cuarto",
+        "code": "ERC",
+        "nickname": null,
+        "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
+      },
+      "away": {
+        "id": "daclh04s6dduu6f9yw7fm8w6r",
+        "name": "Aldosivi",
+        "clubName": "Aldosivi",
+        "shortName": "Aldosivi",
+        "officialName": "CA Aldosivi",
+        "code": "ALD",
+        "nickname": "El Tiburón",
+        "logo": "assets/icons/escudos/aldosivi.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "dqqggu7niekw3hvjpn0gvmk33",
+        "name": "Estadio Ciudad de Río Cuarto",
+        "shortName": "Estadio Ciudad de Río Cuarto",
+        "lat": "-33.114850422",
+        "lng": "-64.347664118"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2g03refgfujdctmu0teq3bdw4",
+      "date": "2026-10-18",
+      "time": "20:15",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "2biw4all5ru5xiorgyqbevwr1",
+        "name": "Belgrano",
+        "clubName": "Belgrano",
+        "shortName": "Belgrano",
+        "officialName": "CA Belgrano",
+        "code": "BEL",
+        "nickname": "El Pirata Cordobés",
+        "logo": "assets/icons/escudos/belgrano.svg"
+      },
+      "away": {
+        "id": "115foion8jwrvp2e7xif675kx",
+        "name": "River Plate",
+        "clubName": "River Plate",
+        "shortName": "River",
+        "officialName": "CA River Plate",
+        "code": "RIV",
+        "nickname": "Millonario",
+        "logo": "assets/icons/escudos/river.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "6xy972mpsu27prmuo2bcahfgz",
+        "name": "Estadio Julio César Villagra",
+        "shortName": "Estadio Julio César Villagra",
+        "lat": "-31.403516063",
+        "lng": "-64.206236601"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2ejtvxwmeq59ia9rqdej8bv2s",
+      "date": "2026-10-19",
+      "time": "19:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "3oj3koph7uf63y1f9zr8r7ylo",
+        "name": "Newell's Old Boys",
+        "clubName": "Newell's Old Boys",
+        "shortName": "Newell's",
+        "officialName": "CA Newell's Old Boys",
+        "code": "NOB",
+        "nickname": "El Leproso",
+        "logo": "assets/icons/escudos/newells.svg"
+      },
+      "away": {
+        "id": "1x5i9dl7uyrh5o2th8ore61e6",
+        "name": "Central Córdoba SdE",
+        "clubName": "Central Córdoba SdE",
+        "shortName": "Córdoba SdE",
+        "officialName": "CA Central Córdoba",
+        "code": "CCS",
+        "nickname": null,
+        "logo": "assets/icons/escudos/central-cordoba.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "cozbni460l1y5l86n00qvvujn",
+        "name": "Estadio Marcelo Alberto Bielsa",
+        "shortName": "Estadio Marcelo Alberto Bielsa",
+        "lat": "-32.956041911",
+        "lng": "-60.661547184"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2h56syeu77afug3c2kc2fy590",
+      "date": "2026-10-19",
+      "time": "19:00",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "1tsjuhn8qeikaj837w2ybx77n",
+        "name": "Sarmiento",
+        "clubName": "Sarmiento",
+        "shortName": "Sarmiento",
+        "officialName": "CA Sarmiento",
+        "code": "SAR",
+        "nickname": "El Verde de Junín",
+        "logo": "assets/icons/escudos/sarmiento.svg"
+      },
+      "away": {
+        "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
+        "name": "Barracas Central",
+        "clubName": "Barracas Central",
+        "shortName": "Barracas",
+        "officialName": "CA Barracas Central",
+        "code": "BAC",
+        "nickname": null,
+        "logo": "assets/icons/escudos/barracas-central.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
+        "name": "Estadio Eva Perón de Junín",
+        "shortName": "Estadio Eva Perón de Junín",
+        "lat": "-34.585382973",
+        "lng": "-60.929263830"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2dlvoaxoj9q81denb2ssi1s0k",
+      "date": "2026-10-19",
+      "time": "21:15",
+      "week": "13",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "7gcwwr8m5docs6jqrn2stilie",
+        "name": "Deportivo Riestra",
+        "clubName": "Deportivo Riestra",
+        "shortName": "Riestra",
+        "officialName": "CD Riestra",
+        "code": "RIE",
+        "nickname": null,
+        "logo": "assets/icons/escudos/deportivo-riestra.svg"
+      },
+      "away": {
+        "id": "5o5wtxn03ktvxcdrpxht5aqdp",
+        "name": "Unión",
+        "clubName": "Unión",
+        "shortName": "Unión",
+        "officialName": "CA Unión",
+        "code": "UNI",
+        "nickname": "El Tatengue",
+        "logo": "assets/icons/escudos/union.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "6s1u527fe4sgbs578h4fsfq05",
+        "name": "Estadio Guillermo Laza",
+        "shortName": "Estadio Guillermo Laza",
+        "lat": "-34.653332768",
+        "lng": "-58.443446159"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2k1l0i514rlhi5xsd0utagwes",
-      "date": "2026-10-25Z",
-      "time": "",
+      "date": "2026-10-23",
+      "time": "18:30",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38736,33 +38691,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2kiom7hm33grj3g5qrd34ysr8",
-      "date": "2026-10-25Z",
-      "time": "",
+      "id": "2p6xru0e0ovtx8au2yhbx0kr8",
+      "date": "2026-10-23",
+      "time": "19:00",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "1x5i9dl7uyrh5o2th8ore61e6",
-        "name": "Central Córdoba SdE",
-        "clubName": "Central Córdoba SdE",
-        "shortName": "Córdoba SdE",
-        "officialName": "CA Central Córdoba",
-        "code": "CCS",
-        "nickname": null,
-        "logo": "assets/icons/escudos/central-cordoba.svg"
+        "id": "1rio0xlpk4s2ttmchsqjs6eik",
+        "name": "Gimnasia La Plata",
+        "clubName": "Gimnasia La Plata",
+        "shortName": "GELP",
+        "officialName": "Club de Gimnasia y Esgrima La Plata",
+        "code": "GLP",
+        "nickname": "El Lobo",
+        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
       },
       "away": {
-        "id": "a3kgi895b7b3ecfzmoyxbw2pl",
-        "name": "Vélez Sarsfield",
-        "clubName": "Vélez Sarsfield",
-        "shortName": "Vélez",
-        "officialName": "CA Vélez Sarsfield",
-        "code": "VEL",
-        "nickname": "El Fortín",
-        "logo": "assets/icons/escudos/velez.svg"
+        "id": "1tsjuhn8qeikaj837w2ybx77n",
+        "name": "Sarmiento",
+        "clubName": "Sarmiento",
+        "shortName": "Sarmiento",
+        "officialName": "CA Sarmiento",
+        "code": "SAR",
+        "nickname": "El Verde de Junín",
+        "logo": "assets/icons/escudos/sarmiento.svg"
       },
       "score": {
         "home": null,
@@ -38771,19 +38726,154 @@
         "htAway": null
       },
       "venue": {
-        "id": "5yy0k9r70dj3yf3eea0ikdwv3",
-        "name": "Estadio Alfredo Terrera",
-        "shortName": "Estadio Alfredo Terrera",
-        "lat": "-27.793820266",
-        "lng": "-64.264268875"
+        "id": "1ssq5wag2nu8krpkdndf2d9qa",
+        "name": "Estadio Juan Carmelo Zerillo",
+        "shortName": "Estadio Juan Carmelo Zerillo",
+        "lat": "-34.910956553",
+        "lng": "-57.932581902"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2o5ns8cexmsxsbafsyydbnqqc",
+      "date": "2026-10-23",
+      "time": "21:15",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "cs3122cdx3g2nviltzfilmz5c",
+        "name": "Tigre",
+        "clubName": "Tigre",
+        "shortName": "Tigre",
+        "officialName": "CA Tigre",
+        "code": "TIG",
+        "nickname": "El Matador de Victoria",
+        "logo": "assets/icons/escudos/tigre.svg"
+      },
+      "away": {
+        "id": "6u0o1i04y2mnw2avru97sn970",
+        "name": "Atlético Tucumán",
+        "clubName": "Atlético Tucumán",
+        "shortName": "Atl. Tucumán",
+        "officialName": "CA Tucumán",
+        "code": "TUC",
+        "nickname": "El Decano",
+        "logo": "assets/icons/escudos/atletico-tucuman.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "75bjb0kb899ifi74s3aryx5cn",
+        "name": "Estadio José Dellagiovanna",
+        "shortName": "Estadio José Dellagiovanna",
+        "lat": "-34.449360850",
+        "lng": "-58.542226553"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2jk7c0nxenb9f6cts7wo641ec",
+      "date": "2026-10-24",
+      "time": "14:45",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "3lbqswe4h5wyrayjt580zmujx",
+        "name": "Banfield",
+        "clubName": "Banfield",
+        "shortName": "Banfield",
+        "officialName": "CA Banfield",
+        "code": "BAN",
+        "nickname": "Taladro",
+        "logo": "assets/icons/escudos/banfield.svg"
+      },
+      "away": {
+        "id": "19ij50t7wklqr3w2bye5r7tp4",
+        "name": "Lanús",
+        "clubName": "Lanús",
+        "shortName": "Lanús",
+        "officialName": "CA Lanús",
+        "code": "LAN",
+        "nickname": "Granate",
+        "logo": "assets/icons/escudos/lanus.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "95k4bnosgpfbg3a6ivxaz26xw",
+        "name": "Estadio Florencio Solá",
+        "shortName": "Estadio Florencio Solá",
+        "lat": "-34.750877816",
+        "lng": "-58.387538195"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2mgr22k4kk1zku7ep6f944ahg",
+      "date": "2026-10-24",
+      "time": "17:00",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "ajeh0pq7dtphe0btz4wc4xb0g",
+        "name": "Talleres de Córdoba",
+        "clubName": "Talleres de Córdoba",
+        "shortName": "Talleres",
+        "officialName": "CA Talleres",
+        "code": "TAL",
+        "nickname": "La T",
+        "logo": "assets/icons/escudos/talleres.svg"
+      },
+      "away": {
+        "id": "1n4ioqcbh1hemy9ezzu6v86n7",
+        "name": "Defensa y Justicia",
+        "clubName": "Defensa y Justicia",
+        "shortName": "Def y Justicia",
+        "officialName": "CSD Defensa y Justicia",
+        "code": "DYJ",
+        "nickname": "El Halcón",
+        "logo": "assets/icons/escudos/defensa-y-justicia.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "biabh59k1zbdgx66fi5gfgfr5",
+        "name": "Estadio Mario Alberto Kempes",
+        "shortName": "Estadio Mario Alberto Kempes",
+        "lat": "-31.368991412",
+        "lng": "-64.246051311"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2kzl3gcgqijjzwelm00byfxn8",
-      "date": "2026-10-25Z",
-      "time": "",
+      "date": "2026-10-24",
+      "time": "19:15",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38826,9 +38916,279 @@
       "substitutionsCount": 0
     },
     {
+      "id": "2oohzadpdr9fmfcgyn9vh436c",
+      "date": "2026-10-24",
+      "time": "21:30",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "e8ma1lonj51sqmwy00mwnw1ke",
+        "name": "Rosario Central",
+        "clubName": "Rosario Central",
+        "shortName": "Rosario",
+        "officialName": "CA Rosario Central",
+        "code": "ROS",
+        "nickname": "Canalla",
+        "logo": "assets/icons/escudos/rosario-central.svg"
+      },
+      "away": {
+        "id": "3rw8ouixzsh3x8dgy8ifev925",
+        "name": "Huracán",
+        "clubName": "Huracán",
+        "shortName": "Huracán",
+        "officialName": "CA Huracán",
+        "code": "HUR",
+        "nickname": "El Globo",
+        "logo": "assets/icons/escudos/huracan.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "8sgezad3ax5yejy1c7m6wl0q6",
+        "name": "Estadio Gigante de Arroyito",
+        "shortName": "Estadio Gigante de Arroyito",
+        "lat": "-32.913990521",
+        "lng": "-60.674561262"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2q8o2r35dgah025q2g22jd89g",
+      "date": "2026-10-25",
+      "time": "14:45",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "daclh04s6dduu6f9yw7fm8w6r",
+        "name": "Aldosivi",
+        "clubName": "Aldosivi",
+        "shortName": "Aldosivi",
+        "officialName": "CA Aldosivi",
+        "code": "ALD",
+        "nickname": "El Tiburón",
+        "logo": "assets/icons/escudos/aldosivi.svg"
+      },
+      "away": {
+        "id": "2biw4all5ru5xiorgyqbevwr1",
+        "name": "Belgrano",
+        "clubName": "Belgrano",
+        "shortName": "Belgrano",
+        "officialName": "CA Belgrano",
+        "code": "BEL",
+        "nickname": "El Pirata Cordobés",
+        "logo": "assets/icons/escudos/belgrano.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "ep9bwdsvv4gw1ymc9knla2ybs",
+        "name": "Estadio José María Minella",
+        "shortName": "Estadio José María Minella",
+        "lat": "-38.017947670",
+        "lng": "-57.582301497"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2my1dc7c8bbhygmi9pde4ikus",
+      "date": "2026-10-25",
+      "time": "17:00",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
+        "name": "Independiente",
+        "clubName": "Independiente",
+        "shortName": "Independiente",
+        "officialName": "CA Independiente",
+        "code": "CAI",
+        "nickname": "El Rojo de Avellaneda",
+        "logo": "assets/icons/escudos/independiente.svg"
+      },
+      "away": {
+        "id": "ciqt22ivoc48zj62detdyh1mm",
+        "name": "Boca Juniors",
+        "clubName": "Boca Juniors",
+        "shortName": "Boca",
+        "officialName": "CA Boca Juniors",
+        "code": "BOC",
+        "nickname": "Xeneize",
+        "logo": "assets/icons/escudos/boca.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "78epeins9af63i106keb98miz",
+        "name": "Estadio Libertadores de América",
+        "shortName": "Estadio Libertadores de América",
+        "lat": "-34.670192401",
+        "lng": "-58.370983601"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2qqzuxw5pioxp4tje3dwiadqs",
+      "date": "2026-10-25",
+      "time": "19:15",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "115foion8jwrvp2e7xif675kx",
+        "name": "River Plate",
+        "clubName": "River Plate",
+        "shortName": "River",
+        "officialName": "CA River Plate",
+        "code": "RIV",
+        "nickname": "Millonario",
+        "logo": "assets/icons/escudos/river.svg"
+      },
+      "away": {
+        "id": "39acfbxikh52o6y9opfb0q0nb",
+        "name": "Racing Club",
+        "clubName": "Racing Club",
+        "shortName": "Racing",
+        "officialName": "Racing Club",
+        "code": "RAC",
+        "nickname": "La Academia",
+        "logo": "assets/icons/escudos/racing.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "7xyfskcpghmryithcog91y6y3",
+        "name": "Estadio Monumental",
+        "shortName": "Estadio Monumental",
+        "lat": "-34.545325187",
+        "lng": "-58.449722528"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2kiom7hm33grj3g5qrd34ysr8",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "1x5i9dl7uyrh5o2th8ore61e6",
+        "name": "Central Córdoba SdE",
+        "clubName": "Central Córdoba SdE",
+        "shortName": "Córdoba SdE",
+        "officialName": "CA Central Córdoba",
+        "code": "CCS",
+        "nickname": null,
+        "logo": "assets/icons/escudos/central-cordoba.svg"
+      },
+      "away": {
+        "id": "a3kgi895b7b3ecfzmoyxbw2pl",
+        "name": "Vélez Sarsfield",
+        "clubName": "Vélez Sarsfield",
+        "shortName": "Vélez",
+        "officialName": "CA Vélez Sarsfield",
+        "code": "VEL",
+        "nickname": "El Fortín",
+        "logo": "assets/icons/escudos/velez.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "5yy0k9r70dj3yf3eea0ikdwv3",
+        "name": "Estadio Alfredo Terrera",
+        "shortName": "Estadio Alfredo Terrera",
+        "lat": "-27.793820266",
+        "lng": "-64.264268875"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2pq37noidpkj0tjsntwzuv8d0",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
+        "name": "Barracas Central",
+        "clubName": "Barracas Central",
+        "shortName": "Barracas",
+        "officialName": "CA Barracas Central",
+        "code": "BAC",
+        "nickname": null,
+        "logo": "assets/icons/escudos/barracas-central.svg"
+      },
+      "away": {
+        "id": "40t5qm271m6s8i8r6hdlqdzv5",
+        "name": "Estudiantes Río Cuarto",
+        "clubName": "Estudiantes Río Cuarto",
+        "shortName": "Estudiantes RC",
+        "officialName": "AA Estudiantes de Río Cuarto",
+        "code": "ERC",
+        "nickname": null,
+        "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "15iysu1nukrkkc20vxb45b8c4",
+        "name": "Estadio Claudio Fabián Tapia",
+        "shortName": "Estadio Claudio Fabián Tapia",
+        "lat": "-34.647481175",
+        "lng": "-58.396773040"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
       "id": "2lgiens9urwevqbgtvdslqs5w",
-      "date": "2026-10-25Z",
-      "time": "",
+      "date": "2026-10-26",
+      "time": "19:00",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38872,8 +39232,8 @@
     },
     {
       "id": "2lxlno3im83enim70qlg7d2qc",
-      "date": "2026-10-25Z",
-      "time": "",
+      "date": "2026-10-26",
+      "time": "21:15",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -38916,99 +39276,9 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2mgr22k4kk1zku7ep6f944ahg",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "ajeh0pq7dtphe0btz4wc4xb0g",
-        "name": "Talleres de Córdoba",
-        "clubName": "Talleres de Córdoba",
-        "shortName": "Talleres",
-        "officialName": "CA Talleres",
-        "code": "TAL",
-        "nickname": "La T",
-        "logo": "assets/icons/escudos/talleres.svg"
-      },
-      "away": {
-        "id": "1n4ioqcbh1hemy9ezzu6v86n7",
-        "name": "Defensa y Justicia",
-        "clubName": "Defensa y Justicia",
-        "shortName": "Def y Justicia",
-        "officialName": "CSD Defensa y Justicia",
-        "code": "DYJ",
-        "nickname": "El Halcón",
-        "logo": "assets/icons/escudos/defensa-y-justicia.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "biabh59k1zbdgx66fi5gfgfr5",
-        "name": "Estadio Mario Alberto Kempes",
-        "shortName": "Estadio Mario Alberto Kempes",
-        "lat": "-31.368991412",
-        "lng": "-64.246051311"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2my1dc7c8bbhygmi9pde4ikus",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
-        "name": "Independiente",
-        "clubName": "Independiente",
-        "shortName": "Independiente",
-        "officialName": "CA Independiente",
-        "code": "CAI",
-        "nickname": "El Rojo de Avellaneda",
-        "logo": "assets/icons/escudos/independiente.svg"
-      },
-      "away": {
-        "id": "ciqt22ivoc48zj62detdyh1mm",
-        "name": "Boca Juniors",
-        "clubName": "Boca Juniors",
-        "shortName": "Boca",
-        "officialName": "CA Boca Juniors",
-        "code": "BOC",
-        "nickname": "Xeneize",
-        "logo": "assets/icons/escudos/boca.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "78epeins9af63i106keb98miz",
-        "name": "Estadio Libertadores de América",
-        "shortName": "Estadio Libertadores de América",
-        "lat": "-34.670192401",
-        "lng": "-58.370983601"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "2nf1kikgpuwexnkstlia4zsb8",
-      "date": "2026-10-25Z",
-      "time": "",
+      "date": "2026-10-27",
+      "time": "19:00",
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39051,160 +39321,15 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2o5ns8cexmsxsbafsyydbnqqc",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
+      "id": "2w2kq05ag6g8c1h288a5eigic",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "cs3122cdx3g2nviltzfilmz5c",
-        "name": "Tigre",
-        "clubName": "Tigre",
-        "shortName": "Tigre",
-        "officialName": "CA Tigre",
-        "code": "TIG",
-        "nickname": "El Matador de Victoria",
-        "logo": "assets/icons/escudos/tigre.svg"
-      },
-      "away": {
-        "id": "6u0o1i04y2mnw2avru97sn970",
-        "name": "Atlético Tucumán",
-        "clubName": "Atlético Tucumán",
-        "shortName": "Atl. Tucumán",
-        "officialName": "CA Tucumán",
-        "code": "TUC",
-        "nickname": "El Decano",
-        "logo": "assets/icons/escudos/atletico-tucuman.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "75bjb0kb899ifi74s3aryx5cn",
-        "name": "Estadio José Dellagiovanna",
-        "shortName": "Estadio José Dellagiovanna",
-        "lat": "-34.449360850",
-        "lng": "-58.542226553"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2oohzadpdr9fmfcgyn9vh436c",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "e8ma1lonj51sqmwy00mwnw1ke",
-        "name": "Rosario Central",
-        "clubName": "Rosario Central",
-        "shortName": "Rosario",
-        "officialName": "CA Rosario Central",
-        "code": "ROS",
-        "nickname": "Canalla",
-        "logo": "assets/icons/escudos/rosario-central.svg"
-      },
-      "away": {
-        "id": "3rw8ouixzsh3x8dgy8ifev925",
-        "name": "Huracán",
-        "clubName": "Huracán",
-        "shortName": "Huracán",
-        "officialName": "CA Huracán",
-        "code": "HUR",
-        "nickname": "El Globo",
-        "logo": "assets/icons/escudos/huracan.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "8sgezad3ax5yejy1c7m6wl0q6",
-        "name": "Estadio Gigante de Arroyito",
-        "shortName": "Estadio Gigante de Arroyito",
-        "lat": "-32.913990521",
-        "lng": "-60.674561262"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2p6xru0e0ovtx8au2yhbx0kr8",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "1rio0xlpk4s2ttmchsqjs6eik",
-        "name": "Gimnasia La Plata",
-        "clubName": "Gimnasia La Plata",
-        "shortName": "GELP",
-        "officialName": "Club de Gimnasia y Esgrima La Plata",
-        "code": "GLP",
-        "nickname": "El Lobo",
-        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
-      },
-      "away": {
-        "id": "1tsjuhn8qeikaj837w2ybx77n",
-        "name": "Sarmiento",
-        "clubName": "Sarmiento",
-        "shortName": "Sarmiento",
-        "officialName": "CA Sarmiento",
-        "code": "SAR",
-        "nickname": "El Verde de Junín",
-        "logo": "assets/icons/escudos/sarmiento.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "1ssq5wag2nu8krpkdndf2d9qa",
-        "name": "Estadio Juan Carmelo Zerillo",
-        "shortName": "Estadio Juan Carmelo Zerillo",
-        "lat": "-34.910956553",
-        "lng": "-57.932581902"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2pq37noidpkj0tjsntwzuv8d0",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
-        "name": "Barracas Central",
-        "clubName": "Barracas Central",
-        "shortName": "Barracas",
-        "officialName": "CA Barracas Central",
-        "code": "BAC",
-        "nickname": null,
-        "logo": "assets/icons/escudos/barracas-central.svg"
-      },
-      "away": {
         "id": "40t5qm271m6s8i8r6hdlqdzv5",
         "name": "Estudiantes Río Cuarto",
         "clubName": "Estudiantes Río Cuarto",
@@ -39214,50 +39339,15 @@
         "nickname": null,
         "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
       },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "15iysu1nukrkkc20vxb45b8c4",
-        "name": "Estadio Claudio Fabián Tapia",
-        "shortName": "Estadio Claudio Fabián Tapia",
-        "lat": "-34.647481175",
-        "lng": "-58.396773040"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2q8o2r35dgah025q2g22jd89g",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "daclh04s6dduu6f9yw7fm8w6r",
-        "name": "Aldosivi",
-        "clubName": "Aldosivi",
-        "shortName": "Aldosivi",
-        "officialName": "CA Aldosivi",
-        "code": "ALD",
-        "nickname": "El Tiburón",
-        "logo": "assets/icons/escudos/aldosivi.svg"
-      },
       "away": {
-        "id": "2biw4all5ru5xiorgyqbevwr1",
-        "name": "Belgrano",
-        "clubName": "Belgrano",
-        "shortName": "Belgrano",
-        "officialName": "CA Belgrano",
-        "code": "BEL",
-        "nickname": "El Pirata Cordobés",
-        "logo": "assets/icons/escudos/belgrano.svg"
+        "id": "1rio0xlpk4s2ttmchsqjs6eik",
+        "name": "Gimnasia La Plata",
+        "clubName": "Gimnasia La Plata",
+        "shortName": "GELP",
+        "officialName": "Club de Gimnasia y Esgrima La Plata",
+        "code": "GLP",
+        "nickname": "El Lobo",
+        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
       },
       "score": {
         "home": null,
@@ -39266,35 +39356,70 @@
         "htAway": null
       },
       "venue": {
-        "id": "ep9bwdsvv4gw1ymc9knla2ybs",
-        "name": "Estadio José María Minella",
-        "shortName": "Estadio José María Minella",
-        "lat": "-38.017947670",
-        "lng": "-57.582301497"
+        "id": "dqqggu7niekw3hvjpn0gvmk33",
+        "name": "Estadio Ciudad de Río Cuarto",
+        "shortName": "Estadio Ciudad de Río Cuarto",
+        "lat": "-33.114850422",
+        "lng": "-64.347664118"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2qqzuxw5pioxp4tje3dwiadqs",
-      "date": "2026-10-25Z",
-      "time": "",
-      "week": "14",
+      "id": "2x2yoy5xzxvx2s163wubk7eok",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "115foion8jwrvp2e7xif675kx",
-        "name": "River Plate",
-        "clubName": "River Plate",
-        "shortName": "River",
-        "officialName": "CA River Plate",
-        "code": "RIV",
-        "nickname": "Millonario",
-        "logo": "assets/icons/escudos/river.svg"
+        "id": "3rw8ouixzsh3x8dgy8ifev925",
+        "name": "Huracán",
+        "clubName": "Huracán",
+        "shortName": "Huracán",
+        "officialName": "CA Huracán",
+        "code": "HUR",
+        "nickname": "El Globo",
+        "logo": "assets/icons/escudos/huracan.svg"
       },
       "away": {
+        "id": "cs3122cdx3g2nviltzfilmz5c",
+        "name": "Tigre",
+        "clubName": "Tigre",
+        "shortName": "Tigre",
+        "officialName": "CA Tigre",
+        "code": "TIG",
+        "nickname": "El Matador de Victoria",
+        "logo": "assets/icons/escudos/tigre.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "1y0yej47t4htr1e4ptamuz4ps",
+        "name": "Estadio Tomás Adolfo Ducó",
+        "shortName": "Estadio Tomás Adolfo Ducó",
+        "lat": "-34.643425417",
+        "lng": "-58.396502137"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "2v4iifad550vh84tcqcnr2jh0",
+      "date": "2026-10-30",
+      "time": "21:15",
+      "week": "15",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
         "id": "39acfbxikh52o6y9opfb0q0nb",
         "name": "Racing Club",
         "clubName": "Racing Club",
@@ -39304,6 +39429,16 @@
         "nickname": "La Academia",
         "logo": "assets/icons/escudos/racing.svg"
       },
+      "away": {
+        "id": "daclh04s6dduu6f9yw7fm8w6r",
+        "name": "Aldosivi",
+        "clubName": "Aldosivi",
+        "shortName": "Aldosivi",
+        "officialName": "CA Aldosivi",
+        "code": "ALD",
+        "nickname": "El Tiburón",
+        "logo": "assets/icons/escudos/aldosivi.svg"
+      },
       "score": {
         "home": null,
         "away": null,
@@ -39311,43 +39446,43 @@
         "htAway": null
       },
       "venue": {
-        "id": "7xyfskcpghmryithcog91y6y3",
-        "name": "Estadio Monumental",
-        "shortName": "Estadio Monumental",
-        "lat": "-34.545325187",
-        "lng": "-58.449722528"
+        "id": "2y66786gtjefwc1uqfda4wfqe",
+        "name": "Estadio Presidente Juan Domingo Perón",
+        "shortName": "Estadio Presidente Juan Domingo Perón",
+        "lat": "-34.667479030",
+        "lng": "-58.368574977"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2r8cyxbnkv4d4dolb5e7jwlxw",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2wlww1kzgcv4p724trb789kwk",
+      "date": "2026-10-30",
+      "time": "21:15",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "ciqt22ivoc48zj62detdyh1mm",
-        "name": "Boca Juniors",
-        "clubName": "Boca Juniors",
-        "shortName": "Boca",
-        "officialName": "CA Boca Juniors",
-        "code": "BOC",
-        "nickname": "Xeneize",
-        "logo": "assets/icons/escudos/boca.svg"
+        "id": "1tsjuhn8qeikaj837w2ybx77n",
+        "name": "Sarmiento",
+        "clubName": "Sarmiento",
+        "shortName": "Sarmiento",
+        "officialName": "CA Sarmiento",
+        "code": "SAR",
+        "nickname": "El Verde de Junín",
+        "logo": "assets/icons/escudos/sarmiento.svg"
       },
       "away": {
-        "id": "115foion8jwrvp2e7xif675kx",
-        "name": "River Plate",
-        "clubName": "River Plate",
-        "shortName": "River",
-        "officialName": "CA River Plate",
-        "code": "RIV",
-        "nickname": "Millonario",
-        "logo": "assets/icons/escudos/river.svg"
+        "id": "e8ma1lonj51sqmwy00mwnw1ke",
+        "name": "Rosario Central",
+        "clubName": "Rosario Central",
+        "shortName": "Rosario",
+        "officialName": "CA Rosario Central",
+        "code": "ROS",
+        "nickname": "Canalla",
+        "logo": "assets/icons/escudos/rosario-central.svg"
       },
       "score": {
         "home": null,
@@ -39356,19 +39491,19 @@
         "htAway": null
       },
       "venue": {
-        "id": "6nan0as2jh7b0oex8qew6y5oi",
-        "name": "Estadio Alberto José Armando",
-        "shortName": "Estadio Alberto José Armando",
-        "lat": "-34.635582546",
-        "lng": "-58.364637494"
+        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
+        "name": "Estadio Eva Perón de Junín",
+        "shortName": "Estadio Eva Perón de Junín",
+        "lat": "-34.585382973",
+        "lng": "-60.929263830"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2rshrfsq7av7uahwvksg6gutw",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-10-31",
+      "time": "14:45",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39412,8 +39547,8 @@
     },
     {
       "id": "2sa4kpar0u0wpaqur93m9naj8",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-10-31",
+      "time": "17:00",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39456,99 +39591,9 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2sr9ngaxxuy3dzhathmnshzis",
-      "date": "2026-11-01Z",
-      "time": "",
-      "week": "15",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "91j32z6ga16tjj140ss2i24mt",
-        "name": "Estudiantes",
-        "clubName": "Estudiantes",
-        "shortName": "Estudiantes",
-        "officialName": "Club Estudiantes de La Plata",
-        "code": "EST",
-        "nickname": "Pincharrata",
-        "logo": "assets/icons/escudos/estudiantes.svg"
-      },
-      "away": {
-        "id": "2zjoq67ogz8lmaoesxkubxhp6",
-        "name": "Instituto",
-        "clubName": "Instituto",
-        "shortName": "Instituto",
-        "officialName": "Instituto AC Córdoba",
-        "code": "INS",
-        "nickname": null,
-        "logo": "assets/icons/escudos/instituto.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "vn5vp3t9a1xlbus4ver0uv2t",
-        "name": "Estadio Jorge Luis Hirschi",
-        "shortName": "Estadio Jorge Luis Hirschi",
-        "lat": "-34.912029914",
-        "lng": "-57.938954830"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2t8bi2jsp88qail2xzycu7i8k",
-      "date": "2026-11-01Z",
-      "time": "",
-      "week": "15",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "3oj3koph7uf63y1f9zr8r7ylo",
-        "name": "Newell's Old Boys",
-        "clubName": "Newell's Old Boys",
-        "shortName": "Newell's",
-        "officialName": "CA Newell's Old Boys",
-        "code": "NOB",
-        "nickname": "El Leproso",
-        "logo": "assets/icons/escudos/newells.svg"
-      },
-      "away": {
-        "id": "5o5wtxn03ktvxcdrpxht5aqdp",
-        "name": "Unión",
-        "clubName": "Unión",
-        "shortName": "Unión",
-        "officialName": "CA Unión",
-        "code": "UNI",
-        "nickname": "El Tatengue",
-        "logo": "assets/icons/escudos/union.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "cozbni460l1y5l86n00qvvujn",
-        "name": "Estadio Marcelo Alberto Bielsa",
-        "shortName": "Estadio Marcelo Alberto Bielsa",
-        "lat": "-32.956041911",
-        "lng": "-60.661547184"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "2tpdrqytsztgw0gmxlirkkefo",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-10-31",
+      "time": "19:15",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39591,33 +39636,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2u683ivfymsbittw5q5lqtpuc",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2sr9ngaxxuy3dzhathmnshzis",
+      "date": "2026-10-31",
+      "time": "21:30",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "d08q2rnrt7mss1axbuu595tyu",
-        "name": "Platense",
-        "clubName": "Platense",
-        "shortName": "Platense",
-        "officialName": "CA Platense",
-        "code": "PLA",
-        "nickname": null,
-        "logo": "assets/icons/escudos/platense.svg"
+        "id": "91j32z6ga16tjj140ss2i24mt",
+        "name": "Estudiantes",
+        "clubName": "Estudiantes",
+        "shortName": "Estudiantes",
+        "officialName": "Club Estudiantes de La Plata",
+        "code": "EST",
+        "nickname": "Pincharrata",
+        "logo": "assets/icons/escudos/estudiantes.svg"
       },
       "away": {
-        "id": "1x5i9dl7uyrh5o2th8ore61e6",
-        "name": "Central Córdoba SdE",
-        "clubName": "Central Córdoba SdE",
-        "shortName": "Córdoba SdE",
-        "officialName": "CA Central Córdoba",
-        "code": "CCS",
+        "id": "2zjoq67ogz8lmaoesxkubxhp6",
+        "name": "Instituto",
+        "clubName": "Instituto",
+        "shortName": "Instituto",
+        "officialName": "Instituto AC Córdoba",
+        "code": "INS",
         "nickname": null,
-        "logo": "assets/icons/escudos/central-cordoba.svg"
+        "logo": "assets/icons/escudos/instituto.svg"
       },
       "score": {
         "home": null,
@@ -39626,43 +39671,43 @@
         "htAway": null
       },
       "venue": {
-        "id": "84c7iyyxyn9nv5z6kttx6q962",
-        "name": "Estadio Ciudad de Vicente López",
-        "shortName": "Estadio Ciudad de Vicente López",
-        "lat": "-34.540217184",
-        "lng": "-58.481662273"
+        "id": "vn5vp3t9a1xlbus4ver0uv2t",
+        "name": "Estadio Jorge Luis Hirschi",
+        "shortName": "Estadio Jorge Luis Hirschi",
+        "lat": "-34.912029914",
+        "lng": "-57.938954830"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2uncvg9l4il7g82k8zxta1jbo",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2r8cyxbnkv4d4dolb5e7jwlxw",
+      "date": "2026-11-01",
+      "time": "15:00",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "19ij50t7wklqr3w2bye5r7tp4",
-        "name": "Lanús",
-        "clubName": "Lanús",
-        "shortName": "Lanús",
-        "officialName": "CA Lanús",
-        "code": "LAN",
-        "nickname": "Granate",
-        "logo": "assets/icons/escudos/lanus.svg"
+        "id": "ciqt22ivoc48zj62detdyh1mm",
+        "name": "Boca Juniors",
+        "clubName": "Boca Juniors",
+        "shortName": "Boca",
+        "officialName": "CA Boca Juniors",
+        "code": "BOC",
+        "nickname": "Xeneize",
+        "logo": "assets/icons/escudos/boca.svg"
       },
       "away": {
-        "id": "9vph9w7uflam4cks28dfp98h4",
-        "name": "Gimnasia Mendoza",
-        "clubName": "Gimnasia Mendoza",
-        "shortName": "Gim Mendoza",
-        "officialName": "CA Gimnasia y Esgrima de Mendoza",
-        "code": "GMD",
-        "nickname": null,
-        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
+        "id": "115foion8jwrvp2e7xif675kx",
+        "name": "River Plate",
+        "clubName": "River Plate",
+        "shortName": "River",
+        "officialName": "CA River Plate",
+        "code": "RIV",
+        "nickname": "Millonario",
+        "logo": "assets/icons/escudos/river.svg"
       },
       "score": {
         "home": null,
@@ -39671,43 +39716,43 @@
         "htAway": null
       },
       "venue": {
-        "id": "9daitdo18bb0lf3dnk4erap4l",
-        "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
-        "shortName": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
-        "lat": "-34.717708296",
-        "lng": "-58.383815289"
+        "id": "6nan0as2jh7b0oex8qew6y5oi",
+        "name": "Estadio Alberto José Armando",
+        "shortName": "Estadio Alberto José Armando",
+        "lat": "-34.635582546",
+        "lng": "-58.364637494"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2v4iifad550vh84tcqcnr2jh0",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2t8bi2jsp88qail2xzycu7i8k",
+      "date": "2026-11-01",
+      "time": "18:30",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "39acfbxikh52o6y9opfb0q0nb",
-        "name": "Racing Club",
-        "clubName": "Racing Club",
-        "shortName": "Racing",
-        "officialName": "Racing Club",
-        "code": "RAC",
-        "nickname": "La Academia",
-        "logo": "assets/icons/escudos/racing.svg"
+        "id": "3oj3koph7uf63y1f9zr8r7ylo",
+        "name": "Newell's Old Boys",
+        "clubName": "Newell's Old Boys",
+        "shortName": "Newell's",
+        "officialName": "CA Newell's Old Boys",
+        "code": "NOB",
+        "nickname": "El Leproso",
+        "logo": "assets/icons/escudos/newells.svg"
       },
       "away": {
-        "id": "daclh04s6dduu6f9yw7fm8w6r",
-        "name": "Aldosivi",
-        "clubName": "Aldosivi",
-        "shortName": "Aldosivi",
-        "officialName": "CA Aldosivi",
-        "code": "ALD",
-        "nickname": "El Tiburón",
-        "logo": "assets/icons/escudos/aldosivi.svg"
+        "id": "5o5wtxn03ktvxcdrpxht5aqdp",
+        "name": "Unión",
+        "clubName": "Unión",
+        "shortName": "Unión",
+        "officialName": "CA Unión",
+        "code": "UNI",
+        "nickname": "El Tatengue",
+        "logo": "assets/icons/escudos/union.svg"
       },
       "score": {
         "home": null,
@@ -39716,19 +39761,19 @@
         "htAway": null
       },
       "venue": {
-        "id": "2y66786gtjefwc1uqfda4wfqe",
-        "name": "Estadio Presidente Juan Domingo Perón",
-        "shortName": "Estadio Presidente Juan Domingo Perón",
-        "lat": "-34.667479030",
-        "lng": "-58.368574977"
+        "id": "cozbni460l1y5l86n00qvvujn",
+        "name": "Estadio Marcelo Alberto Bielsa",
+        "shortName": "Estadio Marcelo Alberto Bielsa",
+        "lat": "-32.956041911",
+        "lng": "-60.661547184"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2vld3xrco0rb6r4ovztwsz9ck",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-11-01",
+      "time": "18:30",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39771,33 +39816,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "2w2kq05ag6g8c1h288a5eigic",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2uncvg9l4il7g82k8zxta1jbo",
+      "date": "2026-11-01",
+      "time": "20:45",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "40t5qm271m6s8i8r6hdlqdzv5",
-        "name": "Estudiantes Río Cuarto",
-        "clubName": "Estudiantes Río Cuarto",
-        "shortName": "Estudiantes RC",
-        "officialName": "AA Estudiantes de Río Cuarto",
-        "code": "ERC",
+        "id": "19ij50t7wklqr3w2bye5r7tp4",
+        "name": "Lanús",
+        "clubName": "Lanús",
+        "shortName": "Lanús",
+        "officialName": "CA Lanús",
+        "code": "LAN",
+        "nickname": "Granate",
+        "logo": "assets/icons/escudos/lanus.svg"
+      },
+      "away": {
+        "id": "9vph9w7uflam4cks28dfp98h4",
+        "name": "Gimnasia Mendoza",
+        "clubName": "Gimnasia Mendoza",
+        "shortName": "Gim Mendoza",
+        "officialName": "CA Gimnasia y Esgrima de Mendoza",
+        "code": "GMD",
         "nickname": null,
-        "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg"
-      },
-      "away": {
-        "id": "1rio0xlpk4s2ttmchsqjs6eik",
-        "name": "Gimnasia La Plata",
-        "clubName": "Gimnasia La Plata",
-        "shortName": "GELP",
-        "officialName": "Club de Gimnasia y Esgrima La Plata",
-        "code": "GLP",
-        "nickname": "El Lobo",
-        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
+        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
       },
       "score": {
         "home": null,
@@ -39806,43 +39851,43 @@
         "htAway": null
       },
       "venue": {
-        "id": "dqqggu7niekw3hvjpn0gvmk33",
-        "name": "Estadio Ciudad de Río Cuarto",
-        "shortName": "Estadio Ciudad de Río Cuarto",
-        "lat": "-33.114850422",
-        "lng": "-64.347664118"
+        "id": "9daitdo18bb0lf3dnk4erap4l",
+        "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "shortName": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+        "lat": "-34.717708296",
+        "lng": "-58.383815289"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
-      "id": "2wlww1kzgcv4p724trb789kwk",
-      "date": "2026-11-01Z",
-      "time": "",
+      "id": "2u683ivfymsbittw5q5lqtpuc",
+      "date": "2026-11-02",
+      "time": "19:00",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "1tsjuhn8qeikaj837w2ybx77n",
-        "name": "Sarmiento",
-        "clubName": "Sarmiento",
-        "shortName": "Sarmiento",
-        "officialName": "CA Sarmiento",
-        "code": "SAR",
-        "nickname": "El Verde de Junín",
-        "logo": "assets/icons/escudos/sarmiento.svg"
+        "id": "d08q2rnrt7mss1axbuu595tyu",
+        "name": "Platense",
+        "clubName": "Platense",
+        "shortName": "Platense",
+        "officialName": "CA Platense",
+        "code": "PLA",
+        "nickname": null,
+        "logo": "assets/icons/escudos/platense.svg"
       },
       "away": {
-        "id": "e8ma1lonj51sqmwy00mwnw1ke",
-        "name": "Rosario Central",
-        "clubName": "Rosario Central",
-        "shortName": "Rosario",
-        "officialName": "CA Rosario Central",
-        "code": "ROS",
-        "nickname": "Canalla",
-        "logo": "assets/icons/escudos/rosario-central.svg"
+        "id": "1x5i9dl7uyrh5o2th8ore61e6",
+        "name": "Central Córdoba SdE",
+        "clubName": "Central Córdoba SdE",
+        "shortName": "Córdoba SdE",
+        "officialName": "CA Central Córdoba",
+        "code": "CCS",
+        "nickname": null,
+        "logo": "assets/icons/escudos/central-cordoba.svg"
       },
       "score": {
         "home": null,
@@ -39851,64 +39896,19 @@
         "htAway": null
       },
       "venue": {
-        "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
-        "name": "Estadio Eva Perón de Junín",
-        "shortName": "Estadio Eva Perón de Junín",
-        "lat": "-34.585382973",
-        "lng": "-60.929263830"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2x2yoy5xzxvx2s163wubk7eok",
-      "date": "2026-11-01Z",
-      "time": "",
-      "week": "15",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "3rw8ouixzsh3x8dgy8ifev925",
-        "name": "Huracán",
-        "clubName": "Huracán",
-        "shortName": "Huracán",
-        "officialName": "CA Huracán",
-        "code": "HUR",
-        "nickname": "El Globo",
-        "logo": "assets/icons/escudos/huracan.svg"
-      },
-      "away": {
-        "id": "cs3122cdx3g2nviltzfilmz5c",
-        "name": "Tigre",
-        "clubName": "Tigre",
-        "shortName": "Tigre",
-        "officialName": "CA Tigre",
-        "code": "TIG",
-        "nickname": "El Matador de Victoria",
-        "logo": "assets/icons/escudos/tigre.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "1y0yej47t4htr1e4ptamuz4ps",
-        "name": "Estadio Tomás Adolfo Ducó",
-        "shortName": "Estadio Tomás Adolfo Ducó",
-        "lat": "-34.643425417",
-        "lng": "-58.396502137"
+        "id": "84c7iyyxyn9nv5z6kttx6q962",
+        "name": "Estadio Ciudad de Vicente López",
+        "shortName": "Estadio Ciudad de Vicente López",
+        "lat": "-34.540217184",
+        "lng": "-58.481662273"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "2xk3eb633mkvz2cg0kgu5so44",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-11-02",
+      "time": "21:15",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -39952,8 +39952,8 @@
     },
     {
       "id": "2y16yh97n09kztxjf04ro5t04",
-      "date": "2026-11-01Z",
-      "time": "",
+      "date": "2026-11-02",
+      "time": "21:15",
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
