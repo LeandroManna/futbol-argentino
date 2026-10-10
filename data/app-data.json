@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:18:17",
+  "generatedAt": "2026-10-10T07:34:49",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 420,
-    "fixtures": 74,
+    "played": 422,
+    "fixtures": 72,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-10T01:14:32Z",
+    "lastUpdated": "2026-10-10T02:41:44Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -7356,18 +7356,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 110,
+                  "goalsFor": 112,
                   "goalsAgainst": 119,
-                  "goalDifference": -9,
+                  "goalDifference": -7,
                   "lastSix": null,
-                  "relegationAverage": 1.356,
+                  "relegationAverage": 1.376,
                   "relegation": {
                     "played": 101,
-                    "points": 137,
-                    "average": 1.356,
-                    "goalsFor": 110,
+                    "points": 139,
+                    "average": 1.376,
+                    "goalsFor": 112,
                     "goalsAgainst": 119,
-                    "goalDifference": -9,
+                    "goalDifference": -7,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -7401,12 +7401,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 28,
-                        "matchesWon": 10,
+                        "matchesWon": 11,
                         "matchesLost": 7,
-                        "matchesDraw": 11,
-                        "goalsPro": 34,
+                        "matchesDraw": 10,
+                        "goalsPro": 36,
                         "goalsAgainst": 32,
-                        "points": 41
+                        "points": 43
                       }
                     ]
                   }
@@ -7633,17 +7633,17 @@
                   "drawn": null,
                   "lost": null,
                   "goalsFor": 115,
-                  "goalsAgainst": 109,
-                  "goalDifference": 6,
+                  "goalsAgainst": 111,
+                  "goalDifference": 4,
                   "lastSix": null,
-                  "relegationAverage": 1.326,
+                  "relegationAverage": 1.316,
                   "relegation": {
                     "played": 101,
-                    "points": 134,
-                    "average": 1.326,
+                    "points": 133,
+                    "average": 1.316,
                     "goalsFor": 115,
-                    "goalsAgainst": 109,
-                    "goalDifference": 6,
+                    "goalsAgainst": 111,
+                    "goalDifference": 4,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -7678,11 +7678,11 @@
                         "name": "2026",
                         "matchesPlayed": 28,
                         "matchesWon": 9,
-                        "matchesLost": 11,
-                        "matchesDraw": 8,
+                        "matchesLost": 12,
+                        "matchesDraw": 7,
                         "goalsPro": 41,
-                        "goalsAgainst": 39,
-                        "points": 35
+                        "goalsAgainst": 41,
+                        "points": 34
                       }
                     ]
                   }
@@ -8784,6 +8784,27 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 43,
+                  "played": 28,
+                  "won": 11,
+                  "drawn": 10,
+                  "lost": 7,
+                  "goalsFor": 36,
+                  "goalsAgainst": 32,
+                  "goalDifference": "+4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
                   "clubName": "River Plate",
@@ -8803,7 +8824,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "19ij50t7wklqr3w2bye5r7tp4",
                   "team": "CA Lanús",
@@ -8824,7 +8845,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -8845,7 +8866,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 13,
+                  "rank": 14,
                   "rankStatus": null,
                   "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
                   "team": "CA Independiente",
@@ -8861,27 +8882,6 @@
                   "goalsFor": 35,
                   "goalsAgainst": 32,
                   "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 14,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 41,
-                  "played": 28,
-                  "won": 10,
-                  "drawn": 11,
-                  "lost": 7,
-                  "goalsFor": 34,
-                  "goalsAgainst": 32,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -8958,14 +8958,14 @@
                   "shortName": "Unión",
                   "code": "UNI",
                   "logo": "assets/icons/escudos/union.svg",
-                  "points": 35,
+                  "points": 34,
                   "played": 28,
                   "won": 9,
-                  "drawn": 8,
-                  "lost": 11,
+                  "drawn": 7,
+                  "lost": 12,
                   "goalsFor": 41,
-                  "goalsAgainst": 39,
-                  "goalDifference": "+2",
+                  "goalsAgainst": 41,
+                  "goalDifference": "+0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9269,15 +9269,15 @@
                   "shortName": "Def y Justicia",
                   "code": "DYJ",
                   "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 22,
+                  "points": 24,
                   "played": 12,
-                  "won": 6,
-                  "drawn": 4,
+                  "won": 7,
+                  "drawn": 3,
                   "lost": 2,
-                  "goalsFor": 16,
+                  "goalsFor": 18,
                   "goalsAgainst": 11,
-                  "goalDifference": "+5",
-                  "lastSix": "WDWLWW",
+                  "goalDifference": "+7",
+                  "lastSix": "WWDWLW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9410,27 +9410,6 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
-                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
-                  "team": "CA Unión",
-                  "clubName": "Unión",
-                  "shortName": "Unión",
-                  "code": "UNI",
-                  "logo": "assets/icons/escudos/union.svg",
-                  "points": 14,
-                  "played": 12,
-                  "won": 4,
-                  "drawn": 2,
-                  "lost": 6,
-                  "goalsFor": 17,
-                  "goalsAgainst": 19,
-                  "goalDifference": "-2",
-                  "lastSix": "LLLWWW",
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 10,
-                  "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -9446,6 +9425,27 @@
                   "goalsAgainst": 11,
                   "goalDifference": "+2",
                   "lastSix": "WLWLDL",
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 10,
+                  "rankStatus": null,
+                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
+                  "team": "CA Unión",
+                  "clubName": "Unión",
+                  "shortName": "Unión",
+                  "code": "UNI",
+                  "logo": "assets/icons/escudos/union.svg",
+                  "points": 13,
+                  "played": 12,
+                  "won": 4,
+                  "drawn": 1,
+                  "lost": 7,
+                  "goalsFor": 17,
+                  "goalsAgainst": 21,
+                  "goalDifference": "-4",
+                  "lastSix": "LLLLWW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -10033,27 +10033,6 @@
                 {
                   "rank": 8,
                   "rankStatus": null,
-                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
-                  "team": "CA Unión",
-                  "clubName": "Unión",
-                  "shortName": "Unión",
-                  "code": "UNI",
-                  "logo": "assets/icons/escudos/union.svg",
-                  "points": 10,
-                  "played": 6,
-                  "won": 3,
-                  "drawn": 1,
-                  "lost": 2,
-                  "goalsFor": 11,
-                  "goalsAgainst": 8,
-                  "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 9,
-                  "rankStatus": null,
                   "teamId": "19ij50t7wklqr3w2bye5r7tp4",
                   "team": "CA Lanús",
                   "clubName": "Lanús",
@@ -10068,6 +10047,27 @@
                   "goalsFor": 6,
                   "goalsAgainst": 6,
                   "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 9,
+                  "rankStatus": null,
+                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
+                  "team": "CA Unión",
+                  "clubName": "Unión",
+                  "shortName": "Unión",
+                  "code": "UNI",
+                  "logo": "assets/icons/escudos/union.svg",
+                  "points": 9,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 0,
+                  "lost": 3,
+                  "goalsFor": 11,
+                  "goalsAgainst": 10,
+                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -10593,6 +10593,27 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 8,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 2,
+                  "lost": 2,
+                  "goalsFor": 7,
+                  "goalsAgainst": 8,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 5,
+                  "rankStatus": null,
                   "teamId": "19ij50t7wklqr3w2bye5r7tp4",
                   "team": "CA Lanús",
                   "clubName": "Lanús",
@@ -10612,7 +10633,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
@@ -10633,7 +10654,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": null,
                   "teamId": "d08q2rnrt7mss1axbuu595tyu",
                   "team": "CA Platense",
@@ -10654,7 +10675,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -10669,27 +10690,6 @@
                   "lost": 4,
                   "goalsFor": 6,
                   "goalsAgainst": 9,
-                  "goalDifference": "-3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 6,
-                  "played": 6,
-                  "won": 1,
-                  "drawn": 3,
-                  "lost": 2,
-                  "goalsFor": 5,
-                  "goalsAgainst": 8,
                   "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11195,6 +11195,27 @@
                 {
                   "rank": 2,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 13,
+                  "played": 6,
+                  "won": 4,
+                  "drawn": 1,
+                  "lost": 1,
+                  "goalsFor": 10,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+7",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 3,
+                  "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
                   "clubName": "Instituto",
@@ -11208,27 +11229,6 @@
                   "lost": 1,
                   "goalsFor": 13,
                   "goalsAgainst": 8,
-                  "goalDifference": "+5",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 3,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 11,
-                  "played": 6,
-                  "won": 3,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 8,
-                  "goalsAgainst": 3,
                   "goalDifference": "+5",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -11363,27 +11363,6 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
-                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
-                  "team": "CA Unión",
-                  "clubName": "Unión",
-                  "shortName": "Unión",
-                  "code": "UNI",
-                  "logo": "assets/icons/escudos/union.svg",
-                  "points": 7,
-                  "played": 6,
-                  "won": 2,
-                  "drawn": 1,
-                  "lost": 3,
-                  "goalsFor": 8,
-                  "goalsAgainst": 10,
-                  "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 11,
-                  "rankStatus": null,
                   "teamId": "2sciofe2reang4qdncm1bihgr",
                   "team": "CA San Lorenzo de Almagro",
                   "clubName": "San Lorenzo",
@@ -11397,6 +11376,27 @@
                   "lost": 3,
                   "goalsFor": 3,
                   "goalsAgainst": 7,
+                  "goalDifference": "-4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
+                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
+                  "team": "CA Unión",
+                  "clubName": "Unión",
+                  "shortName": "Unión",
+                  "code": "UNI",
+                  "logo": "assets/icons/escudos/union.svg",
+                  "points": 6,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 4,
+                  "goalsFor": 8,
+                  "goalsAgainst": 12,
                   "goalDifference": "-4",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -12007,27 +12007,6 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
-                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
-                  "team": "CA Unión",
-                  "clubName": "Unión",
-                  "shortName": "Unión",
-                  "code": "UNI",
-                  "logo": "assets/icons/escudos/union.svg",
-                  "points": 4,
-                  "played": 3,
-                  "won": 1,
-                  "drawn": 1,
-                  "lost": 1,
-                  "goalsFor": 4,
-                  "goalsAgainst": 4,
-                  "goalDifference": "0",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 11,
-                  "rankStatus": null,
                   "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
                   "team": "CA Talleres",
                   "clubName": "Talleres de Córdoba",
@@ -12042,6 +12021,27 @@
                   "goalsFor": 2,
                   "goalsAgainst": 2,
                   "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
+                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
+                  "team": "CA Unión",
+                  "clubName": "Unión",
+                  "shortName": "Unión",
+                  "code": "UNI",
+                  "logo": "assets/icons/escudos/union.svg",
+                  "points": 3,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 0,
+                  "lost": 2,
+                  "goalsFor": 4,
+                  "goalsAgainst": 6,
+                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12567,6 +12567,27 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 4,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 1,
+                  "lost": 1,
+                  "goalsFor": 4,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 7,
+                  "rankStatus": null,
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
@@ -12586,7 +12607,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": null,
                   "teamId": "7gcwwr8m5docs6jqrn2stilie",
                   "team": "CD Riestra",
@@ -12607,7 +12628,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -12628,7 +12649,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 9,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -12644,27 +12665,6 @@
                   "goalsFor": 3,
                   "goalsAgainst": 5,
                   "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 10,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 2,
-                  "played": 3,
-                  "won": 0,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 2,
-                  "goalsAgainst": 3,
-                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13112,14 +13112,14 @@
                   "shortName": "Def y Justicia",
                   "code": "DYJ",
                   "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 21,
-                  "played": 11,
-                  "won": 6,
+                  "points": 24,
+                  "played": 12,
+                  "won": 7,
                   "drawn": 3,
                   "lost": 2,
-                  "goalsFor": 10,
+                  "goalsFor": 12,
                   "goalsAgainst": 5,
-                  "goalDifference": "+5",
+                  "goalDifference": "+7",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13344,13 +13344,13 @@
                   "code": "UNI",
                   "logo": "assets/icons/escudos/union.svg",
                   "points": 10,
-                  "played": 11,
+                  "played": 12,
                   "won": 2,
                   "drawn": 4,
-                  "lost": 5,
+                  "lost": 6,
                   "goalsFor": 3,
-                  "goalsAgainst": 6,
-                  "goalDifference": "-3",
+                  "goalsAgainst": 8,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13876,27 +13876,6 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
-                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
-                  "team": "CA Unión",
-                  "clubName": "Unión",
-                  "shortName": "Unión",
-                  "code": "UNI",
-                  "logo": "assets/icons/escudos/union.svg",
-                  "points": 9,
-                  "played": 5,
-                  "won": 2,
-                  "drawn": 3,
-                  "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 1,
-                  "goalDifference": "+2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
                   "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
                   "team": "CA Independiente",
                   "clubName": "Independiente",
@@ -13911,6 +13890,27 @@
                   "goalsFor": 3,
                   "goalsAgainst": 2,
                   "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
+                  "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
+                  "team": "CA Unión",
+                  "clubName": "Unión",
+                  "shortName": "Unión",
+                  "code": "UNI",
+                  "logo": "assets/icons/escudos/union.svg",
+                  "points": 9,
+                  "played": 6,
+                  "won": 2,
+                  "drawn": 3,
+                  "lost": 1,
+                  "goalsFor": 3,
+                  "goalsAgainst": 3,
+                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14394,6 +14394,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 10,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 1,
+                  "lost": 2,
+                  "goalsFor": 4,
+                  "goalsAgainst": 4,
+                  "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "ciqt22ivoc48zj62detdyh1mm",
                   "team": "CA Boca Juniors",
                   "clubName": "Boca Juniors",
@@ -14413,7 +14434,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 2,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -14429,27 +14450,6 @@
                   "goalsFor": 3,
                   "goalsAgainst": 1,
                   "goalDifference": "+2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 3,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 7,
-                  "played": 5,
-                  "won": 2,
-                  "drawn": 1,
-                  "lost": 2,
-                  "goalsFor": 2,
-                  "goalsAgainst": 4,
-                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15045,7 +15045,7 @@
                   "code": "UNI",
                   "logo": "assets/icons/escudos/union.svg",
                   "points": null,
-                  "played": 11,
+                  "played": 12,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15143,14 +15143,14 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
+                  "team": "Instituto AC Córdoba",
+                  "clubName": "Instituto",
+                  "shortName": "Instituto",
+                  "code": "INS",
+                  "logo": "assets/icons/escudos/instituto.svg",
                   "points": null,
-                  "played": 11,
+                  "played": 12,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15164,12 +15164,12 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
-                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
-                  "team": "Instituto AC Córdoba",
-                  "clubName": "Instituto",
-                  "shortName": "Instituto",
-                  "code": "INS",
-                  "logo": "assets/icons/escudos/instituto.svg",
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
                   "points": null,
                   "played": 12,
                   "won": null,
@@ -16521,18 +16521,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 110,
+                  "goalsFor": 112,
                   "goalsAgainst": 119,
-                  "goalDifference": -9,
+                  "goalDifference": -7,
                   "lastSix": null,
-                  "relegationAverage": 1.356,
+                  "relegationAverage": 1.376,
                   "relegation": {
                     "played": 101,
-                    "points": 137,
-                    "average": 1.356,
-                    "goalsFor": 110,
+                    "points": 139,
+                    "average": 1.376,
+                    "goalsFor": 112,
                     "goalsAgainst": 119,
-                    "goalDifference": -9,
+                    "goalDifference": -7,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -16566,12 +16566,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 28,
-                        "matchesWon": 10,
+                        "matchesWon": 11,
                         "matchesLost": 7,
-                        "matchesDraw": 11,
-                        "goalsPro": 34,
+                        "matchesDraw": 10,
+                        "goalsPro": 36,
                         "goalsAgainst": 32,
-                        "points": 41
+                        "points": 43
                       }
                     ]
                   }
@@ -16798,17 +16798,17 @@
                   "drawn": null,
                   "lost": null,
                   "goalsFor": 115,
-                  "goalsAgainst": 109,
-                  "goalDifference": 6,
+                  "goalsAgainst": 111,
+                  "goalDifference": 4,
                   "lastSix": null,
-                  "relegationAverage": 1.326,
+                  "relegationAverage": 1.316,
                   "relegation": {
                     "played": 101,
-                    "points": 134,
-                    "average": 1.326,
+                    "points": 133,
+                    "average": 1.316,
                     "goalsFor": 115,
-                    "goalsAgainst": 109,
-                    "goalDifference": 6,
+                    "goalsAgainst": 111,
+                    "goalDifference": 4,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -16843,11 +16843,11 @@
                         "name": "2026",
                         "matchesPlayed": 28,
                         "matchesWon": 9,
-                        "matchesLost": 11,
-                        "matchesDraw": 8,
+                        "matchesLost": 12,
+                        "matchesDraw": 7,
                         "goalsPro": 41,
-                        "goalsAgainst": 39,
-                        "points": 35
+                        "goalsAgainst": 41,
+                        "points": 34
                       }
                     ]
                   }
@@ -17949,6 +17949,27 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
+                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
+                  "team": "CSD Defensa y Justicia",
+                  "clubName": "Defensa y Justicia",
+                  "shortName": "Def y Justicia",
+                  "code": "DYJ",
+                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
+                  "points": 43,
+                  "played": 28,
+                  "won": 11,
+                  "drawn": 10,
+                  "lost": 7,
+                  "goalsFor": 36,
+                  "goalsAgainst": 32,
+                  "goalDifference": "+4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
                   "clubName": "River Plate",
@@ -17968,7 +17989,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "19ij50t7wklqr3w2bye5r7tp4",
                   "team": "CA Lanús",
@@ -17989,7 +18010,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -18010,7 +18031,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 13,
+                  "rank": 14,
                   "rankStatus": null,
                   "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
                   "team": "CA Independiente",
@@ -18026,27 +18047,6 @@
                   "goalsFor": 35,
                   "goalsAgainst": 32,
                   "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 14,
-                  "rankStatus": null,
-                  "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
-                  "team": "CSD Defensa y Justicia",
-                  "clubName": "Defensa y Justicia",
-                  "shortName": "Def y Justicia",
-                  "code": "DYJ",
-                  "logo": "assets/icons/escudos/defensa-y-justicia.svg",
-                  "points": 41,
-                  "played": 28,
-                  "won": 10,
-                  "drawn": 11,
-                  "lost": 7,
-                  "goalsFor": 34,
-                  "goalsAgainst": 32,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -18123,14 +18123,14 @@
                   "shortName": "Unión",
                   "code": "UNI",
                   "logo": "assets/icons/escudos/union.svg",
-                  "points": 35,
+                  "points": 34,
                   "played": 28,
                   "won": 9,
-                  "drawn": 8,
-                  "lost": 11,
+                  "drawn": 7,
+                  "lost": 12,
                   "goalsFor": 41,
-                  "goalsAgainst": 39,
-                  "goalDifference": "+2",
+                  "goalsAgainst": 41,
+                  "goalDifference": "+0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -37302,8 +37302,8 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "1rio0xlpk4s2ttmchsqjs6eik",
         "name": "Gimnasia La Plata",
@@ -37325,10 +37325,10 @@
         "logo": "assets/icons/escudos/atletico-tucuman.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "1ssq5wag2nu8krpkdndf2d9qa",
@@ -37337,8 +37337,8 @@
         "lat": "-34.910956553",
         "lng": "-57.932581902"
       },
-      "cardsCount": 2,
-      "substitutionsCount": 0
+      "cardsCount": 6,
+      "substitutionsCount": 10
     },
     {
       "id": "275deu5b76f91nuq4fygbgh78",
@@ -37347,8 +37347,8 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "2zjoq67ogz8lmaoesxkubxhp6",
         "name": "Instituto",
@@ -37370,10 +37370,10 @@
         "logo": "assets/icons/escudos/boca.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "crymr9q1rvdywoq6nq30126nh",
@@ -37382,8 +37382,8 @@
         "lat": "-31.383720551",
         "lng": "-64.180251360"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 7,
+      "substitutionsCount": 9
     },
     {
       "id": "26m82qoq4r1edwf5hvfc1xdzo",
@@ -37392,7 +37392,7 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "5o5wtxn03ktvxcdrpxht5aqdp",
@@ -37415,8 +37415,8 @@
         "logo": "assets/icons/escudos/defensa-y-justicia.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -37427,7 +37427,7 @@
         "lat": "-31.631871174",
         "lng": "-60.715717077"
       },
-      "cardsCount": 0,
+      "cardsCount": 1,
       "substitutionsCount": 0
     },
     {
@@ -40799,16 +40799,23 @@
       "logo": "assets/icons/escudos/atletico-tucuman.svg",
       "homeVenue": "Estadio Monumental Presidente José Fierro",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 6,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 12,
-        "goalsFor": 24,
-        "goalsAgainst": 29,
+        "goalsFor": 25,
+        "goalsAgainst": 30,
         "goalDifference": -5,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-09",
+          "stage": "Clausura",
+          "home": "GELP",
+          "away": "Atl. Tucumán",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-03",
           "stage": "Clausura",
@@ -40836,13 +40843,6 @@
           "home": "Racing",
           "away": "Atl. Tucumán",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-29",
-          "stage": "Clausura",
-          "home": "Atl. Tucumán",
-          "away": "Belgrano",
-          "score": "0-0"
         }
       ]
     },
@@ -41031,16 +41031,23 @@
       "logo": "assets/icons/escudos/boca.svg",
       "homeVenue": "Estadio Alberto José Armando",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 13,
-        "drawn": 11,
+        "drawn": 12,
         "lost": 4,
-        "goalsFor": 41,
-        "goalsAgainst": 23,
+        "goalsFor": 43,
+        "goalsAgainst": 25,
         "goalDifference": 18,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-09",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Boca",
+          "score": "2-2"
+        },
         {
           "date": "2026-10-02",
           "stage": "Clausura",
@@ -41068,13 +41075,6 @@
           "home": "Gim Mendoza",
           "away": "Boca",
           "score": "2-2"
-        },
-        {
-          "date": "2026-08-28",
-          "stage": "Clausura",
-          "home": "Boca",
-          "away": "Lanús",
-          "score": "1-0"
         }
       ]
     },
@@ -41154,7 +41154,7 @@
         "goalsFor": 34,
         "goalsAgainst": 32,
         "goalDifference": 2,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
         {
@@ -41379,16 +41379,23 @@
       "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
       "homeVenue": "Estadio Juan Carmelo Zerillo",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 14,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 10,
-        "goalsFor": 36,
-        "goalsAgainst": 37,
+        "goalsFor": 37,
+        "goalsAgainst": 38,
         "goalDifference": -1,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-09",
+          "stage": "Clausura",
+          "home": "GELP",
+          "away": "Atl. Tucumán",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-02",
           "stage": "Clausura",
@@ -41416,13 +41423,6 @@
           "home": "GELP",
           "away": "Tigre",
           "score": "2-1"
-        },
-        {
-          "date": "2026-08-29",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "GELP",
-          "score": "1-2"
         }
       ]
     },
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Juan Domingo Perón",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 14,
-        "drawn": 4,
+        "drawn": 5,
         "lost": 9,
-        "goalsFor": 34,
-        "goalsAgainst": 25,
+        "goalsFor": 36,
+        "goalsAgainst": 27,
         "goalDifference": 9,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-09",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Boca",
+          "score": "2-2"
+        },
         {
           "date": "2026-10-02",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Unión",
           "away": "Instituto",
           "score": "3-2"
-        },
-        {
-          "date": "2026-08-31",
-          "stage": "Clausura",
-          "home": "Instituto",
-          "away": "San Lorenzo",
-          "score": "1-0"
         }
       ]
     },
@@ -42314,7 +42314,7 @@
         "goalsFor": 43,
         "goalsAgainst": 42,
         "goalDifference": 1,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
         {
