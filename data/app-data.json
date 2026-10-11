@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:31:21",
+  "generatedAt": "2026-10-11T13:33:14",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 426,
+    "played": 427,
     "fixtures": 68,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -37572,8 +37572,8 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "115foion8jwrvp2e7xif675kx",
         "name": "River Plate",
@@ -37597,8 +37597,8 @@
       "score": {
         "home": 1,
         "away": 0,
-        "htHome": null,
-        "htAway": null
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "7xyfskcpghmryithcog91y6y3",
@@ -37608,7 +37608,7 @@
         "lng": "-58.449722528"
       },
       "cardsCount": 2,
-      "substitutionsCount": 0
+      "substitutionsCount": 9
     },
     {
       "id": "2655sdqcgg45aeeyv8dp7alg4",
@@ -41321,16 +41321,23 @@
       "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
       "homeVenue": "Estadio Ciudad de Río Cuarto",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 2,
         "drawn": 5,
-        "lost": 20,
+        "lost": 21,
         "goalsFor": 11,
-        "goalsAgainst": 39,
-        "goalDifference": -28,
+        "goalsAgainst": 40,
+        "goalDifference": -29,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-10",
+          "stage": "Clausura",
+          "home": "River",
+          "away": "Estudiantes RC",
+          "score": "1-0"
+        },
         {
           "date": "2026-10-04",
           "stage": "Clausura",
@@ -41358,13 +41365,6 @@
           "home": "Estudiantes RC",
           "away": "Sarmiento",
           "score": "0-2"
-        },
-        {
-          "date": "2026-08-29",
-          "stage": "Clausura",
-          "home": "Huracán",
-          "away": "Estudiantes RC",
-          "score": "1-1"
         }
       ]
     },
@@ -41959,16 +41959,23 @@
       "logo": "assets/icons/escudos/river.svg",
       "homeVenue": "Estadio Monumental",
       "stats": {
-        "played": 30,
-        "won": 16,
+        "played": 31,
+        "won": 17,
         "drawn": 3,
         "lost": 11,
-        "goalsFor": 46,
+        "goalsFor": 47,
         "goalsAgainst": 32,
-        "goalDifference": 14,
+        "goalDifference": 15,
         "upcoming": 5
       },
       "recentMatches": [
+        {
+          "date": "2026-10-10",
+          "stage": "Clausura",
+          "home": "River",
+          "away": "Estudiantes RC",
+          "score": "1-0"
+        },
         {
           "date": "2026-09-19",
           "stage": "Clausura",
@@ -41996,13 +42003,6 @@
           "home": "Banfield",
           "away": "River",
           "score": "2-3"
-        },
-        {
-          "date": "2026-08-23",
-          "stage": "Clausura",
-          "home": "River",
-          "away": "Vélez",
-          "score": "2-2"
         }
       ]
     },
