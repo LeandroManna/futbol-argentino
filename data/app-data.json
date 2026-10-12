@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:02:03",
+  "generatedAt": "2026-10-12T17:55:43",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 431,
+    "played": 432,
     "fixtures": 63,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-12T02:26:54Z",
+    "lastUpdated": "2026-10-12T13:38:47Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -35762,7 +35762,7 @@
         "lat": "-34.670192401",
         "lng": "-58.370983601"
       },
-      "cardsCount": 5,
+      "cardsCount": 6,
       "substitutionsCount": 9
     },
     {
@@ -35987,7 +35987,7 @@
         "lat": "-27.793820266",
         "lng": "-64.264268875"
       },
-      "cardsCount": 6,
+      "cardsCount": 7,
       "substitutionsCount": 10
     },
     {
@@ -37797,8 +37797,8 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "ajeh0pq7dtphe0btz4wc4xb0g",
         "name": "Talleres de Córdoba",
@@ -37832,8 +37832,8 @@
         "lat": "-31.368991412",
         "lng": "-64.246051311"
       },
-      "cardsCount": 1,
-      "substitutionsCount": 0
+      "cardsCount": 2,
+      "substitutionsCount": 10
     },
     {
       "id": "24q34y4vkoa5zr76573ynhono",
@@ -41553,9 +41553,9 @@
       "logo": "assets/icons/escudos/independiente.svg",
       "homeVenue": "Estadio Libertadores de América",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 11,
-        "drawn": 8,
+        "drawn": 9,
         "lost": 9,
         "goalsFor": 36,
         "goalsAgainst": 35,
@@ -41563,6 +41563,13 @@
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-11",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Independiente",
+          "score": "0-0"
+        },
         {
           "date": "2026-10-02",
           "stage": "Clausura",
@@ -41590,13 +41597,6 @@
           "home": "Córdoba SdE",
           "away": "Independiente",
           "score": "0-1"
-        },
-        {
-          "date": "2026-08-30",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Gim Mendoza",
-          "score": "0-3"
         }
       ]
     },
@@ -42191,9 +42191,9 @@
       "logo": "assets/icons/escudos/talleres.svg",
       "homeVenue": "Estadio Mario Alberto Kempes",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 9,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 12,
         "goalsFor": 28,
         "goalsAgainst": 32,
@@ -42201,6 +42201,13 @@
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-11",
+          "stage": "Clausura",
+          "home": "Talleres",
+          "away": "Independiente",
+          "score": "0-0"
+        },
         {
           "date": "2026-10-04",
           "stage": "Clausura",
@@ -42228,13 +42235,6 @@
           "home": "San Lorenzo",
           "away": "Talleres",
           "score": "1-0"
-        },
-        {
-          "date": "2026-08-29",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Córdoba SdE",
-          "score": "0-0"
         }
       ]
     },
