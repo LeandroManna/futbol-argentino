@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:34:26",
+  "generatedAt": "2026-10-12T08:02:03",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 430,
-    "fixtures": 64,
+    "played": 431,
+    "fixtures": 63,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-12T01:17:42Z",
+    "lastUpdated": "2026-10-12T02:26:54Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -9340,7 +9340,7 @@
                   "goalsFor": 11,
                   "goalsAgainst": 12,
                   "goalDifference": "-1",
-                  "lastSix": "LWDWLD",
+                  "lastSix": "DLWDWL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9550,7 +9550,7 @@
                   "goalsFor": 11,
                   "goalsAgainst": 18,
                   "goalDifference": "-7",
-                  "lastSix": "LLWLDD",
+                  "lastSix": "DLLWLD",
                   "relegationAverage": null,
                   "relegation": null
                 }
@@ -13196,10 +13196,10 @@
                   "shortName": "Independiente",
                   "code": "CAI",
                   "logo": "assets/icons/escudos/independiente.svg",
-                  "points": 16,
-                  "played": 11,
+                  "points": 17,
+                  "played": 12,
                   "won": 3,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 1,
                   "goalsFor": 4,
                   "goalsAgainst": 2,
@@ -13217,10 +13217,10 @@
                   "shortName": "Talleres",
                   "code": "TAL",
                   "logo": "assets/icons/escudos/talleres.svg",
-                  "points": 16,
-                  "played": 11,
+                  "points": 17,
+                  "played": 12,
                   "won": 3,
-                  "drawn": 7,
+                  "drawn": 8,
                   "lost": 1,
                   "goalsFor": 4,
                   "goalsAgainst": 3,
@@ -13813,6 +13813,27 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
+                  "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
+                  "team": "CA Talleres",
+                  "clubName": "Talleres de Córdoba",
+                  "shortName": "Talleres",
+                  "code": "TAL",
+                  "logo": "assets/icons/escudos/talleres.svg",
+                  "points": 11,
+                  "played": 7,
+                  "won": 2,
+                  "drawn": 5,
+                  "lost": 0,
+                  "goalsFor": 3,
+                  "goalsAgainst": 1,
+                  "goalDifference": "+2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 5,
+                  "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -13827,27 +13848,6 @@
                   "goalsFor": 5,
                   "goalsAgainst": 1,
                   "goalDifference": "+4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 5,
-                  "rankStatus": null,
-                  "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
-                  "team": "CA Talleres",
-                  "clubName": "Talleres de Córdoba",
-                  "shortName": "Talleres",
-                  "code": "TAL",
-                  "logo": "assets/icons/escudos/talleres.svg",
-                  "points": 10,
-                  "played": 6,
-                  "won": 2,
-                  "drawn": 4,
-                  "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 1,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14463,10 +14463,10 @@
                   "shortName": "Independiente",
                   "code": "CAI",
                   "logo": "assets/icons/escudos/independiente.svg",
-                  "points": 7,
-                  "played": 5,
+                  "points": 8,
+                  "played": 6,
                   "won": 1,
-                  "drawn": 4,
+                  "drawn": 5,
                   "lost": 0,
                   "goalsFor": 1,
                   "goalsAgainst": 0,
@@ -15080,27 +15080,6 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
-                  "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
-                  "team": "CA Talleres",
-                  "clubName": "Talleres de Córdoba",
-                  "shortName": "Talleres",
-                  "code": "TAL",
-                  "logo": "assets/icons/escudos/talleres.svg",
-                  "points": null,
-                  "played": 11,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 4,
-                  "rankStatus": null,
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
@@ -15120,7 +15099,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "d08q2rnrt7mss1axbuu595tyu",
                   "team": "CA Platense",
@@ -15141,7 +15120,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
                   "team": "Instituto AC Córdoba",
@@ -15149,6 +15128,27 @@
                   "shortName": "Instituto",
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
+                  "points": null,
+                  "played": 12,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
+                  "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
+                  "team": "CA Talleres",
+                  "clubName": "Talleres de Córdoba",
+                  "shortName": "Talleres",
+                  "code": "TAL",
+                  "logo": "assets/icons/escudos/talleres.svg",
                   "points": null,
                   "played": 12,
                   "won": null,
@@ -15248,12 +15248,12 @@
                 {
                   "rank": 11,
                   "rankStatus": null,
-                  "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
-                  "team": "CA Independiente",
-                  "clubName": "Independiente",
-                  "shortName": "Independiente",
-                  "code": "CAI",
-                  "logo": "assets/icons/escudos/independiente.svg",
+                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
+                  "team": "CA Lanús",
+                  "clubName": "Lanús",
+                  "shortName": "Lanús",
+                  "code": "LAN",
+                  "logo": "assets/icons/escudos/lanus.svg",
                   "points": null,
                   "played": 11,
                   "won": null,
@@ -15269,14 +15269,14 @@
                 {
                   "rank": 12,
                   "rankStatus": null,
-                  "teamId": "19ij50t7wklqr3w2bye5r7tp4",
-                  "team": "CA Lanús",
-                  "clubName": "Lanús",
-                  "shortName": "Lanús",
-                  "code": "LAN",
-                  "logo": "assets/icons/escudos/lanus.svg",
+                  "teamId": "ag3u5yhvyaxwtebl9xp5e2vaa",
+                  "team": "CA Independiente",
+                  "clubName": "Independiente",
+                  "shortName": "Independiente",
+                  "code": "CAI",
+                  "logo": "assets/icons/escudos/independiente.svg",
                   "points": null,
-                  "played": 11,
+                  "played": 12,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -37562,7 +37562,7 @@
         "lat": "-34.449360850",
         "lng": "-58.542226553"
       },
-      "cardsCount": 6,
+      "cardsCount": 5,
       "substitutionsCount": 8
     },
     {
@@ -37752,8 +37752,8 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "39acfbxikh52o6y9opfb0q0nb",
         "name": "Racing Club",
@@ -37776,9 +37776,9 @@
       },
       "score": {
         "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "away": 2,
+        "htHome": 0,
+        "htAway": 1
       },
       "venue": {
         "id": "2y66786gtjefwc1uqfda4wfqe",
@@ -37787,8 +37787,8 @@
         "lat": "-34.667479030",
         "lng": "-58.368574977"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 9
     },
     {
       "id": "27mmr96hv3wx5pm0mciz30h78",
@@ -37797,7 +37797,7 @@
       "week": "12",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "ajeh0pq7dtphe0btz4wc4xb0g",
@@ -37820,10 +37820,10 @@
         "logo": "assets/icons/escudos/independiente.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 0,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "biabh59k1zbdgx66fi5gfgfr5",
@@ -37832,7 +37832,7 @@
         "lat": "-31.368991412",
         "lng": "-64.246051311"
       },
-      "cardsCount": 0,
+      "cardsCount": 1,
       "substitutionsCount": 0
     },
     {
@@ -40973,16 +40973,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 31,
-        "won": 16,
+        "played": 32,
+        "won": 17,
         "drawn": 9,
         "lost": 6,
-        "goalsFor": 40,
+        "goalsFor": 42,
         "goalsAgainst": 26,
-        "goalDifference": 14,
+        "goalDifference": 16,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-11",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Belgrano",
+          "score": "0-2"
+        },
         {
           "date": "2026-10-04",
           "stage": "Clausura",
@@ -41010,13 +41017,6 @@
           "home": "Belgrano",
           "away": "Huracán",
           "score": "1-1"
-        },
-        {
-          "date": "2026-08-29",
-          "stage": "Clausura",
-          "home": "Atl. Tucumán",
-          "away": "Belgrano",
-          "score": "0-0"
         }
       ]
     },
@@ -41560,7 +41560,7 @@
         "goalsFor": 36,
         "goalsAgainst": 35,
         "goalDifference": 1,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
         {
@@ -41901,16 +41901,23 @@
       "logo": "assets/icons/escudos/racing.svg",
       "homeVenue": "Estadio Presidente Juan Domingo Perón",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 9,
         "drawn": 8,
-        "lost": 12,
+        "lost": 13,
         "goalsFor": 32,
-        "goalsAgainst": 34,
-        "goalDifference": -2,
+        "goalsAgainst": 36,
+        "goalDifference": -4,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-11",
+          "stage": "Clausura",
+          "home": "Racing",
+          "away": "Belgrano",
+          "score": "0-2"
+        },
         {
           "date": "2026-10-04",
           "stage": "Clausura",
@@ -41938,13 +41945,6 @@
           "home": "Racing",
           "away": "Atl. Tucumán",
           "score": "1-2"
-        },
-        {
-          "date": "2026-08-30",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Racing",
-          "score": "3-1"
         }
       ]
     },
@@ -42198,7 +42198,7 @@
         "goalsFor": 28,
         "goalsAgainst": 32,
         "goalDifference": -4,
-        "upcoming": 5
+        "upcoming": 4
       },
       "recentMatches": [
         {
