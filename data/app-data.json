@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:32:15",
+  "generatedAt": "2026-10-15T05:15:41",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 434,
+    "played": 435,
     "fixtures": 60,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -37932,8 +37932,8 @@
       "week": "11",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "1tsjuhn8qeikaj837w2ybx77n",
         "name": "Sarmiento",
@@ -37955,10 +37955,10 @@
         "logo": "assets/icons/escudos/river.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "bcwe6tpf7v0ojv6n8fdbpwjnb",
@@ -37967,8 +37967,8 @@
         "lat": "-34.585382973",
         "lng": "-60.929263830"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 8
     },
     {
       "id": "2ho0zd6v8k0oab9fk7ke5gdn8",
@@ -41959,16 +41959,23 @@
       "logo": "assets/icons/escudos/river.svg",
       "homeVenue": "Estadio Monumental",
       "stats": {
-        "played": 31,
+        "played": 32,
         "won": 17,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 11,
-        "goalsFor": 47,
-        "goalsAgainst": 32,
+        "goalsFor": 48,
+        "goalsAgainst": 33,
         "goalDifference": 15,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-14",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "River",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -41996,13 +42003,6 @@
           "home": "River",
           "away": "Independiente",
           "score": "3-1"
-        },
-        {
-          "date": "2026-08-30",
-          "stage": "Clausura",
-          "home": "Banfield",
-          "away": "River",
-          "score": "2-3"
         }
       ]
     },
@@ -42133,16 +42133,23 @@
       "logo": "assets/icons/escudos/sarmiento.svg",
       "homeVenue": "Estadio Eva Perón de Junín",
       "stats": {
-        "played": 27,
+        "played": 28,
         "won": 12,
-        "drawn": 2,
+        "drawn": 3,
         "lost": 13,
-        "goalsFor": 33,
-        "goalsAgainst": 37,
+        "goalsFor": 34,
+        "goalsAgainst": 38,
         "goalDifference": -4,
         "upcoming": 4
       },
       "recentMatches": [
+        {
+          "date": "2026-10-14",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "River",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -42170,13 +42177,6 @@
           "home": "Estudiantes RC",
           "away": "Sarmiento",
           "score": "0-2"
-        },
-        {
-          "date": "2026-08-28",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Sarmiento",
-          "score": "4-1"
         }
       ]
     },
