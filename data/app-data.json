@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:03:58",
+  "generatedAt": "2026-10-16T09:50:49",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 435,
+    "played": 436,
     "fixtures": 59,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -37977,8 +37977,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "3rw8ouixzsh3x8dgy8ifev925",
         "name": "Huracán",
@@ -38000,8 +38000,8 @@
         "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
       },
       "score": {
-        "home": 0,
-        "away": 1,
+        "home": 1,
+        "away": 2,
         "htHome": 0,
         "htAway": 1
       },
@@ -38012,8 +38012,8 @@
         "lat": "-34.643425417",
         "lng": "-58.396502137"
       },
-      "cardsCount": 5,
-      "substitutionsCount": 4
+      "cardsCount": 7,
+      "substitutionsCount": 7
     },
     {
       "id": "2d225wqrwvp6joym49chcbpjo",
@@ -41379,16 +41379,23 @@
       "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
       "homeVenue": "Estadio Juan Carmelo Zerillo",
       "stats": {
-        "played": 30,
-        "won": 14,
+        "played": 31,
+        "won": 15,
         "drawn": 6,
         "lost": 10,
-        "goalsFor": 37,
-        "goalsAgainst": 38,
-        "goalDifference": -1,
+        "goalsFor": 39,
+        "goalsAgainst": 39,
+        "goalDifference": 0,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-15",
+          "stage": "Clausura",
+          "home": "Huracán",
+          "away": "GELP",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -41416,13 +41423,6 @@
           "home": "Argentinos",
           "away": "GELP",
           "score": "1-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "GELP",
-          "away": "Tigre",
-          "score": "2-1"
         }
       ]
     },
@@ -41495,16 +41495,23 @@
       "logo": "assets/icons/escudos/huracan.svg",
       "homeVenue": "Estadio Tomás Adolfo Ducó",
       "stats": {
-        "played": 30,
+        "played": 31,
         "won": 11,
         "drawn": 11,
-        "lost": 8,
-        "goalsFor": 31,
-        "goalsAgainst": 26,
-        "goalDifference": 5,
+        "lost": 9,
+        "goalsFor": 32,
+        "goalsAgainst": 28,
+        "goalDifference": 4,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-15",
+          "stage": "Clausura",
+          "home": "Huracán",
+          "away": "GELP",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -41532,13 +41539,6 @@
           "home": "Huracán",
           "away": "Racing",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-04",
-          "stage": "Clausura",
-          "home": "Belgrano",
-          "away": "Huracán",
-          "score": "1-1"
         }
       ]
     },
