@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:24:57",
+  "generatedAt": "2026-10-17T07:58:47",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 436,
-    "fixtures": 58,
-    "playing": 1,
+    "played": 438,
+    "fixtures": 57,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -38022,8 +38022,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "1n4ioqcbh1hemy9ezzu6v86n7",
         "name": "Defensa y Justicia",
@@ -38067,8 +38067,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "ciqt22ivoc48zj62detdyh1mm",
         "name": "Boca Juniors",
@@ -38090,10 +38090,10 @@
         "logo": "assets/icons/escudos/talleres.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 1,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "6nan0as2jh7b0oex8qew6y5oi",
@@ -38102,8 +38102,8 @@
         "lat": "-34.635582546",
         "lng": "-58.364637494"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 2,
+      "substitutionsCount": 9
     },
     {
       "id": "2j3h618qjajbu8oszks8kvcpg",
@@ -41031,16 +41031,23 @@
       "logo": "assets/icons/escudos/boca.svg",
       "homeVenue": "Estadio Alberto José Armando",
       "stats": {
-        "played": 29,
-        "won": 13,
+        "played": 30,
+        "won": 14,
         "drawn": 12,
         "lost": 4,
-        "goalsFor": 43,
-        "goalsAgainst": 25,
-        "goalDifference": 18,
-        "upcoming": 4
+        "goalsFor": 45,
+        "goalsAgainst": 26,
+        "goalDifference": 19,
+        "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-16",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Talleres",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -41068,13 +41075,6 @@
           "home": "Boca",
           "away": "Córdoba SdE",
           "score": "3-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "Gim Mendoza",
-          "away": "Boca",
-          "score": "2-2"
         }
       ]
     },
@@ -41147,16 +41147,23 @@
       "logo": "assets/icons/escudos/defensa-y-justicia.svg",
       "homeVenue": "Estadio Norberto Tito Tomaghello",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 11,
         "drawn": 10,
-        "lost": 7,
+        "lost": 8,
         "goalsFor": 36,
-        "goalsAgainst": 32,
-        "goalDifference": 4,
+        "goalsAgainst": 33,
+        "goalDifference": 3,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-16",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "Instituto",
+          "score": "0-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -41184,13 +41191,6 @@
           "home": "Def y Justicia",
           "away": "Gim Mendoza",
           "score": "2-0"
-        },
-        {
-          "date": "2026-09-06",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Def y Justicia",
-          "score": "1-0"
         }
       ]
     },
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Juan Domingo Perón",
       "stats": {
-        "played": 28,
-        "won": 14,
+        "played": 29,
+        "won": 15,
         "drawn": 5,
         "lost": 9,
-        "goalsFor": 36,
+        "goalsFor": 37,
         "goalsAgainst": 27,
-        "goalDifference": 9,
+        "goalDifference": 10,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-16",
+          "stage": "Clausura",
+          "home": "Def y Justicia",
+          "away": "Instituto",
+          "score": "0-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Instituto",
           "away": "Estudiantes RC",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-07",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Instituto",
-          "score": "3-2"
         }
       ]
     },
@@ -42191,16 +42191,23 @@
       "logo": "assets/icons/escudos/talleres.svg",
       "homeVenue": "Estadio Mario Alberto Kempes",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 9,
         "drawn": 8,
-        "lost": 12,
-        "goalsFor": 28,
-        "goalsAgainst": 32,
-        "goalDifference": -4,
-        "upcoming": 4
+        "lost": 13,
+        "goalsFor": 29,
+        "goalsAgainst": 34,
+        "goalDifference": -5,
+        "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-16",
+          "stage": "Clausura",
+          "home": "Boca",
+          "away": "Talleres",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-11",
           "stage": "Clausura",
@@ -42228,13 +42235,6 @@
           "home": "Talleres",
           "away": "Unión",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "San Lorenzo",
-          "away": "Talleres",
-          "score": "1-0"
         }
       ]
     },
