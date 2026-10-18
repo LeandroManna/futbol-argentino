@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:57:38",
+  "generatedAt": "2026-10-18T09:26:34",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 441,
+    "played": 443,
     "fixtures": 52,
-    "playing": 2,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-18T01:19:40Z",
+    "lastUpdated": "2026-10-18T05:41:23Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -38247,8 +38247,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
         "name": "Vélez Sarsfield",
@@ -38270,7 +38270,7 @@
         "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
       },
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
         "htHome": 0,
         "htAway": 0
@@ -38282,8 +38282,8 @@
         "lat": "-34.635357444",
         "lng": "-58.520666957"
       },
-      "cardsCount": 3,
-      "substitutionsCount": 1
+      "cardsCount": 7,
+      "substitutionsCount": 10
     },
     {
       "id": "2i5afynd84n25rw8bvzdth8gk",
@@ -38292,8 +38292,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "6u0o1i04y2mnw2avru97sn970",
         "name": "Atlético Tucumán",
@@ -38316,7 +38316,7 @@
       },
       "score": {
         "home": 2,
-        "away": 2,
+        "away": 3,
         "htHome": 2,
         "htAway": 2
       },
@@ -38327,8 +38327,8 @@
         "lat": "-26.812805970",
         "lng": "-65.199260116"
       },
-      "cardsCount": 4,
-      "substitutionsCount": 1
+      "cardsCount": 5,
+      "substitutionsCount": 10
     },
     {
       "id": "2bx98m0k2nijy13hmj1xt515g",
@@ -40799,16 +40799,23 @@
       "logo": "assets/icons/escudos/atletico-tucuman.svg",
       "homeVenue": "Estadio Monumental Presidente José Fierro",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 6,
         "drawn": 10,
-        "lost": 12,
-        "goalsFor": 25,
-        "goalsAgainst": 30,
-        "goalDifference": -5,
+        "lost": 13,
+        "goalsFor": 27,
+        "goalsAgainst": 33,
+        "goalDifference": -6,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-17",
+          "stage": "Clausura",
+          "home": "Atl. Tucumán",
+          "away": "Rosario",
+          "score": "2-3"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -40835,13 +40842,6 @@
           "stage": "Clausura",
           "home": "Atl. Tucumán",
           "away": "River",
-          "score": "1-2"
-        },
-        {
-          "date": "2026-09-06",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Atl. Tucumán",
           "score": "1-2"
         }
       ]
@@ -41437,16 +41437,23 @@
       "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
       "homeVenue": "Estadio Víctor Antonio Legrotaglie",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 11,
         "drawn": 6,
-        "lost": 11,
+        "lost": 12,
         "goalsFor": 29,
-        "goalsAgainst": 34,
-        "goalDifference": -5,
+        "goalsAgainst": 35,
+        "goalDifference": -6,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-17",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Gim Mendoza",
+          "score": "1-0"
+        },
         {
           "date": "2026-10-12",
           "stage": "Clausura",
@@ -41474,13 +41481,6 @@
           "home": "Def y Justicia",
           "away": "Gim Mendoza",
           "score": "2-0"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "Gim Mendoza",
-          "away": "Boca",
-          "score": "2-2"
         }
       ]
     },
@@ -42017,16 +42017,23 @@
       "logo": "assets/icons/escudos/rosario-central.svg",
       "homeVenue": "Estadio Gigante de Arroyito",
       "stats": {
-        "played": 31,
-        "won": 16,
+        "played": 32,
+        "won": 17,
         "drawn": 8,
         "lost": 7,
-        "goalsFor": 42,
-        "goalsAgainst": 28,
-        "goalDifference": 14,
+        "goalsFor": 45,
+        "goalsAgainst": 30,
+        "goalDifference": 15,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-17",
+          "stage": "Clausura",
+          "home": "Atl. Tucumán",
+          "away": "Rosario",
+          "score": "2-3"
+        },
         {
           "date": "2026-10-11",
           "stage": "Clausura",
@@ -42054,13 +42061,6 @@
           "home": "Tigre",
           "away": "Rosario",
           "score": "0-1"
-        },
-        {
-          "date": "2026-09-06",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "Newell's",
-          "score": "1-1"
         }
       ]
     },
@@ -42365,16 +42365,23 @@
       "logo": "assets/icons/escudos/velez.svg",
       "homeVenue": "Estadio José Amalfitani",
       "stats": {
-        "played": 29,
-        "won": 12,
+        "played": 30,
+        "won": 13,
         "drawn": 13,
         "lost": 4,
-        "goalsFor": 35,
+        "goalsFor": 36,
         "goalsAgainst": 26,
-        "goalDifference": 9,
+        "goalDifference": 10,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-17",
+          "stage": "Clausura",
+          "home": "Vélez",
+          "away": "Gim Mendoza",
+          "score": "1-0"
+        },
         {
           "date": "2026-10-12",
           "stage": "Clausura",
@@ -42402,13 +42409,6 @@
           "home": "Newell's",
           "away": "Vélez",
           "score": "1-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "Vélez",
-          "away": "Estudiantes",
-          "score": "1-0"
         }
       ]
     }
