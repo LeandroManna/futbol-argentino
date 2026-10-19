@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:41:11",
+  "generatedAt": "2026-10-19T01:45:44",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 444,
-    "fixtures": 49,
-    "playing": 2,
+    "played": 446,
+    "fixtures": 48,
+    "playing": 1,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-18T23:15:40Z",
+    "lastUpdated": "2026-10-19T01:15:23Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -6597,18 +6597,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 142,
+                  "goalsFor": 145,
                   "goalsAgainst": 80,
-                  "goalDifference": 62,
+                  "goalDifference": 65,
                   "lastSix": null,
-                  "relegationAverage": 1.666,
+                  "relegationAverage": 1.686,
                   "relegation": {
                     "played": 102,
-                    "points": 170,
-                    "average": 1.666,
-                    "goalsFor": 142,
+                    "points": 172,
+                    "average": 1.686,
+                    "goalsFor": 145,
                     "goalsAgainst": 80,
-                    "goalDifference": 62,
+                    "goalDifference": 65,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -6642,12 +6642,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 29,
-                        "matchesWon": 14,
+                        "matchesWon": 15,
                         "matchesLost": 10,
-                        "matchesDraw": 5,
-                        "goalsPro": 37,
+                        "matchesDraw": 4,
+                        "goalsPro": 40,
                         "goalsAgainst": 25,
-                        "points": 47
+                        "points": 49
                       }
                     ]
                   }
@@ -7621,75 +7621,6 @@
                 {
                   "rank": 17,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": null,
-                  "played": 102,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": 109,
-                  "goalsAgainst": 107,
-                  "goalDifference": 2,
-                  "lastSix": null,
-                  "relegationAverage": 1.323,
-                  "relegation": {
-                    "played": 102,
-                    "points": 135,
-                    "average": 1.323,
-                    "goalsFor": 109,
-                    "goalsAgainst": 107,
-                    "goalDifference": 2,
-                    "seasons": [
-                      {
-                        "id": "534vuyemq3e4biv283g33zf2s",
-                        "startDate": "2024-01-25Z",
-                        "endDate": "2024-12-17Z",
-                        "name": "2024",
-                        "matchesPlayed": 41,
-                        "matchesWon": 11,
-                        "matchesLost": 14,
-                        "matchesDraw": 16,
-                        "goalsPro": 52,
-                        "goalsAgainst": 53,
-                        "points": 49
-                      },
-                      {
-                        "id": "3l4bzc8syz1ea2dnv453kp89g",
-                        "startDate": "2025-01-23Z",
-                        "endDate": "2025-12-14Z",
-                        "name": "2025",
-                        "matchesPlayed": 32,
-                        "matchesWon": 7,
-                        "matchesLost": 9,
-                        "matchesDraw": 16,
-                        "goalsPro": 26,
-                        "goalsAgainst": 34,
-                        "points": 37
-                      },
-                      {
-                        "id": "8v84l9nq3d5t0j4gb781i3llg",
-                        "startDate": "2026-01-22Z",
-                        "endDate": "2026-12-14Z",
-                        "name": "2026",
-                        "matchesPlayed": 29,
-                        "matchesWon": 13,
-                        "matchesLost": 6,
-                        "matchesDraw": 10,
-                        "goalsPro": 31,
-                        "goalsAgainst": 20,
-                        "points": 49
-                      }
-                    ]
-                  }
-                },
-                {
-                  "rank": 18,
-                  "rankStatus": null,
                   "teamId": "2sciofe2reang4qdncm1bihgr",
                   "team": "CA San Lorenzo de Almagro",
                   "clubName": "San Lorenzo",
@@ -7757,7 +7688,7 @@
                   }
                 },
                 {
-                  "rank": 19,
+                  "rank": 18,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -7821,6 +7752,75 @@
                         "goalsPro": 41,
                         "goalsAgainst": 41,
                         "points": 34
+                      }
+                    ]
+                  }
+                },
+                {
+                  "rank": 19,
+                  "rankStatus": null,
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": null,
+                  "played": 102,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": 109,
+                  "goalsAgainst": 110,
+                  "goalDifference": -1,
+                  "lastSix": null,
+                  "relegationAverage": 1.313,
+                  "relegation": {
+                    "played": 102,
+                    "points": 134,
+                    "average": 1.313,
+                    "goalsFor": 109,
+                    "goalsAgainst": 110,
+                    "goalDifference": -1,
+                    "seasons": [
+                      {
+                        "id": "534vuyemq3e4biv283g33zf2s",
+                        "startDate": "2024-01-25Z",
+                        "endDate": "2024-12-17Z",
+                        "name": "2024",
+                        "matchesPlayed": 41,
+                        "matchesWon": 11,
+                        "matchesLost": 14,
+                        "matchesDraw": 16,
+                        "goalsPro": 52,
+                        "goalsAgainst": 53,
+                        "points": 49
+                      },
+                      {
+                        "id": "3l4bzc8syz1ea2dnv453kp89g",
+                        "startDate": "2025-01-23Z",
+                        "endDate": "2025-12-14Z",
+                        "name": "2025",
+                        "matchesPlayed": 32,
+                        "matchesWon": 7,
+                        "matchesLost": 9,
+                        "matchesDraw": 16,
+                        "goalsPro": 26,
+                        "goalsAgainst": 34,
+                        "points": 37
+                      },
+                      {
+                        "id": "8v84l9nq3d5t0j4gb781i3llg",
+                        "startDate": "2026-01-22Z",
+                        "endDate": "2026-12-14Z",
+                        "name": "2026",
+                        "matchesPlayed": 29,
+                        "matchesWon": 13,
+                        "matchesLost": 7,
+                        "matchesDraw": 9,
+                        "goalsPro": 31,
+                        "goalsAgainst": 23,
+                        "points": 48
                       }
                     ]
                   }
@@ -8721,26 +8721,47 @@
                 {
                   "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
                   "points": 49,
                   "played": 29,
-                  "won": 13,
-                  "drawn": 10,
-                  "lost": 6,
-                  "goalsFor": 31,
-                  "goalsAgainst": 20,
-                  "goalDifference": "+11",
+                  "won": 15,
+                  "drawn": 4,
+                  "lost": 10,
+                  "goalsFor": 40,
+                  "goalsAgainst": 25,
+                  "goalDifference": "+15",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
                 },
                 {
                   "rank": 8,
+                  "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": 48,
+                  "played": 29,
+                  "won": 13,
+                  "drawn": 9,
+                  "lost": 7,
+                  "goalsFor": 31,
+                  "goalsAgainst": 23,
+                  "goalDifference": "+8",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 9,
                   "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
@@ -8756,27 +8777,6 @@
                   "goalsFor": 38,
                   "goalsAgainst": 37,
                   "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 9,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 47,
-                  "played": 29,
-                  "won": 14,
-                  "drawn": 5,
-                  "lost": 10,
-                  "goalsFor": 37,
-                  "goalsAgainst": 25,
-                  "goalDifference": "+12",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9611,15 +9611,15 @@
                   "shortName": "Belgrano",
                   "code": "BEL",
                   "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": 23,
+                  "points": 22,
                   "played": 13,
                   "won": 6,
-                  "drawn": 5,
-                  "lost": 2,
+                  "drawn": 4,
+                  "lost": 3,
                   "goalsFor": 14,
-                  "goalsAgainst": 7,
-                  "goalDifference": "+7",
-                  "lastSix": "WWWDDD",
+                  "goalsAgainst": 10,
+                  "goalDifference": "+4",
+                  "lastSix": "LWWWDD",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9647,6 +9647,27 @@
                 {
                   "rank": 5,
                   "rankStatus": "8th Finals",
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
+                  "points": 20,
+                  "played": 13,
+                  "won": 6,
+                  "drawn": 2,
+                  "lost": 5,
+                  "goalsFor": 18,
+                  "goalsAgainst": 13,
+                  "goalDifference": "+5",
+                  "lastSix": "WDWLWW",
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": "8th Finals",
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
                   "clubName": "Sarmiento",
@@ -9666,7 +9687,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": "8th Finals",
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -9687,7 +9708,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 7,
+                  "rank": 8,
                   "rankStatus": "8th Finals",
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
@@ -9704,27 +9725,6 @@
                   "goalsAgainst": 21,
                   "goalDifference": "-4",
                   "lastSix": "DLDWWL",
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": "8th Finals",
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 18,
-                  "played": 13,
-                  "won": 5,
-                  "drawn": 3,
-                  "lost": 5,
-                  "goalsFor": 15,
-                  "goalsAgainst": 13,
-                  "goalDifference": "+2",
-                  "lastSix": "DWLWWW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -10333,27 +10333,6 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": 11,
-                  "played": 7,
-                  "won": 3,
-                  "drawn": 2,
-                  "lost": 2,
-                  "goalsFor": 8,
-                  "goalsAgainst": 6,
-                  "goalDifference": "+2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
                   "clubName": "River Plate",
@@ -10368,6 +10347,27 @@
                   "goalsFor": 9,
                   "goalsAgainst": 7,
                   "goalDifference": "+2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": 10,
+                  "played": 7,
+                  "won": 3,
+                  "drawn": 1,
+                  "lost": 3,
+                  "goalsFor": 8,
+                  "goalsAgainst": 9,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -10977,6 +10977,27 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
+                  "points": 10,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 1,
+                  "lost": 2,
+                  "goalsFor": 9,
+                  "goalsAgainst": 6,
+                  "goalDifference": "+3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
                   "clubName": "Sarmiento",
@@ -10991,27 +11012,6 @@
                   "goalsFor": 11,
                   "goalsAgainst": 12,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 8,
-                  "rankStatus": null,
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 8,
-                  "played": 6,
-                  "won": 2,
-                  "drawn": 2,
-                  "lost": 2,
-                  "goalsFor": 6,
-                  "goalsAgainst": 6,
-                  "goalDifference": "0",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11516,20 +11516,20 @@
                 {
                   "rank": 2,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": 12,
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
+                  "points": 13,
                   "played": 6,
-                  "won": 3,
-                  "drawn": 3,
-                  "lost": 0,
-                  "goalsFor": 7,
-                  "goalsAgainst": 3,
-                  "goalDifference": "+4",
+                  "won": 4,
+                  "drawn": 1,
+                  "lost": 1,
+                  "goalsFor": 11,
+                  "goalsAgainst": 5,
+                  "goalDifference": "+6",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11558,27 +11558,6 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 11,
-                  "played": 6,
-                  "won": 3,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 8,
-                  "goalsAgainst": 5,
-                  "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 5,
-                  "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
                   "clubName": "Argentinos Juniors",
@@ -11593,6 +11572,27 @@
                   "goalsFor": 7,
                   "goalsAgainst": 5,
                   "goalDifference": "+2",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 5,
+                  "rankStatus": null,
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": 11,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 2,
+                  "lost": 1,
+                  "goalsFor": 7,
+                  "goalsAgainst": 6,
+                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12307,27 +12307,6 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": 5,
-                  "played": 3,
-                  "won": 1,
-                  "drawn": 2,
-                  "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 2,
-                  "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 10,
-                  "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
                   "clubName": "Barracas Central",
@@ -12347,7 +12326,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 10,
                   "rankStatus": null,
                   "teamId": "39acfbxikh52o6y9opfb0q0nb",
                   "team": "Racing Club",
@@ -12363,6 +12342,27 @@
                   "goalsFor": 4,
                   "goalsAgainst": 4,
                   "goalDifference": "0",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": 4,
+                  "played": 3,
+                  "won": 1,
+                  "drawn": 1,
+                  "lost": 1,
+                  "goalsFor": 3,
+                  "goalsAgainst": 5,
+                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12783,6 +12783,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
+                  "points": 7,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 0,
+                  "goalsFor": 6,
+                  "goalsAgainst": 2,
+                  "goalDifference": "+4",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "2biw4all5ru5xiorgyqbevwr1",
                   "team": "CA Belgrano",
                   "clubName": "Belgrano",
@@ -12802,7 +12823,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 2,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
@@ -12823,7 +12844,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 3,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "1tsjuhn8qeikaj837w2ybx77n",
                   "team": "CA Sarmiento",
@@ -12844,7 +12865,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
@@ -12865,7 +12886,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -12880,27 +12901,6 @@
                   "lost": 0,
                   "goalsFor": 4,
                   "goalsAgainst": 3,
-                  "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 6,
-                  "rankStatus": null,
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 5,
-                  "played": 3,
-                  "won": 1,
-                  "drawn": 2,
-                  "lost": 0,
-                  "goalsFor": 3,
-                  "goalsAgainst": 2,
                   "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -13454,14 +13454,14 @@
                   "shortName": "River",
                   "code": "RIV",
                   "logo": "assets/icons/escudos/river.svg",
-                  "points": 20,
-                  "played": 12,
-                  "won": 6,
+                  "points": 23,
+                  "played": 13,
+                  "won": 7,
                   "drawn": 2,
                   "lost": 4,
-                  "goalsFor": 8,
+                  "goalsFor": 9,
                   "goalsAgainst": 4,
-                  "goalDifference": "+4",
+                  "goalDifference": "+5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13665,13 +13665,13 @@
                   "code": "BEL",
                   "logo": "assets/icons/escudos/belgrano.svg",
                   "points": 15,
-                  "played": 12,
+                  "played": 13,
                   "won": 3,
                   "drawn": 6,
-                  "lost": 3,
+                  "lost": 4,
                   "goalsFor": 3,
-                  "goalsAgainst": 3,
-                  "goalDifference": "0",
+                  "goalsAgainst": 4,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14225,13 +14225,13 @@
                   "code": "BEL",
                   "logo": "assets/icons/escudos/belgrano.svg",
                   "points": 8,
-                  "played": 6,
+                  "played": 7,
                   "won": 2,
                   "drawn": 2,
-                  "lost": 2,
+                  "lost": 3,
                   "goalsFor": 2,
-                  "goalsAgainst": 2,
-                  "goalDifference": "0",
+                  "goalsAgainst": 3,
+                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14715,6 +14715,27 @@
                 {
                   "rank": 1,
                   "rankStatus": null,
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
+                  "points": 11,
+                  "played": 6,
+                  "won": 3,
+                  "drawn": 2,
+                  "lost": 1,
+                  "goalsFor": 4,
+                  "goalsAgainst": 1,
+                  "goalDifference": "+3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 2,
+                  "rankStatus": null,
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
                   "clubName": "Gimnasia La Plata",
@@ -14734,7 +14755,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 2,
+                  "rank": 3,
                   "rankStatus": null,
                   "teamId": "3lbqswe4h5wyrayjt580zmujx",
                   "team": "CA Banfield",
@@ -14755,7 +14776,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 3,
+                  "rank": 4,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -14776,7 +14797,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
@@ -14792,27 +14813,6 @@
                   "goalsFor": 4,
                   "goalsAgainst": 5,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 5,
-                  "rankStatus": null,
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 8,
-                  "played": 5,
-                  "won": 2,
-                  "drawn": 2,
-                  "lost": 1,
-                  "goalsFor": 3,
-                  "goalsAgainst": 1,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15513,7 +15513,7 @@
                   "code": "RIV",
                   "logo": "assets/icons/escudos/river.svg",
                   "points": null,
-                  "played": 12,
+                  "played": 13,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15611,12 +15611,12 @@
                 {
                   "rank": 13,
                   "rankStatus": null,
-                  "teamId": "3rw8ouixzsh3x8dgy8ifev925",
-                  "team": "CA Huracán",
-                  "clubName": "Huracán",
-                  "shortName": "Huracán",
-                  "code": "HUR",
-                  "logo": "assets/icons/escudos/huracan.svg",
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
                   "points": null,
                   "played": 13,
                   "won": null,
@@ -15632,14 +15632,14 @@
                 {
                   "rank": 14,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "teamId": "3rw8ouixzsh3x8dgy8ifev925",
+                  "team": "CA Huracán",
+                  "clubName": "Huracán",
+                  "shortName": "Huracán",
+                  "code": "HUR",
+                  "logo": "assets/icons/escudos/huracan.svg",
                   "points": null,
-                  "played": 12,
+                  "played": 13,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15762,18 +15762,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 142,
+                  "goalsFor": 145,
                   "goalsAgainst": 80,
-                  "goalDifference": 62,
+                  "goalDifference": 65,
                   "lastSix": null,
-                  "relegationAverage": 1.666,
+                  "relegationAverage": 1.686,
                   "relegation": {
                     "played": 102,
-                    "points": 170,
-                    "average": 1.666,
-                    "goalsFor": 142,
+                    "points": 172,
+                    "average": 1.686,
+                    "goalsFor": 145,
                     "goalsAgainst": 80,
-                    "goalDifference": 62,
+                    "goalDifference": 65,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -15807,12 +15807,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 29,
-                        "matchesWon": 14,
+                        "matchesWon": 15,
                         "matchesLost": 10,
-                        "matchesDraw": 5,
-                        "goalsPro": 37,
+                        "matchesDraw": 4,
+                        "goalsPro": 40,
                         "goalsAgainst": 25,
-                        "points": 47
+                        "points": 49
                       }
                     ]
                   }
@@ -16786,75 +16786,6 @@
                 {
                   "rank": 17,
                   "rankStatus": null,
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
-                  "points": null,
-                  "played": 102,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": 109,
-                  "goalsAgainst": 107,
-                  "goalDifference": 2,
-                  "lastSix": null,
-                  "relegationAverage": 1.323,
-                  "relegation": {
-                    "played": 102,
-                    "points": 135,
-                    "average": 1.323,
-                    "goalsFor": 109,
-                    "goalsAgainst": 107,
-                    "goalDifference": 2,
-                    "seasons": [
-                      {
-                        "id": "534vuyemq3e4biv283g33zf2s",
-                        "startDate": "2024-01-25Z",
-                        "endDate": "2024-12-17Z",
-                        "name": "2024",
-                        "matchesPlayed": 41,
-                        "matchesWon": 11,
-                        "matchesLost": 14,
-                        "matchesDraw": 16,
-                        "goalsPro": 52,
-                        "goalsAgainst": 53,
-                        "points": 49
-                      },
-                      {
-                        "id": "3l4bzc8syz1ea2dnv453kp89g",
-                        "startDate": "2025-01-23Z",
-                        "endDate": "2025-12-14Z",
-                        "name": "2025",
-                        "matchesPlayed": 32,
-                        "matchesWon": 7,
-                        "matchesLost": 9,
-                        "matchesDraw": 16,
-                        "goalsPro": 26,
-                        "goalsAgainst": 34,
-                        "points": 37
-                      },
-                      {
-                        "id": "8v84l9nq3d5t0j4gb781i3llg",
-                        "startDate": "2026-01-22Z",
-                        "endDate": "2026-12-14Z",
-                        "name": "2026",
-                        "matchesPlayed": 29,
-                        "matchesWon": 13,
-                        "matchesLost": 6,
-                        "matchesDraw": 10,
-                        "goalsPro": 31,
-                        "goalsAgainst": 20,
-                        "points": 49
-                      }
-                    ]
-                  }
-                },
-                {
-                  "rank": 18,
-                  "rankStatus": null,
                   "teamId": "2sciofe2reang4qdncm1bihgr",
                   "team": "CA San Lorenzo de Almagro",
                   "clubName": "San Lorenzo",
@@ -16922,7 +16853,7 @@
                   }
                 },
                 {
-                  "rank": 19,
+                  "rank": 18,
                   "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
@@ -16986,6 +16917,75 @@
                         "goalsPro": 41,
                         "goalsAgainst": 41,
                         "points": 34
+                      }
+                    ]
+                  }
+                },
+                {
+                  "rank": 19,
+                  "rankStatus": null,
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": null,
+                  "played": 102,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": 109,
+                  "goalsAgainst": 110,
+                  "goalDifference": -1,
+                  "lastSix": null,
+                  "relegationAverage": 1.313,
+                  "relegation": {
+                    "played": 102,
+                    "points": 134,
+                    "average": 1.313,
+                    "goalsFor": 109,
+                    "goalsAgainst": 110,
+                    "goalDifference": -1,
+                    "seasons": [
+                      {
+                        "id": "534vuyemq3e4biv283g33zf2s",
+                        "startDate": "2024-01-25Z",
+                        "endDate": "2024-12-17Z",
+                        "name": "2024",
+                        "matchesPlayed": 41,
+                        "matchesWon": 11,
+                        "matchesLost": 14,
+                        "matchesDraw": 16,
+                        "goalsPro": 52,
+                        "goalsAgainst": 53,
+                        "points": 49
+                      },
+                      {
+                        "id": "3l4bzc8syz1ea2dnv453kp89g",
+                        "startDate": "2025-01-23Z",
+                        "endDate": "2025-12-14Z",
+                        "name": "2025",
+                        "matchesPlayed": 32,
+                        "matchesWon": 7,
+                        "matchesLost": 9,
+                        "matchesDraw": 16,
+                        "goalsPro": 26,
+                        "goalsAgainst": 34,
+                        "points": 37
+                      },
+                      {
+                        "id": "8v84l9nq3d5t0j4gb781i3llg",
+                        "startDate": "2026-01-22Z",
+                        "endDate": "2026-12-14Z",
+                        "name": "2026",
+                        "matchesPlayed": 29,
+                        "matchesWon": 13,
+                        "matchesLost": 7,
+                        "matchesDraw": 9,
+                        "goalsPro": 31,
+                        "goalsAgainst": 23,
+                        "points": 48
                       }
                     ]
                   }
@@ -17886,26 +17886,47 @@
                 {
                   "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
-                  "team": "CA Belgrano",
-                  "clubName": "Belgrano",
-                  "shortName": "Belgrano",
-                  "code": "BEL",
-                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "teamId": "115foion8jwrvp2e7xif675kx",
+                  "team": "CA River Plate",
+                  "clubName": "River Plate",
+                  "shortName": "River",
+                  "code": "RIV",
+                  "logo": "assets/icons/escudos/river.svg",
                   "points": 49,
                   "played": 29,
-                  "won": 13,
-                  "drawn": 10,
-                  "lost": 6,
-                  "goalsFor": 31,
-                  "goalsAgainst": 20,
-                  "goalDifference": "+11",
+                  "won": 15,
+                  "drawn": 4,
+                  "lost": 10,
+                  "goalsFor": 40,
+                  "goalsAgainst": 25,
+                  "goalDifference": "+15",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
                 },
                 {
                   "rank": 8,
+                  "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "2biw4all5ru5xiorgyqbevwr1",
+                  "team": "CA Belgrano",
+                  "clubName": "Belgrano",
+                  "shortName": "Belgrano",
+                  "code": "BEL",
+                  "logo": "assets/icons/escudos/belgrano.svg",
+                  "points": 48,
+                  "played": 29,
+                  "won": 13,
+                  "drawn": 9,
+                  "lost": 7,
+                  "goalsFor": 31,
+                  "goalsAgainst": 23,
+                  "goalDifference": "+8",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 9,
                   "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "1rio0xlpk4s2ttmchsqjs6eik",
                   "team": "Club de Gimnasia y Esgrima La Plata",
@@ -17921,27 +17942,6 @@
                   "goalsFor": 38,
                   "goalsAgainst": 37,
                   "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 9,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "115foion8jwrvp2e7xif675kx",
-                  "team": "CA River Plate",
-                  "clubName": "River Plate",
-                  "shortName": "River",
-                  "code": "RIV",
-                  "logo": "assets/icons/escudos/river.svg",
-                  "points": 47,
-                  "played": 29,
-                  "won": 14,
-                  "drawn": 5,
-                  "lost": 10,
-                  "goalsFor": 37,
-                  "goalsAgainst": 25,
-                  "goalDifference": "+12",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -38382,8 +38382,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "91j32z6ga16tjj140ss2i24mt",
         "name": "Estudiantes",
@@ -38406,9 +38406,9 @@
       },
       "score": {
         "home": 1,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "away": 2,
+        "htHome": 1,
+        "htAway": 1
       },
       "venue": {
         "id": "vn5vp3t9a1xlbus4ver0uv2t",
@@ -38417,8 +38417,8 @@
         "lat": "-34.912029914",
         "lng": "-57.938954830"
       },
-      "cardsCount": 4,
-      "substitutionsCount": 0
+      "cardsCount": 8,
+      "substitutionsCount": 8
     },
     {
       "id": "2gn2j9cve5mxw5ak30uyv9atw",
@@ -38427,8 +38427,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "40t5qm271m6s8i8r6hdlqdzv5",
         "name": "Estudiantes Río Cuarto",
@@ -38450,10 +38450,10 @@
         "logo": "assets/icons/escudos/aldosivi.svg"
       },
       "score": {
-        "home": 0,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "dqqggu7niekw3hvjpn0gvmk33",
@@ -38462,8 +38462,8 @@
         "lat": "-33.114850422",
         "lng": "-64.347664118"
       },
-      "cardsCount": 1,
-      "substitutionsCount": 0
+      "cardsCount": 5,
+      "substitutionsCount": 9
     },
     {
       "id": "2g03refgfujdctmu0teq3bdw4",
@@ -38472,7 +38472,7 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "2biw4all5ru5xiorgyqbevwr1",
@@ -38495,8 +38495,8 @@
         "logo": "assets/icons/escudos/river.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -40683,16 +40683,23 @@
       "logo": "assets/icons/escudos/aldosivi.svg",
       "homeVenue": "Estadio José María Minella",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 2,
         "drawn": 10,
-        "lost": 16,
-        "goalsFor": 19,
-        "goalsAgainst": 39,
-        "goalDifference": -20,
+        "lost": 17,
+        "goalsFor": 20,
+        "goalsAgainst": 41,
+        "goalDifference": -21,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-18",
+          "stage": "Clausura",
+          "home": "Estudiantes RC",
+          "away": "Aldosivi",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -40720,13 +40727,6 @@
           "home": "Independiente",
           "away": "Aldosivi",
           "score": "4-3"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "Aldosivi",
-          "away": "Banfield",
-          "score": "3-1"
         }
       ]
     },
@@ -40980,7 +40980,7 @@
         "goalsFor": 42,
         "goalsAgainst": 26,
         "goalDifference": 16,
-        "upcoming": 4
+        "upcoming": 3
       },
       "recentMatches": [
         {
@@ -41263,16 +41263,23 @@
       "logo": "assets/icons/escudos/estudiantes.svg",
       "homeVenue": "Estadio Jorge Luis Hirschi",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 13,
         "drawn": 6,
-        "lost": 10,
-        "goalsFor": 34,
-        "goalsAgainst": 21,
-        "goalDifference": 13,
+        "lost": 11,
+        "goalsFor": 35,
+        "goalsAgainst": 23,
+        "goalDifference": 12,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-18",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "San Lorenzo",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -41300,13 +41307,6 @@
           "home": "Estudiantes",
           "away": "Platense",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "Vélez",
-          "away": "Estudiantes",
-          "score": "1-0"
         }
       ]
     },
@@ -41321,16 +41321,23 @@
       "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
       "homeVenue": "Estadio Ciudad de Río Cuarto",
       "stats": {
-        "played": 28,
-        "won": 2,
+        "played": 29,
+        "won": 3,
         "drawn": 5,
         "lost": 21,
-        "goalsFor": 11,
-        "goalsAgainst": 40,
-        "goalDifference": -29,
+        "goalsFor": 13,
+        "goalsAgainst": 41,
+        "goalDifference": -28,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-18",
+          "stage": "Clausura",
+          "home": "Estudiantes RC",
+          "away": "Aldosivi",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -41358,13 +41365,6 @@
           "home": "Instituto",
           "away": "Estudiantes RC",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-04",
-          "stage": "Clausura",
-          "home": "Estudiantes RC",
-          "away": "Sarmiento",
-          "score": "0-2"
         }
       ]
     },
@@ -41966,7 +41966,7 @@
         "goalsFor": 48,
         "goalsAgainst": 33,
         "goalDifference": 15,
-        "upcoming": 4
+        "upcoming": 3
       },
       "recentMatches": [
         {
@@ -42075,16 +42075,23 @@
       "logo": "assets/icons/escudos/san-lorenzo.svg",
       "homeVenue": "Estadio Pedro Bidegaín",
       "stats": {
-        "played": 29,
-        "won": 9,
+        "played": 30,
+        "won": 10,
         "drawn": 9,
         "lost": 11,
-        "goalsFor": 24,
-        "goalsAgainst": 31,
-        "goalDifference": -7,
+        "goalsFor": 26,
+        "goalsAgainst": 32,
+        "goalDifference": -6,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-18",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "San Lorenzo",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-11",
           "stage": "Clausura",
@@ -42112,13 +42119,6 @@
           "home": "Independiente",
           "away": "San Lorenzo",
           "score": "1-1"
-        },
-        {
-          "date": "2026-09-05",
-          "stage": "Clausura",
-          "home": "San Lorenzo",
-          "away": "Talleres",
-          "score": "1-0"
         }
       ]
     },
