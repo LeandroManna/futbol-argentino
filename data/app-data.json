@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:22:03",
+  "generatedAt": "2026-10-20T18:37:18",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -38646,6 +38646,51 @@
       "substitutionsCount": 8
     },
     {
+      "id": "2p6xru0e0ovtx8au2yhbx0kr8",
+      "date": "2026-10-23",
+      "time": "17:00",
+      "week": "14",
+      "stage": "Clausura",
+      "stageId": "8km5lcwj1b22onr594sv9u7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "1rio0xlpk4s2ttmchsqjs6eik",
+        "name": "Gimnasia La Plata",
+        "clubName": "Gimnasia La Plata",
+        "shortName": "GELP",
+        "officialName": "Club de Gimnasia y Esgrima La Plata",
+        "code": "GLP",
+        "nickname": "El Lobo",
+        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
+      },
+      "away": {
+        "id": "1tsjuhn8qeikaj837w2ybx77n",
+        "name": "Sarmiento",
+        "clubName": "Sarmiento",
+        "shortName": "Sarmiento",
+        "officialName": "CA Sarmiento",
+        "code": "SAR",
+        "nickname": "El Verde de Junín",
+        "logo": "assets/icons/escudos/sarmiento.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "1ssq5wag2nu8krpkdndf2d9qa",
+        "name": "Estadio Juan Carmelo Zerillo",
+        "shortName": "Estadio Juan Carmelo Zerillo",
+        "lat": "-34.910956553",
+        "lng": "-57.932581902"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
       "id": "2k1l0i514rlhi5xsd0utagwes",
       "date": "2026-10-23",
       "time": "18:30",
@@ -38686,51 +38731,6 @@
         "shortName": "Estadio Víctor Antonio Legrotaglie",
         "lat": "-32.884249839",
         "lng": "-68.863576055"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "2p6xru0e0ovtx8au2yhbx0kr8",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "week": "14",
-      "stage": "Clausura",
-      "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "1rio0xlpk4s2ttmchsqjs6eik",
-        "name": "Gimnasia La Plata",
-        "clubName": "Gimnasia La Plata",
-        "shortName": "GELP",
-        "officialName": "Club de Gimnasia y Esgrima La Plata",
-        "code": "GLP",
-        "nickname": "El Lobo",
-        "logo": "assets/icons/escudos/gimnasia-la-plata.svg"
-      },
-      "away": {
-        "id": "1tsjuhn8qeikaj837w2ybx77n",
-        "name": "Sarmiento",
-        "clubName": "Sarmiento",
-        "shortName": "Sarmiento",
-        "officialName": "CA Sarmiento",
-        "code": "SAR",
-        "nickname": "El Verde de Junín",
-        "logo": "assets/icons/escudos/sarmiento.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "1ssq5wag2nu8krpkdndf2d9qa",
-        "name": "Estadio Juan Carmelo Zerillo",
-        "shortName": "Estadio Juan Carmelo Zerillo",
-        "lat": "-34.910956553",
-        "lng": "-57.932581902"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
