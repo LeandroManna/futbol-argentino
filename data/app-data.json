@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:52:51",
+  "generatedAt": "2026-10-20T09:14:39",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 447,
-    "fixtures": 46,
-    "playing": 2,
+    "played": 450,
+    "fixtures": 45,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -38517,8 +38517,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "3oj3koph7uf63y1f9zr8r7ylo",
         "name": "Newell's Old Boys",
@@ -38553,7 +38553,7 @@
         "lng": "-60.661547184"
       },
       "cardsCount": 8,
-      "substitutionsCount": 5
+      "substitutionsCount": 6
     },
     {
       "id": "2h56syeu77afug3c2kc2fy590",
@@ -38562,8 +38562,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "1tsjuhn8qeikaj837w2ybx77n",
         "name": "Sarmiento",
@@ -38585,7 +38585,7 @@
         "logo": "assets/icons/escudos/barracas-central.svg"
       },
       "score": {
-        "home": 2,
+        "home": 1,
         "away": 1,
         "htHome": 1,
         "htAway": 0
@@ -38597,8 +38597,8 @@
         "lat": "-34.585382973",
         "lng": "-60.929263830"
       },
-      "cardsCount": 2,
-      "substitutionsCount": 7
+      "cardsCount": 3,
+      "substitutionsCount": 9
     },
     {
       "id": "2dlvoaxoj9q81denb2ssi1s0k",
@@ -38607,8 +38607,8 @@
       "week": "13",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "7gcwwr8m5docs6jqrn2stilie",
         "name": "Deportivo Riestra",
@@ -38630,10 +38630,10 @@
         "logo": "assets/icons/escudos/union.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "6s1u527fe4sgbs578h4fsfq05",
@@ -38642,8 +38642,8 @@
         "lat": "-34.653332768",
         "lng": "-58.443446159"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 2,
+      "substitutionsCount": 8
     },
     {
       "id": "2k1l0i514rlhi5xsd0utagwes",
@@ -40915,16 +40915,23 @@
       "logo": "assets/icons/escudos/barracas-central.svg",
       "homeVenue": "Estadio Claudio Fabián Tapia",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 10,
-        "drawn": 9,
+        "drawn": 10,
         "lost": 9,
-        "goalsFor": 25,
-        "goalsAgainst": 24,
+        "goalsFor": 26,
+        "goalsAgainst": 25,
         "goalDifference": 1,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "Barracas",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -40952,13 +40959,6 @@
           "home": "Banfield",
           "away": "Barracas",
           "score": "1-1"
-        },
-        {
-          "date": "2026-09-07",
-          "stage": "Clausura",
-          "home": "Barracas",
-          "away": "Argentinos",
-          "score": "0-0"
         }
       ]
     },
@@ -41089,16 +41089,23 @@
       "logo": "assets/icons/escudos/central-cordoba.svg",
       "homeVenue": "Estadio Único Madre de Ciudades",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 6,
         "drawn": 8,
-        "lost": 14,
-        "goalsFor": 21,
-        "goalsAgainst": 37,
-        "goalDifference": -16,
+        "lost": 15,
+        "goalsFor": 22,
+        "goalsAgainst": 39,
+        "goalDifference": -17,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Newell's",
+          "away": "Córdoba SdE",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-10",
           "stage": "Clausura",
@@ -41126,13 +41133,6 @@
           "home": "Boca",
           "away": "Córdoba SdE",
           "score": "3-1"
-        },
-        {
-          "date": "2026-09-06",
-          "stage": "Clausura",
-          "home": "Córdoba SdE",
-          "away": "Independiente",
-          "score": "0-1"
         }
       ]
     },
@@ -41205,16 +41205,23 @@
       "logo": "assets/icons/escudos/deportivo-riestra.svg",
       "homeVenue": "Estadio Guillermo Laza",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 3,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 12,
-        "goalsFor": 14,
-        "goalsAgainst": 24,
+        "goalsFor": 15,
+        "goalsAgainst": 25,
         "goalDifference": -10,
-        "upcoming": 4
+        "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Riestra",
+          "away": "Unión",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-11",
           "stage": "Clausura",
@@ -41242,13 +41249,6 @@
           "home": "Riestra",
           "away": "Lanús",
           "score": "0-3"
-        },
-        {
-          "date": "2026-09-04",
-          "stage": "Clausura",
-          "home": "Platense",
-          "away": "Riestra",
-          "score": "1-1"
         }
       ]
     },
@@ -41785,16 +41785,23 @@
       "logo": "assets/icons/escudos/newells.svg",
       "homeVenue": "Estadio Marcelo Alberto Bielsa",
       "stats": {
-        "played": 28,
-        "won": 7,
+        "played": 29,
+        "won": 8,
         "drawn": 11,
         "lost": 10,
-        "goalsFor": 26,
-        "goalsAgainst": 36,
-        "goalDifference": -10,
+        "goalsFor": 28,
+        "goalsAgainst": 37,
+        "goalDifference": -9,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Newell's",
+          "away": "Córdoba SdE",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-12",
           "stage": "Clausura",
@@ -41821,13 +41828,6 @@
           "stage": "Clausura",
           "home": "Newell's",
           "away": "Vélez",
-          "score": "1-1"
-        },
-        {
-          "date": "2026-09-06",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "Newell's",
           "score": "1-1"
         }
       ]
@@ -42133,16 +42133,23 @@
       "logo": "assets/icons/escudos/sarmiento.svg",
       "homeVenue": "Estadio Eva Perón de Junín",
       "stats": {
-        "played": 28,
+        "played": 29,
         "won": 12,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 13,
-        "goalsFor": 34,
-        "goalsAgainst": 38,
+        "goalsFor": 35,
+        "goalsAgainst": 39,
         "goalDifference": -4,
         "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Sarmiento",
+          "away": "Barracas",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-14",
           "stage": "Clausura",
@@ -42170,13 +42177,6 @@
           "home": "Sarmiento",
           "away": "Belgrano",
           "score": "1-1"
-        },
-        {
-          "date": "2026-09-04",
-          "stage": "Clausura",
-          "home": "Estudiantes RC",
-          "away": "Sarmiento",
-          "score": "0-2"
         }
       ]
     },
@@ -42307,16 +42307,23 @@
       "logo": "assets/icons/escudos/union.svg",
       "homeVenue": "Estadio 15 de Abril",
       "stats": {
-        "played": 30,
+        "played": 31,
         "won": 10,
-        "drawn": 7,
+        "drawn": 8,
         "lost": 13,
-        "goalsFor": 43,
-        "goalsAgainst": 44,
+        "goalsFor": 44,
+        "goalsAgainst": 45,
         "goalDifference": -1,
-        "upcoming": 4
+        "upcoming": 3
       },
       "recentMatches": [
+        {
+          "date": "2026-10-19",
+          "stage": "Clausura",
+          "home": "Riestra",
+          "away": "Unión",
+          "score": "1-1"
+        },
         {
           "date": "2026-10-09",
           "stage": "Clausura",
@@ -42344,13 +42351,6 @@
           "home": "Talleres",
           "away": "Unión",
           "score": "2-1"
-        },
-        {
-          "date": "2026-09-07",
-          "stage": "Clausura",
-          "home": "Unión",
-          "away": "Instituto",
-          "score": "3-2"
         }
       ]
     },
