@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:57:09",
+  "generatedAt": "2026-10-24T11:55:48",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 452,
+    "played": 453,
     "fixtures": 42,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -38742,8 +38742,8 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "cs3122cdx3g2nviltzfilmz5c",
         "name": "Tigre",
@@ -38777,8 +38777,8 @@
         "lat": "-34.449360850",
         "lng": "-58.542226553"
       },
-      "cardsCount": 4,
-      "substitutionsCount": 3
+      "cardsCount": 5,
+      "substitutionsCount": 8
     },
     {
       "id": "2jk7c0nxenb9f6cts7wo641ec",
@@ -40799,16 +40799,23 @@
       "logo": "assets/icons/escudos/atletico-tucuman.svg",
       "homeVenue": "Estadio Monumental Presidente José Fierro",
       "stats": {
-        "played": 29,
-        "won": 6,
+        "played": 30,
+        "won": 7,
         "drawn": 10,
         "lost": 13,
-        "goalsFor": 27,
+        "goalsFor": 28,
         "goalsAgainst": 33,
-        "goalDifference": -6,
+        "goalDifference": -5,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-23",
+          "stage": "Clausura",
+          "home": "Tigre",
+          "away": "Atl. Tucumán",
+          "score": "0-1"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -40836,13 +40843,6 @@
           "home": "Aldosivi",
           "away": "Atl. Tucumán",
           "score": "1-0"
-        },
-        {
-          "date": "2026-09-12",
-          "stage": "Clausura",
-          "home": "Atl. Tucumán",
-          "away": "River",
-          "score": "1-2"
         }
       ]
     },
@@ -42249,16 +42249,23 @@
       "logo": "assets/icons/escudos/tigre.svg",
       "homeVenue": "Estadio José Dellagiovanna",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 7,
         "drawn": 12,
-        "lost": 10,
+        "lost": 11,
         "goalsFor": 31,
-        "goalsAgainst": 30,
-        "goalDifference": 1,
+        "goalsAgainst": 31,
+        "goalDifference": 0,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-23",
+          "stage": "Clausura",
+          "home": "Tigre",
+          "away": "Atl. Tucumán",
+          "score": "0-1"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -42286,13 +42293,6 @@
           "home": "Vélez",
           "away": "Tigre",
           "score": "3-2"
-        },
-        {
-          "date": "2026-09-13",
-          "stage": "Clausura",
-          "home": "Tigre",
-          "away": "Rosario",
-          "score": "0-1"
         }
       ]
     },
