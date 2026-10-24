@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:49:53",
+  "generatedAt": "2026-10-24T06:57:09",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 451,
-    "fixtures": 43,
+    "played": 452,
+    "fixtures": 42,
     "playing": 1,
     "stages": {
       "Apertura": 240,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-24T01:47:41Z",
+    "lastUpdated": "2026-10-24T02:10:27Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -9766,7 +9766,7 @@
                   "goalsFor": 13,
                   "goalsAgainst": 13,
                   "goalDifference": "0",
-                  "lastSix": "LDLLLW",
+                  "lastSix": "WLDLLL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9787,7 +9787,7 @@
                   "goalsFor": 13,
                   "goalsAgainst": 16,
                   "goalDifference": "-3",
-                  "lastSix": "DLLLLL",
+                  "lastSix": "LDLLLL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -12888,12 +12888,12 @@
                 {
                   "rank": 6,
                   "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
+                  "team": "AA Argentinos Juniors",
+                  "clubName": "Argentinos Juniors",
+                  "shortName": "Argentinos",
+                  "code": "ARG",
+                  "logo": "assets/icons/escudos/argentinos.svg",
                   "points": 4,
                   "played": 3,
                   "won": 1,
@@ -12909,12 +12909,12 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
-                  "teamId": "7tev5pifn8hdy4vlts0coha1b",
-                  "team": "AA Argentinos Juniors",
-                  "clubName": "Argentinos Juniors",
-                  "shortName": "Argentinos",
-                  "code": "ARG",
-                  "logo": "assets/icons/escudos/argentinos.svg",
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
                   "points": 4,
                   "played": 3,
                   "won": 1,
@@ -13553,6 +13553,27 @@
                 {
                   "rank": 7,
                   "rankStatus": null,
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "points": 17,
+                  "played": 14,
+                  "won": 2,
+                  "drawn": 11,
+                  "lost": 1,
+                  "goalsFor": 4,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 8,
+                  "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
                   "clubName": "Argentinos Juniors",
@@ -13572,7 +13593,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 8,
+                  "rank": 9,
                   "rankStatus": null,
                   "teamId": "8bh6iyg42ta2y8mgkkgd2hy6o",
                   "team": "CA Barracas Central",
@@ -13588,27 +13609,6 @@
                   "goalsFor": 4,
                   "goalsAgainst": 5,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 9,
-                  "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 16,
-                  "played": 13,
-                  "won": 2,
-                  "drawn": 10,
-                  "lost": 1,
-                  "goalsFor": 4,
-                  "goalsAgainst": 3,
-                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13679,6 +13679,27 @@
                 {
                   "rank": 13,
                   "rankStatus": null,
+                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
+                  "team": "CA Tigre",
+                  "clubName": "Tigre",
+                  "shortName": "Tigre",
+                  "code": "TIG",
+                  "logo": "assets/icons/escudos/tigre.svg",
+                  "points": 14,
+                  "played": 14,
+                  "won": 2,
+                  "drawn": 8,
+                  "lost": 4,
+                  "goalsFor": 6,
+                  "goalsAgainst": 7,
+                  "goalDifference": "-1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 14,
+                  "rankStatus": null,
                   "teamId": "39acfbxikh52o6y9opfb0q0nb",
                   "team": "Racing Club",
                   "clubName": "Racing Club",
@@ -13693,27 +13714,6 @@
                   "goalsFor": 8,
                   "goalsAgainst": 10,
                   "goalDifference": "-2",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 14,
-                  "rankStatus": null,
-                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
-                  "team": "CA Tigre",
-                  "clubName": "Tigre",
-                  "shortName": "Tigre",
-                  "code": "TIG",
-                  "logo": "assets/icons/escudos/tigre.svg",
-                  "points": 13,
-                  "played": 13,
-                  "won": 2,
-                  "drawn": 7,
-                  "lost": 4,
-                  "goalsFor": 6,
-                  "goalsAgainst": 7,
-                  "goalDifference": "-1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -14260,6 +14260,27 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
+                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
+                  "team": "CA Tigre",
+                  "clubName": "Tigre",
+                  "shortName": "Tigre",
+                  "code": "TIG",
+                  "logo": "assets/icons/escudos/tigre.svg",
+                  "points": 8,
+                  "played": 7,
+                  "won": 1,
+                  "drawn": 5,
+                  "lost": 1,
+                  "goalsFor": 3,
+                  "goalsAgainst": 2,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
                   "teamId": "6u0o1i04y2mnw2avru97sn970",
                   "team": "CA Tucumán",
                   "clubName": "Atlético Tucumán",
@@ -14279,7 +14300,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "3rw8ouixzsh3x8dgy8ifev925",
                   "team": "CA Huracán",
@@ -14300,7 +14321,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
@@ -14315,27 +14336,6 @@
                   "lost": 2,
                   "goalsFor": 4,
                   "goalsAgainst": 3,
-                  "goalDifference": "+1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
-                  "team": "CA Tigre",
-                  "clubName": "Tigre",
-                  "shortName": "Tigre",
-                  "code": "TIG",
-                  "logo": "assets/icons/escudos/tigre.svg",
-                  "points": 7,
-                  "played": 6,
-                  "won": 1,
-                  "drawn": 4,
-                  "lost": 1,
-                  "goalsFor": 3,
-                  "goalsAgainst": 2,
                   "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
@@ -14799,6 +14799,27 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "points": 9,
+                  "played": 7,
+                  "won": 1,
+                  "drawn": 6,
+                  "lost": 0,
+                  "goalsFor": 1,
+                  "goalsAgainst": 0,
+                  "goalDifference": "+1",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": null,
                   "teamId": "e8ma1lonj51sqmwy00mwnw1ke",
                   "team": "CA Rosario Central",
                   "clubName": "Rosario Central",
@@ -14813,27 +14834,6 @@
                   "goalsFor": 4,
                   "goalsAgainst": 5,
                   "goalDifference": "-1",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 6,
-                  "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
-                  "points": 8,
-                  "played": 6,
-                  "won": 1,
-                  "drawn": 5,
-                  "lost": 0,
-                  "goalsFor": 1,
-                  "goalsAgainst": 0,
-                  "goalDifference": "+1",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15527,27 +15527,6 @@
                 {
                   "rank": 9,
                   "rankStatus": null,
-                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
-                  "team": "CA Tigre",
-                  "clubName": "Tigre",
-                  "shortName": "Tigre",
-                  "code": "TIG",
-                  "logo": "assets/icons/escudos/tigre.svg",
-                  "points": null,
-                  "played": 13,
-                  "won": null,
-                  "drawn": null,
-                  "lost": null,
-                  "goalsFor": null,
-                  "goalsAgainst": null,
-                  "goalDifference": null,
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 10,
-                  "rankStatus": null,
                   "teamId": "7tev5pifn8hdy4vlts0coha1b",
                   "team": "AA Argentinos Juniors",
                   "clubName": "Argentinos Juniors",
@@ -15567,14 +15546,35 @@
                   "relegation": null
                 },
                 {
+                  "rank": 10,
+                  "rankStatus": null,
+                  "teamId": "cs3122cdx3g2nviltzfilmz5c",
+                  "team": "CA Tigre",
+                  "clubName": "Tigre",
+                  "shortName": "Tigre",
+                  "code": "TIG",
+                  "logo": "assets/icons/escudos/tigre.svg",
+                  "points": null,
+                  "played": 14,
+                  "won": null,
+                  "drawn": null,
+                  "lost": null,
+                  "goalsFor": null,
+                  "goalsAgainst": null,
+                  "goalDifference": null,
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
                   "rank": 11,
                   "rankStatus": null,
-                  "teamId": "6u0o1i04y2mnw2avru97sn970",
-                  "team": "CA Tucumán",
-                  "clubName": "Atlético Tucumán",
-                  "shortName": "Atl. Tucumán",
-                  "code": "TUC",
-                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
+                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
+                  "team": "AA Estudiantes de Río Cuarto",
+                  "clubName": "Estudiantes Río Cuarto",
+                  "shortName": "Estudiantes RC",
+                  "code": "ERC",
+                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
                   "points": null,
                   "played": 13,
                   "won": null,
@@ -15590,14 +15590,14 @@
                 {
                   "rank": 12,
                   "rankStatus": null,
-                  "teamId": "40t5qm271m6s8i8r6hdlqdzv5",
-                  "team": "AA Estudiantes de Río Cuarto",
-                  "clubName": "Estudiantes Río Cuarto",
-                  "shortName": "Estudiantes RC",
-                  "code": "ERC",
-                  "logo": "assets/icons/escudos/estudiantes-rio-cuarto.svg",
+                  "teamId": "6u0o1i04y2mnw2avru97sn970",
+                  "team": "CA Tucumán",
+                  "clubName": "Atlético Tucumán",
+                  "shortName": "Atl. Tucumán",
+                  "code": "TUC",
+                  "logo": "assets/icons/escudos/atletico-tucuman.svg",
                   "points": null,
-                  "played": 13,
+                  "played": 14,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -38697,8 +38697,8 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "9vph9w7uflam4cks28dfp98h4",
         "name": "Gimnasia Mendoza",
@@ -38742,7 +38742,7 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "cs3122cdx3g2nviltzfilmz5c",
@@ -38765,10 +38765,10 @@
         "logo": "assets/icons/escudos/atletico-tucuman.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 0,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "75bjb0kb899ifi74s3aryx5cn",
@@ -38777,8 +38777,8 @@
         "lat": "-34.449360850",
         "lng": "-58.542226553"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 4,
+      "substitutionsCount": 3
     },
     {
       "id": "2jk7c0nxenb9f6cts7wo641ec",
@@ -40806,7 +40806,7 @@
         "goalsFor": 27,
         "goalsAgainst": 33,
         "goalDifference": -6,
-        "upcoming": 3
+        "upcoming": 2
       },
       "recentMatches": [
         {
@@ -41437,16 +41437,23 @@
       "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
       "homeVenue": "Estadio Víctor Antonio Legrotaglie",
       "stats": {
-        "played": 29,
+        "played": 30,
         "won": 11,
         "drawn": 6,
-        "lost": 12,
-        "goalsFor": 29,
-        "goalsAgainst": 35,
-        "goalDifference": -6,
+        "lost": 13,
+        "goalsFor": 30,
+        "goalsAgainst": 37,
+        "goalDifference": -7,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-23",
+          "stage": "Clausura",
+          "home": "Gim Mendoza",
+          "away": "Platense",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -41474,13 +41481,6 @@
           "home": "Gim Mendoza",
           "away": "Riestra",
           "score": "0-0"
-        },
-        {
-          "date": "2026-09-11",
-          "stage": "Clausura",
-          "home": "Def y Justicia",
-          "away": "Gim Mendoza",
-          "score": "2-0"
         }
       ]
     },
@@ -41843,16 +41843,23 @@
       "logo": "assets/icons/escudos/platense.svg",
       "homeVenue": "Estadio Ciudad de Vicente López",
       "stats": {
-        "played": 29,
-        "won": 5,
+        "played": 30,
+        "won": 6,
         "drawn": 12,
         "lost": 12,
-        "goalsFor": 22,
-        "goalsAgainst": 34,
-        "goalDifference": -12,
+        "goalsFor": 24,
+        "goalsAgainst": 35,
+        "goalDifference": -11,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-23",
+          "stage": "Clausura",
+          "home": "Gim Mendoza",
+          "away": "Platense",
+          "score": "1-2"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -41880,13 +41887,6 @@
           "home": "Platense",
           "away": "Newell's",
           "score": "0-1"
-        },
-        {
-          "date": "2026-09-12",
-          "stage": "Clausura",
-          "home": "Estudiantes",
-          "away": "Platense",
-          "score": "2-1"
         }
       ]
     },
@@ -42256,7 +42256,7 @@
         "goalsFor": 31,
         "goalsAgainst": 30,
         "goalDifference": 1,
-        "upcoming": 3
+        "upcoming": 2
       },
       "recentMatches": [
         {
