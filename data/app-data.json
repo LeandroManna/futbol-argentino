@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:38:06",
+  "generatedAt": "2026-10-25T12:01:28",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 456,
+    "played": 457,
     "fixtures": 38,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -38922,8 +38922,8 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "e8ma1lonj51sqmwy00mwnw1ke",
         "name": "Rosario Central",
@@ -38945,7 +38945,7 @@
         "logo": "assets/icons/escudos/huracan.svg"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0,
         "htHome": 1,
         "htAway": 0
@@ -38957,8 +38957,8 @@
         "lat": "-32.913990521",
         "lng": "-60.674561262"
       },
-      "cardsCount": 3,
-      "substitutionsCount": 1
+      "cardsCount": 5,
+      "substitutionsCount": 10
     },
     {
       "id": "2q8o2r35dgah025q2g22jd89g",
@@ -41495,16 +41495,23 @@
       "logo": "assets/icons/escudos/huracan.svg",
       "homeVenue": "Estadio Tomás Adolfo Ducó",
       "stats": {
-        "played": 31,
+        "played": 32,
         "won": 11,
         "drawn": 11,
-        "lost": 9,
+        "lost": 10,
         "goalsFor": 32,
-        "goalsAgainst": 28,
-        "goalDifference": 4,
+        "goalsAgainst": 30,
+        "goalDifference": 2,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-24",
+          "stage": "Clausura",
+          "home": "Rosario",
+          "away": "Huracán",
+          "score": "2-0"
+        },
         {
           "date": "2026-10-15",
           "stage": "Clausura",
@@ -41532,13 +41539,6 @@
           "home": "River",
           "away": "Huracán",
           "score": "1-2"
-        },
-        {
-          "date": "2026-09-13",
-          "stage": "Clausura",
-          "home": "Huracán",
-          "away": "Racing",
-          "score": "2-1"
         }
       ]
     },
@@ -42017,16 +42017,23 @@
       "logo": "assets/icons/escudos/rosario-central.svg",
       "homeVenue": "Estadio Gigante de Arroyito",
       "stats": {
-        "played": 32,
-        "won": 17,
+        "played": 33,
+        "won": 18,
         "drawn": 8,
         "lost": 7,
-        "goalsFor": 45,
+        "goalsFor": 47,
         "goalsAgainst": 30,
-        "goalDifference": 15,
+        "goalDifference": 17,
         "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-24",
+          "stage": "Clausura",
+          "home": "Rosario",
+          "away": "Huracán",
+          "score": "2-0"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -42054,13 +42061,6 @@
           "home": "Rosario",
           "away": "Argentinos",
           "score": "1-0"
-        },
-        {
-          "date": "2026-09-13",
-          "stage": "Clausura",
-          "home": "Tigre",
-          "away": "Rosario",
-          "score": "0-1"
         }
       ]
     },
