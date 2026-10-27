@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:26:19",
+  "generatedAt": "2026-10-27T05:26:10",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 462,
-    "fixtures": 33,
-    "playing": 0,
+    "played": 463,
+    "fixtures": 31,
+    "playing": 1,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-10-27T00:15:18Z",
+    "lastUpdated": "2026-10-27T02:10:46Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -7494,18 +7494,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 112,
+                  "goalsFor": 113,
                   "goalsAgainst": 112,
-                  "goalDifference": 0,
+                  "goalDifference": 1,
                   "lastSix": null,
-                  "relegationAverage": 1.339,
+                  "relegationAverage": 1.359,
                   "relegation": {
                     "played": 103,
-                    "points": 138,
-                    "average": 1.339,
-                    "goalsFor": 112,
+                    "points": 140,
+                    "average": 1.359,
+                    "goalsFor": 113,
                     "goalsAgainst": 112,
-                    "goalDifference": 0,
+                    "goalDifference": 1,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -7539,12 +7539,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 30,
-                        "matchesWon": 15,
+                        "matchesWon": 16,
                         "matchesLost": 9,
-                        "matchesDraw": 6,
-                        "goalsPro": 37,
+                        "matchesDraw": 5,
+                        "goalsPro": 38,
                         "goalsAgainst": 27,
-                        "points": 51
+                        "points": 53
                       }
                     ]
                   }
@@ -7909,17 +7909,17 @@
                   "drawn": null,
                   "lost": null,
                   "goalsFor": 81,
-                  "goalsAgainst": 87,
-                  "goalDifference": -6,
+                  "goalsAgainst": 88,
+                  "goalDifference": -7,
                   "lastSix": null,
-                  "relegationAverage": 1.203,
+                  "relegationAverage": 1.194,
                   "relegation": {
                     "played": 103,
-                    "points": 124,
-                    "average": 1.203,
+                    "points": 123,
+                    "average": 1.194,
                     "goalsFor": 81,
-                    "goalsAgainst": 87,
-                    "goalDifference": -6,
+                    "goalsAgainst": 88,
+                    "goalDifference": -7,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -7954,11 +7954,11 @@
                         "name": "2026",
                         "matchesPlayed": 30,
                         "matchesWon": 3,
-                        "matchesLost": 12,
-                        "matchesDraw": 15,
+                        "matchesLost": 13,
+                        "matchesDraw": 14,
                         "goalsPro": 15,
-                        "goalsAgainst": 25,
-                        "points": 24
+                        "goalsAgainst": 26,
+                        "points": 23
                       }
                     ]
                   }
@@ -8679,6 +8679,27 @@
                 {
                   "rank": 5,
                   "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
+                  "team": "Instituto AC Córdoba",
+                  "clubName": "Instituto",
+                  "shortName": "Instituto",
+                  "code": "INS",
+                  "logo": "assets/icons/escudos/instituto.svg",
+                  "points": 53,
+                  "played": 30,
+                  "won": 16,
+                  "drawn": 5,
+                  "lost": 9,
+                  "goalsFor": 38,
+                  "goalsAgainst": 27,
+                  "goalDifference": "+11",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
                   "clubName": "Independiente Rivadavia",
@@ -8698,7 +8719,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
@@ -8714,27 +8735,6 @@
                   "goalsFor": 41,
                   "goalsAgainst": 25,
                   "goalDifference": "+16",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 7,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
-                  "team": "Instituto AC Córdoba",
-                  "clubName": "Instituto",
-                  "shortName": "Instituto",
-                  "code": "INS",
-                  "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 51,
-                  "played": 30,
-                  "won": 15,
-                  "drawn": 6,
-                  "lost": 9,
-                  "goalsFor": 37,
-                  "goalsAgainst": 27,
-                  "goalDifference": "+10",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9168,14 +9168,14 @@
                   "shortName": "Riestra",
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 24,
+                  "points": 23,
                   "played": 30,
                   "won": 3,
-                  "drawn": 15,
-                  "lost": 12,
+                  "drawn": 14,
+                  "lost": 13,
                   "goalsFor": 15,
-                  "goalsAgainst": 25,
-                  "goalDifference": "-10",
+                  "goalsAgainst": 26,
+                  "goalDifference": "-11",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -9248,15 +9248,15 @@
                   "shortName": "Instituto",
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 30,
+                  "points": 32,
                   "played": 14,
-                  "won": 9,
-                  "drawn": 3,
+                  "won": 10,
+                  "drawn": 2,
                   "lost": 2,
-                  "goalsFor": 20,
+                  "goalsFor": 21,
                   "goalsAgainst": 10,
-                  "goalDifference": "+10",
-                  "lastSix": "WDWWWL",
+                  "goalDifference": "+11",
+                  "lastSix": "WWDWWW",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9500,15 +9500,15 @@
                   "shortName": "Riestra",
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 13,
+                  "points": 12,
                   "played": 14,
                   "won": 2,
-                  "drawn": 7,
-                  "lost": 5,
+                  "drawn": 6,
+                  "lost": 6,
                   "goalsFor": 10,
-                  "goalsAgainst": 13,
-                  "goalDifference": "-3",
-                  "lastSix": "DLDDLD",
+                  "goalsAgainst": 14,
+                  "goalDifference": "-4",
+                  "lastSix": "LDLDDL",
                   "relegationAverage": null,
                   "relegation": null
                 },
@@ -9892,14 +9892,14 @@
                   "shortName": "Instituto",
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 17,
+                  "points": 19,
                   "played": 7,
-                  "won": 5,
-                  "drawn": 2,
+                  "won": 6,
+                  "drawn": 1,
                   "lost": 0,
-                  "goalsFor": 11,
+                  "goalsFor": 12,
                   "goalsAgainst": 5,
-                  "goalDifference": "+6",
+                  "goalDifference": "+7",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -10782,27 +10782,6 @@
                 {
                   "rank": 13,
                   "rankStatus": null,
-                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
-                  "team": "CD Riestra",
-                  "clubName": "Deportivo Riestra",
-                  "shortName": "Riestra",
-                  "code": "RIE",
-                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 4,
-                  "played": 7,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 3,
-                  "goalsFor": 2,
-                  "goalsAgainst": 6,
-                  "goalDifference": "-4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 14,
-                  "rankStatus": null,
                   "teamId": "ajeh0pq7dtphe0btz4wc4xb0g",
                   "team": "CA Talleres",
                   "clubName": "Talleres de Córdoba",
@@ -10817,6 +10796,27 @@
                   "goalsFor": 7,
                   "goalsAgainst": 10,
                   "goalDifference": "-3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 14,
+                  "rankStatus": null,
+                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
+                  "team": "CD Riestra",
+                  "clubName": "Deportivo Riestra",
+                  "shortName": "Riestra",
+                  "code": "RIE",
+                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
+                  "points": 3,
+                  "played": 7,
+                  "won": 0,
+                  "drawn": 3,
+                  "lost": 4,
+                  "goalsFor": 2,
+                  "goalsAgainst": 7,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11237,20 +11237,20 @@
                 {
                   "rank": 4,
                   "rankStatus": null,
-                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
-                  "team": "CA Vélez Sarsfield",
-                  "clubName": "Vélez Sarsfield",
-                  "shortName": "Vélez",
-                  "code": "VEL",
-                  "logo": "assets/icons/escudos/velez.svg",
-                  "points": 11,
+                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
+                  "team": "Instituto AC Córdoba",
+                  "clubName": "Instituto",
+                  "shortName": "Instituto",
+                  "code": "INS",
+                  "logo": "assets/icons/escudos/instituto.svg",
+                  "points": 13,
                   "played": 6,
-                  "won": 3,
-                  "drawn": 2,
+                  "won": 4,
+                  "drawn": 1,
                   "lost": 1,
-                  "goalsFor": 12,
+                  "goalsFor": 13,
                   "goalsAgainst": 7,
-                  "goalDifference": "+5",
+                  "goalDifference": "+6",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11258,12 +11258,12 @@
                 {
                   "rank": 5,
                   "rankStatus": null,
-                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
-                  "team": "Instituto AC Córdoba",
-                  "clubName": "Instituto",
-                  "shortName": "Instituto",
-                  "code": "INS",
-                  "logo": "assets/icons/escudos/instituto.svg",
+                  "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
+                  "team": "CA Vélez Sarsfield",
+                  "clubName": "Vélez Sarsfield",
+                  "shortName": "Vélez",
+                  "code": "VEL",
+                  "logo": "assets/icons/escudos/velez.svg",
                   "points": 11,
                   "played": 6,
                   "won": 3,
@@ -11384,27 +11384,6 @@
                 {
                   "rank": 11,
                   "rankStatus": null,
-                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
-                  "team": "CD Riestra",
-                  "clubName": "Deportivo Riestra",
-                  "shortName": "Riestra",
-                  "code": "RIE",
-                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 4,
-                  "played": 6,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 2,
-                  "goalsFor": 2,
-                  "goalsAgainst": 6,
-                  "goalDifference": "-4",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 12,
-                  "rankStatus": null,
                   "teamId": "5o5wtxn03ktvxcdrpxht5aqdp",
                   "team": "CA Unión",
                   "clubName": "Unión",
@@ -11424,7 +11403,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 13,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "9vph9w7uflam4cks28dfp98h4",
                   "team": "CA Gimnasia y Esgrima de Mendoza",
@@ -11440,6 +11419,27 @@
                   "goalsFor": 2,
                   "goalsAgainst": 8,
                   "goalDifference": "-6",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 13,
+                  "rankStatus": null,
+                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
+                  "team": "CD Riestra",
+                  "clubName": "Deportivo Riestra",
+                  "shortName": "Riestra",
+                  "code": "RIE",
+                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
+                  "points": 3,
+                  "played": 6,
+                  "won": 0,
+                  "drawn": 3,
+                  "lost": 3,
+                  "goalsFor": 2,
+                  "goalsAgainst": 7,
+                  "goalDifference": "-5",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -11860,6 +11860,27 @@
                 {
                   "rank": 3,
                   "rankStatus": null,
+                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
+                  "team": "Instituto AC Córdoba",
+                  "clubName": "Instituto",
+                  "shortName": "Instituto",
+                  "code": "INS",
+                  "logo": "assets/icons/escudos/instituto.svg",
+                  "points": 7,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 1,
+                  "lost": 0,
+                  "goalsFor": 6,
+                  "goalsAgainst": 3,
+                  "goalDifference": "+3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 4,
+                  "rankStatus": null,
                   "teamId": "a3kgi895b7b3ecfzmoyxbw2pl",
                   "team": "CA Vélez Sarsfield",
                   "clubName": "Vélez Sarsfield",
@@ -11879,7 +11900,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 4,
+                  "rank": 5,
                   "rankStatus": null,
                   "teamId": "1n4ioqcbh1hemy9ezzu6v86n7",
                   "team": "CSD Defensa y Justicia",
@@ -11900,7 +11921,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 5,
+                  "rank": 6,
                   "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
@@ -11916,27 +11937,6 @@
                   "goalsFor": 6,
                   "goalsAgainst": 3,
                   "goalDifference": "+3",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 6,
-                  "rankStatus": null,
-                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
-                  "team": "Instituto AC Córdoba",
-                  "clubName": "Instituto",
-                  "shortName": "Instituto",
-                  "code": "INS",
-                  "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 5,
-                  "played": 3,
-                  "won": 1,
-                  "drawn": 2,
-                  "lost": 0,
-                  "goalsFor": 5,
-                  "goalsAgainst": 3,
-                  "goalDifference": "+2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -12657,14 +12657,14 @@
                   "shortName": "Riestra",
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 2,
+                  "points": 1,
                   "played": 3,
                   "won": 0,
-                  "drawn": 2,
-                  "lost": 1,
+                  "drawn": 1,
+                  "lost": 2,
                   "goalsFor": 0,
-                  "goalsAgainst": 1,
-                  "goalDifference": "-1",
+                  "goalsAgainst": 2,
+                  "goalDifference": "-2",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -13259,10 +13259,10 @@
                   "shortName": "Instituto",
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 16,
-                  "played": 13,
+                  "points": 17,
+                  "played": 14,
                   "won": 2,
-                  "drawn": 10,
+                  "drawn": 11,
                   "lost": 1,
                   "goalsFor": 5,
                   "goalsAgainst": 4,
@@ -13301,10 +13301,10 @@
                   "shortName": "Riestra",
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 14,
-                  "played": 13,
+                  "points": 15,
+                  "played": 14,
                   "won": 2,
-                  "drawn": 8,
+                  "drawn": 9,
                   "lost": 3,
                   "goalsFor": 5,
                   "goalsAgainst": 5,
@@ -13945,10 +13945,10 @@
                   "shortName": "Instituto",
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 8,
-                  "played": 6,
+                  "points": 9,
+                  "played": 7,
                   "won": 1,
-                  "drawn": 5,
+                  "drawn": 6,
                   "lost": 0,
                   "goalsFor": 2,
                   "goalsAgainst": 1,
@@ -14583,6 +14583,27 @@
                 {
                   "rank": 10,
                   "rankStatus": null,
+                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
+                  "team": "CD Riestra",
+                  "clubName": "Deportivo Riestra",
+                  "shortName": "Riestra",
+                  "code": "RIE",
+                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
+                  "points": 5,
+                  "played": 7,
+                  "won": 0,
+                  "drawn": 5,
+                  "lost": 2,
+                  "goalsFor": 0,
+                  "goalsAgainst": 3,
+                  "goalDifference": "-3",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 11,
+                  "rankStatus": null,
                   "teamId": "91j32z6ga16tjj140ss2i24mt",
                   "team": "Club Estudiantes de La Plata",
                   "clubName": "Estudiantes",
@@ -14602,7 +14623,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 11,
+                  "rank": 12,
                   "rankStatus": null,
                   "teamId": "d08q2rnrt7mss1axbuu595tyu",
                   "team": "CA Platense",
@@ -14623,7 +14644,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 12,
+                  "rank": 13,
                   "rankStatus": null,
                   "teamId": "2sciofe2reang4qdncm1bihgr",
                   "team": "CA San Lorenzo de Almagro",
@@ -14639,27 +14660,6 @@
                   "goalsFor": 1,
                   "goalsAgainst": 6,
                   "goalDifference": "-5",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 13,
-                  "rankStatus": null,
-                  "teamId": "7gcwwr8m5docs6jqrn2stilie",
-                  "team": "CD Riestra",
-                  "clubName": "Deportivo Riestra",
-                  "shortName": "Riestra",
-                  "code": "RIE",
-                  "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 4,
-                  "played": 6,
-                  "won": 0,
-                  "drawn": 4,
-                  "lost": 2,
-                  "goalsFor": 0,
-                  "goalsAgainst": 3,
-                  "goalDifference": "-3",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -15213,7 +15213,7 @@
                   "code": "INS",
                   "logo": "assets/icons/escudos/instituto.svg",
                   "points": null,
-                  "played": 13,
+                  "played": 14,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -15297,7 +15297,7 @@
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
                   "points": null,
-                  "played": 13,
+                  "played": 14,
                   "won": null,
                   "drawn": null,
                   "lost": null,
@@ -16659,18 +16659,18 @@
                   "won": null,
                   "drawn": null,
                   "lost": null,
-                  "goalsFor": 112,
+                  "goalsFor": 113,
                   "goalsAgainst": 112,
-                  "goalDifference": 0,
+                  "goalDifference": 1,
                   "lastSix": null,
-                  "relegationAverage": 1.339,
+                  "relegationAverage": 1.359,
                   "relegation": {
                     "played": 103,
-                    "points": 138,
-                    "average": 1.339,
-                    "goalsFor": 112,
+                    "points": 140,
+                    "average": 1.359,
+                    "goalsFor": 113,
                     "goalsAgainst": 112,
-                    "goalDifference": 0,
+                    "goalDifference": 1,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -16704,12 +16704,12 @@
                         "endDate": "2026-12-14Z",
                         "name": "2026",
                         "matchesPlayed": 30,
-                        "matchesWon": 15,
+                        "matchesWon": 16,
                         "matchesLost": 9,
-                        "matchesDraw": 6,
-                        "goalsPro": 37,
+                        "matchesDraw": 5,
+                        "goalsPro": 38,
                         "goalsAgainst": 27,
-                        "points": 51
+                        "points": 53
                       }
                     ]
                   }
@@ -17074,17 +17074,17 @@
                   "drawn": null,
                   "lost": null,
                   "goalsFor": 81,
-                  "goalsAgainst": 87,
-                  "goalDifference": -6,
+                  "goalsAgainst": 88,
+                  "goalDifference": -7,
                   "lastSix": null,
-                  "relegationAverage": 1.203,
+                  "relegationAverage": 1.194,
                   "relegation": {
                     "played": 103,
-                    "points": 124,
-                    "average": 1.203,
+                    "points": 123,
+                    "average": 1.194,
                     "goalsFor": 81,
-                    "goalsAgainst": 87,
-                    "goalDifference": -6,
+                    "goalsAgainst": 88,
+                    "goalDifference": -7,
                     "seasons": [
                       {
                         "id": "534vuyemq3e4biv283g33zf2s",
@@ -17119,11 +17119,11 @@
                         "name": "2026",
                         "matchesPlayed": 30,
                         "matchesWon": 3,
-                        "matchesLost": 12,
-                        "matchesDraw": 15,
+                        "matchesLost": 13,
+                        "matchesDraw": 14,
                         "goalsPro": 15,
-                        "goalsAgainst": 25,
-                        "points": 24
+                        "goalsAgainst": 26,
+                        "points": 23
                       }
                     ]
                   }
@@ -17844,6 +17844,27 @@
                 {
                   "rank": 5,
                   "rankStatus": "CONMEBOL Sudamericana",
+                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
+                  "team": "Instituto AC Córdoba",
+                  "clubName": "Instituto",
+                  "shortName": "Instituto",
+                  "code": "INS",
+                  "logo": "assets/icons/escudos/instituto.svg",
+                  "points": 53,
+                  "played": 30,
+                  "won": 16,
+                  "drawn": 5,
+                  "lost": 9,
+                  "goalsFor": 38,
+                  "goalsAgainst": 27,
+                  "goalDifference": "+11",
+                  "lastSix": null,
+                  "relegationAverage": null,
+                  "relegation": null
+                },
+                {
+                  "rank": 6,
+                  "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "8inprqnxjps9ckiamn3cfoo8v",
                   "team": "CS Independiente Rivadavia",
                   "clubName": "Independiente Rivadavia",
@@ -17863,7 +17884,7 @@
                   "relegation": null
                 },
                 {
-                  "rank": 6,
+                  "rank": 7,
                   "rankStatus": "CONMEBOL Sudamericana",
                   "teamId": "115foion8jwrvp2e7xif675kx",
                   "team": "CA River Plate",
@@ -17879,27 +17900,6 @@
                   "goalsFor": 41,
                   "goalsAgainst": 25,
                   "goalDifference": "+16",
-                  "lastSix": null,
-                  "relegationAverage": null,
-                  "relegation": null
-                },
-                {
-                  "rank": 7,
-                  "rankStatus": "CONMEBOL Sudamericana",
-                  "teamId": "2zjoq67ogz8lmaoesxkubxhp6",
-                  "team": "Instituto AC Córdoba",
-                  "clubName": "Instituto",
-                  "shortName": "Instituto",
-                  "code": "INS",
-                  "logo": "assets/icons/escudos/instituto.svg",
-                  "points": 51,
-                  "played": 30,
-                  "won": 15,
-                  "drawn": 6,
-                  "lost": 9,
-                  "goalsFor": 37,
-                  "goalsAgainst": 27,
-                  "goalDifference": "+10",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -18333,14 +18333,14 @@
                   "shortName": "Riestra",
                   "code": "RIE",
                   "logo": "assets/icons/escudos/deportivo-riestra.svg",
-                  "points": 24,
+                  "points": 23,
                   "played": 30,
                   "won": 3,
-                  "drawn": 15,
-                  "lost": 12,
+                  "drawn": 14,
+                  "lost": 13,
                   "goalsFor": 15,
-                  "goalsAgainst": 25,
-                  "goalDifference": "-10",
+                  "goalsAgainst": 26,
+                  "goalDifference": "-11",
                   "lastSix": null,
                   "relegationAverage": null,
                   "relegation": null
@@ -39192,8 +39192,8 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "5o5wtxn03ktvxcdrpxht5aqdp",
         "name": "Unión",
@@ -39215,10 +39215,10 @@
         "logo": "assets/icons/escudos/estudiantes.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 1
       },
       "venue": {
         "id": "5fefn764ml6jkgks2195dd0lf",
@@ -39227,8 +39227,8 @@
         "lat": "-31.631871174",
         "lng": "-60.715717077"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 2,
+      "substitutionsCount": 10
     },
     {
       "id": "2lxlno3im83enim70qlg7d2qc",
@@ -39237,7 +39237,7 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "2zjoq67ogz8lmaoesxkubxhp6",
@@ -39260,8 +39260,8 @@
         "logo": "assets/icons/escudos/deportivo-riestra.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 0,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -41212,7 +41212,7 @@
         "goalsFor": 15,
         "goalsAgainst": 25,
         "goalDifference": -10,
-        "upcoming": 3
+        "upcoming": 2
       },
       "recentMatches": [
         {
@@ -41263,16 +41263,23 @@
       "logo": "assets/icons/escudos/estudiantes.svg",
       "homeVenue": "Estadio Jorge Luis Hirschi",
       "stats": {
-        "played": 30,
+        "played": 31,
         "won": 13,
         "drawn": 6,
-        "lost": 11,
-        "goalsFor": 35,
-        "goalsAgainst": 23,
-        "goalDifference": 12,
-        "upcoming": 3
+        "lost": 12,
+        "goalsFor": 36,
+        "goalsAgainst": 26,
+        "goalDifference": 10,
+        "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-26",
+          "stage": "Clausura",
+          "home": "Unión",
+          "away": "Estudiantes",
+          "score": "3-1"
+        },
         {
           "date": "2026-10-18",
           "stage": "Clausura",
@@ -41299,13 +41306,6 @@
           "stage": "Clausura",
           "home": "Lanús",
           "away": "Estudiantes",
-          "score": "2-1"
-        },
-        {
-          "date": "2026-09-12",
-          "stage": "Clausura",
-          "home": "Estudiantes",
-          "away": "Platense",
           "score": "2-1"
         }
       ]
@@ -41676,7 +41676,7 @@
         "goalsFor": 37,
         "goalsAgainst": 27,
         "goalDifference": 10,
-        "upcoming": 3
+        "upcoming": 2
       },
       "recentMatches": [
         {
@@ -42307,16 +42307,23 @@
       "logo": "assets/icons/escudos/union.svg",
       "homeVenue": "Estadio 15 de Abril",
       "stats": {
-        "played": 31,
-        "won": 10,
+        "played": 32,
+        "won": 11,
         "drawn": 8,
         "lost": 13,
-        "goalsFor": 44,
-        "goalsAgainst": 45,
-        "goalDifference": -1,
-        "upcoming": 3
+        "goalsFor": 47,
+        "goalsAgainst": 46,
+        "goalDifference": 1,
+        "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-26",
+          "stage": "Clausura",
+          "home": "Unión",
+          "away": "Estudiantes",
+          "score": "3-1"
+        },
         {
           "date": "2026-10-19",
           "stage": "Clausura",
@@ -42344,13 +42351,6 @@
           "home": "Unión",
           "away": "Independiente",
           "score": "1-2"
-        },
-        {
-          "date": "2026-09-12",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Unión",
-          "score": "2-1"
         }
       ]
     },
