@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T00:16:41",
+  "generatedAt": "2026-10-28T06:03:19",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 464,
-    "fixtures": 31,
+    "played": 465,
+    "fixtures": 30,
     "playing": 0,
     "stages": {
       "Apertura": 240,
@@ -39282,8 +39282,8 @@
       "week": "14",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "7tev5pifn8hdy4vlts0coha1b",
         "name": "Argentinos Juniors",
@@ -39305,10 +39305,10 @@
         "logo": "assets/icons/escudos/independiente-rivadavia.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 0,
+        "htHome": 0,
+        "htAway": 0
       },
       "venue": {
         "id": "dvkiycglynkq2xlamwy8dzf6f",
@@ -39317,8 +39317,8 @@
         "lat": "-34.606119915",
         "lng": "-58.472607136"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 9,
+      "substitutionsCount": 8
     },
     {
       "id": "2w2kq05ag6g8c1h288a5eigic",
@@ -40741,16 +40741,23 @@
       "logo": "assets/icons/escudos/argentinos.svg",
       "homeVenue": "Estadio Diego Armando Maradona",
       "stats": {
-        "played": 32,
-        "won": 17,
+        "played": 33,
+        "won": 18,
         "drawn": 9,
         "lost": 6,
-        "goalsFor": 41,
+        "goalsFor": 42,
         "goalsAgainst": 29,
-        "goalDifference": 12,
-        "upcoming": 3
+        "goalDifference": 13,
+        "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-27",
+          "stage": "Clausura",
+          "home": "Argentinos",
+          "away": "Independiente",
+          "score": "1-0"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -40778,13 +40785,6 @@
           "home": "Rosario",
           "away": "Argentinos",
           "score": "1-0"
-        },
-        {
-          "date": "2026-09-13",
-          "stage": "Clausura",
-          "home": "Argentinos",
-          "away": "GELP",
-          "score": "1-1"
         }
       ]
     },
@@ -41611,16 +41611,23 @@
       "logo": "assets/icons/escudos/independiente-rivadavia.svg",
       "homeVenue": "Estadio Bautista Gargantini",
       "stats": {
-        "played": 30,
+        "played": 31,
         "won": 15,
         "drawn": 8,
-        "lost": 7,
+        "lost": 8,
         "goalsFor": 47,
-        "goalsAgainst": 38,
-        "goalDifference": 9,
-        "upcoming": 3
+        "goalsAgainst": 39,
+        "goalDifference": 8,
+        "upcoming": 2
       },
       "recentMatches": [
+        {
+          "date": "2026-10-27",
+          "stage": "Clausura",
+          "home": "Argentinos",
+          "away": "Independiente",
+          "score": "1-0"
+        },
         {
           "date": "2026-10-17",
           "stage": "Clausura",
@@ -41648,13 +41655,6 @@
           "home": "Barracas",
           "away": "Independiente",
           "score": "0-1"
-        },
-        {
-          "date": "2026-09-12",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Aldosivi",
-          "score": "4-3"
         }
       ]
     },
