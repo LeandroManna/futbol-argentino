@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:54:27",
+  "generatedAt": "2026-11-01T14:47:50",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 471,
+    "played": 472,
     "fixtures": 23,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -39597,8 +39597,8 @@
       "week": "15",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "91j32z6ga16tjj140ss2i24mt",
         "name": "Estudiantes",
@@ -39620,8 +39620,8 @@
         "logo": "assets/icons/escudos/instituto.svg"
       },
       "score": {
-        "home": 0,
-        "away": 1,
+        "home": 3,
+        "away": 3,
         "htHome": 0,
         "htAway": 1
       },
@@ -39632,8 +39632,8 @@
         "lat": "-34.912029914",
         "lng": "-57.938954830"
       },
-      "cardsCount": 6,
-      "substitutionsCount": 1
+      "cardsCount": 10,
+      "substitutionsCount": 10
     },
     {
       "id": "2r8cyxbnkv4d4dolb5e7jwlxw",
@@ -41263,16 +41263,23 @@
       "logo": "assets/icons/escudos/estudiantes.svg",
       "homeVenue": "Estadio Jorge Luis Hirschi",
       "stats": {
-        "played": 31,
+        "played": 32,
         "won": 13,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 12,
-        "goalsFor": 36,
-        "goalsAgainst": 26,
+        "goalsFor": 39,
+        "goalsAgainst": 29,
         "goalDifference": 10,
         "upcoming": 1
       },
       "recentMatches": [
+        {
+          "date": "2026-10-31",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "Instituto",
+          "score": "3-3"
+        },
         {
           "date": "2026-10-26",
           "stage": "Clausura",
@@ -41300,13 +41307,6 @@
           "home": "Estudiantes",
           "away": "Gim Mendoza",
           "score": "3-0"
-        },
-        {
-          "date": "2026-09-21",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Estudiantes",
-          "score": "2-1"
         }
       ]
     },
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Monumental Presidente Perón",
       "stats": {
-        "played": 30,
+        "played": 31,
         "won": 16,
-        "drawn": 5,
+        "drawn": 6,
         "lost": 9,
-        "goalsFor": 38,
-        "goalsAgainst": 27,
+        "goalsFor": 41,
+        "goalsAgainst": 30,
         "goalDifference": 11,
         "upcoming": 1
       },
       "recentMatches": [
+        {
+          "date": "2026-10-31",
+          "stage": "Clausura",
+          "home": "Estudiantes",
+          "away": "Instituto",
+          "score": "3-3"
+        },
         {
           "date": "2026-10-26",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Independiente",
           "away": "Instituto",
           "score": "1-4"
-        },
-        {
-          "date": "2026-09-19",
-          "stage": "Clausura",
-          "home": "Instituto",
-          "away": "Talleres",
-          "score": "3-1"
         }
       ]
     },
