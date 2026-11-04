@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:31:56",
+  "generatedAt": "2026-11-04T02:43:30",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-03T16:59:14Z",
+    "lastUpdated": "2026-11-04T01:15:34Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -39722,7 +39722,7 @@
         "lat": "-32.956041911",
         "lng": "-60.661547184"
       },
-      "cardsCount": 8,
+      "cardsCount": 9,
       "substitutionsCount": 7
     },
     {
@@ -40133,7 +40133,7 @@
     {
       "id": "2zgch70yskded7ioo6md6t7o4",
       "date": "2026-11-06",
-      "time": "19:00",
+      "time": "19:15",
       "week": "16",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -40178,7 +40178,7 @@
     {
       "id": "2zxb64ujg7oxosnnypnxdysk4",
       "date": "2026-11-06",
-      "time": "19:00",
+      "time": "19:15",
       "week": "16",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
@@ -40223,7 +40223,7 @@
     {
       "id": "31gqlu85vo1wpvy1ynyhwfac4",
       "date": "2026-11-06",
-      "time": "19:00",
+      "time": "19:15",
       "week": "16",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
