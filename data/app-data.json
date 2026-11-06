@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:47:30",
+  "generatedAt": "2026-11-06T14:49:33",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 481,
+    "played": 482,
     "fixtures": 13,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -40047,8 +40047,8 @@
       "week": "16",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "1rio0xlpk4s2ttmchsqjs6eik",
         "name": "Gimnasia La Plata",
@@ -40082,7 +40082,7 @@
         "lat": "-34.910956553",
         "lng": "-57.932581902"
       },
-      "cardsCount": 6,
+      "cardsCount": 7,
       "substitutionsCount": 8
     },
     {
@@ -40973,16 +40973,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 35,
+        "played": 36,
         "won": 17,
         "drawn": 10,
-        "lost": 8,
-        "goalsFor": 44,
-        "goalsAgainst": 32,
-        "goalDifference": 12,
+        "lost": 9,
+        "goalsFor": 45,
+        "goalsAgainst": 34,
+        "goalDifference": 11,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-05",
+          "stage": "Clausura",
+          "home": "GELP",
+          "away": "Belgrano",
+          "score": "2-1"
+        },
         {
           "date": "2026-11-01",
           "stage": "Clausura",
@@ -41010,13 +41017,6 @@
           "home": "Racing",
           "away": "Belgrano",
           "score": "0-2"
-        },
-        {
-          "date": "2026-10-04",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Belgrano",
-          "score": "0-1"
         }
       ]
     },
@@ -41379,16 +41379,23 @@
       "logo": "assets/icons/escudos/gimnasia-la-plata.svg",
       "homeVenue": "Estadio Juan Carmelo Zerillo",
       "stats": {
-        "played": 33,
-        "won": 17,
+        "played": 34,
+        "won": 18,
         "drawn": 6,
         "lost": 10,
-        "goalsFor": 43,
-        "goalsAgainst": 40,
-        "goalDifference": 3,
+        "goalsFor": 45,
+        "goalsAgainst": 41,
+        "goalDifference": 4,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-05",
+          "stage": "Clausura",
+          "home": "GELP",
+          "away": "Belgrano",
+          "score": "2-1"
+        },
         {
           "date": "2026-10-30",
           "stage": "Clausura",
@@ -41415,13 +41422,6 @@
           "stage": "Clausura",
           "home": "GELP",
           "away": "Atl. Tucumán",
-          "score": "1-1"
-        },
-        {
-          "date": "2026-10-02",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "GELP",
           "score": "1-1"
         }
       ]
