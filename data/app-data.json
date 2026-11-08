@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:22:05",
+  "generatedAt": "2026-11-08T14:26:23",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 495,
     "teams": 30,
-    "played": 493,
+    "played": 494,
     "fixtures": 1,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -31,7 +31,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-08T03:21:57Z",
+    "lastUpdated": "2026-11-08T09:20:11Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40587,8 +40587,8 @@
       "week": "16",
       "stage": "Clausura",
       "stageId": "8km5lcwj1b22onr594sv9u7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "draw",
       "home": {
         "id": "2zjoq67ogz8lmaoesxkubxhp6",
         "name": "Instituto",
@@ -40610,10 +40610,10 @@
         "logo": "assets/icons/escudos/newells.svg"
       },
       "score": {
-        "home": 1,
-        "away": 0,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 2,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "crymr9q1rvdywoq6nq30126nh",
@@ -40622,8 +40622,8 @@
         "lat": "-31.383720551",
         "lng": "-64.180251360"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 1,
+      "substitutionsCount": 9
     },
     {
       "id": "2yzcu6ranyvl2p15p9s7m0mxg",
@@ -41669,16 +41669,23 @@
       "logo": "assets/icons/escudos/instituto.svg",
       "homeVenue": "Estadio Monumental Presidente Perón",
       "stats": {
-        "played": 31,
+        "played": 32,
         "won": 16,
-        "drawn": 6,
+        "drawn": 7,
         "lost": 9,
-        "goalsFor": 41,
-        "goalsAgainst": 30,
+        "goalsFor": 43,
+        "goalsAgainst": 32,
         "goalDifference": 11,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-07",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Newell's",
+          "score": "2-2"
+        },
         {
           "date": "2026-10-31",
           "stage": "Clausura",
@@ -41706,13 +41713,6 @@
           "home": "Instituto",
           "away": "Boca",
           "score": "2-2"
-        },
-        {
-          "date": "2026-10-02",
-          "stage": "Clausura",
-          "home": "Independiente",
-          "away": "Instituto",
-          "score": "1-4"
         }
       ]
     },
@@ -41785,16 +41785,23 @@
       "logo": "assets/icons/escudos/newells.svg",
       "homeVenue": "Estadio Marcelo Alberto Bielsa",
       "stats": {
-        "played": 31,
+        "played": 32,
         "won": 8,
-        "drawn": 13,
+        "drawn": 14,
         "lost": 10,
-        "goalsFor": 29,
-        "goalsAgainst": 38,
+        "goalsFor": 31,
+        "goalsAgainst": 40,
         "goalDifference": -9,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-07",
+          "stage": "Clausura",
+          "home": "Instituto",
+          "away": "Newell's",
+          "score": "2-2"
+        },
         {
           "date": "2026-11-01",
           "stage": "Clausura",
@@ -41822,13 +41829,6 @@
           "home": "Gim Mendoza",
           "away": "Newell's",
           "score": "1-0"
-        },
-        {
-          "date": "2026-10-03",
-          "stage": "Clausura",
-          "home": "Newell's",
-          "away": "Lanús",
-          "score": "0-0"
         }
       ]
     },
