@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:58:52",
+  "generatedAt": "2026-11-11T18:35:16",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -32,7 +32,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-10T17:17:12Z",
+    "lastUpdated": "2026-11-11T18:17:15Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40662,11 +40662,11 @@
         "htAway": 1
       },
       "venue": {
-        "id": "5yy0k9r70dj3yf3eea0ikdwv3",
-        "name": "Estadio Alfredo Terrera",
-        "shortName": "Estadio Alfredo Terrera",
-        "lat": "-27.793820266",
-        "lng": "-64.264268875"
+        "id": "4kpjcinwmcwmrbzmfp7krjskq",
+        "name": "Estadio Único Madre de Ciudades",
+        "shortName": "Estadio Único Madre de Ciudades",
+        "lat": "-27.766091488",
+        "lng": "-64.270094748"
       },
       "cardsCount": 4,
       "substitutionsCount": 10
@@ -40707,11 +40707,11 @@
         "htAway": null
       },
       "venue": {
-        "id": "crymr9q1rvdywoq6nq30126nh",
-        "name": "Estadio Monumental Presidente Perón",
-        "shortName": "Estadio Monumental Presidente Perón",
-        "lat": "-31.383720551",
-        "lng": "-64.180251360"
+        "id": "biabh59k1zbdgx66fi5gfgfr5",
+        "name": "Estadio Mario Alberto Kempes",
+        "shortName": "Estadio Mario Alberto Kempes",
+        "lat": "-31.368991412",
+        "lng": "-64.246051311"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
