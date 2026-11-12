@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T01:01:18",
+  "generatedAt": "2026-11-12T08:20:35",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -32,7 +32,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-11T18:17:15Z",
+    "lastUpdated": "2026-11-12T03:05:22Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40672,99 +40672,9 @@
       "substitutionsCount": 10
     },
     {
-      "id": "audeqlshxlojc30t8s1qsu4gk",
-      "date": "2026-11-22Z",
-      "time": "",
-      "week": "Eliminatoria",
-      "stage": "Clausura - 8th Finals",
-      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "2zjoq67ogz8lmaoesxkubxhp6",
-        "name": "Instituto",
-        "clubName": "Instituto",
-        "shortName": "Instituto",
-        "officialName": "Instituto AC Córdoba",
-        "code": "INS",
-        "nickname": null,
-        "logo": "assets/icons/escudos/instituto.svg"
-      },
-      "away": {
-        "id": "3rw8ouixzsh3x8dgy8ifev925",
-        "name": "Huracán",
-        "clubName": "Huracán",
-        "shortName": "Huracán",
-        "officialName": "CA Huracán",
-        "code": "HUR",
-        "nickname": "El Globo",
-        "logo": "assets/icons/escudos/huracan.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "biabh59k1zbdgx66fi5gfgfr5",
-        "name": "Estadio Mario Alberto Kempes",
-        "shortName": "Estadio Mario Alberto Kempes",
-        "lat": "-31.368991412",
-        "lng": "-64.246051311"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
-      "id": "aupsvorrk2oshzhha6gi7eivo",
-      "date": "2026-11-22Z",
-      "time": "",
-      "week": "Eliminatoria",
-      "stage": "Clausura - 8th Finals",
-      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "115foion8jwrvp2e7xif675kx",
-        "name": "River Plate",
-        "clubName": "River Plate",
-        "shortName": "River",
-        "officialName": "CA River Plate",
-        "code": "RIV",
-        "nickname": "Millonario",
-        "logo": "assets/icons/escudos/river.svg"
-      },
-      "away": {
-        "id": "19ij50t7wklqr3w2bye5r7tp4",
-        "name": "Lanús",
-        "clubName": "Lanús",
-        "shortName": "Lanús",
-        "officialName": "CA Lanús",
-        "code": "LAN",
-        "nickname": "Granate",
-        "logo": "assets/icons/escudos/lanus.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "7xyfskcpghmryithcog91y6y3",
-        "name": "Estadio Monumental",
-        "shortName": "Estadio Monumental",
-        "lat": "-34.545325187",
-        "lng": "-58.449722528"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "auyzzzl846j8bf9cve5gau39w",
-      "date": "2026-11-22Z",
-      "time": "",
+      "date": "2026-11-20",
+      "time": "20:00",
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
@@ -40807,54 +40717,9 @@
       "substitutionsCount": 0
     },
     {
-      "id": "av89nve38oaavmyd16oy1ek2c",
-      "date": "2026-11-22Z",
-      "time": "",
-      "week": "Eliminatoria",
-      "stage": "Clausura - 8th Finals",
-      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
-      "winner": null,
-      "home": {
-        "id": "e8ma1lonj51sqmwy00mwnw1ke",
-        "name": "Rosario Central",
-        "clubName": "Rosario Central",
-        "shortName": "Rosario",
-        "officialName": "CA Rosario Central",
-        "code": "ROS",
-        "nickname": "Canalla",
-        "logo": "assets/icons/escudos/rosario-central.svg"
-      },
-      "away": {
-        "id": "9vph9w7uflam4cks28dfp98h4",
-        "name": "Gimnasia Mendoza",
-        "clubName": "Gimnasia Mendoza",
-        "shortName": "Gim Mendoza",
-        "officialName": "CA Gimnasia y Esgrima de Mendoza",
-        "code": "GMD",
-        "nickname": null,
-        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
-      },
-      "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
-      },
-      "venue": {
-        "id": "8sgezad3ax5yejy1c7m6wl0q6",
-        "name": "Estadio Gigante de Arroyito",
-        "shortName": "Estadio Gigante de Arroyito",
-        "lat": "-32.913990521",
-        "lng": "-60.674561262"
-      },
-      "cardsCount": 0,
-      "substitutionsCount": 0
-    },
-    {
       "id": "avhckatzn4a11fefas1rio0es",
-      "date": "2026-11-22Z",
-      "time": "",
+      "date": "2026-11-21",
+      "time": "15:00",
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
@@ -40897,33 +40762,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "avqke3zr47j7poekifmroy2ok",
-      "date": "2026-11-22Z",
-      "time": "",
+      "id": "aw94xqyfzym0kmpolq2ihz0gk",
+      "date": "2026-11-21",
+      "time": "17:00",
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "ciqt22ivoc48zj62detdyh1mm",
-        "name": "Boca Juniors",
-        "clubName": "Boca Juniors",
-        "shortName": "Boca",
-        "officialName": "CA Boca Juniors",
-        "code": "BOC",
-        "nickname": "Xeneize",
-        "logo": "assets/icons/escudos/boca.svg"
+        "id": "7tev5pifn8hdy4vlts0coha1b",
+        "name": "Argentinos Juniors",
+        "clubName": "Argentinos Juniors",
+        "shortName": "Argentinos",
+        "officialName": "AA Argentinos Juniors",
+        "code": "ARG",
+        "nickname": "El Bicho",
+        "logo": "assets/icons/escudos/argentinos.svg"
       },
       "away": {
-        "id": "8inprqnxjps9ckiamn3cfoo8v",
-        "name": "Independiente Rivadavia",
-        "clubName": "Independiente Rivadavia",
+        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
+        "name": "Independiente",
+        "clubName": "Independiente",
         "shortName": "Independiente",
-        "officialName": "CS Independiente Rivadavia",
-        "code": "IND",
-        "nickname": null,
-        "logo": "assets/icons/escudos/independiente-rivadavia.svg"
+        "officialName": "CA Independiente",
+        "code": "CAI",
+        "nickname": "El Rojo de Avellaneda",
+        "logo": "assets/icons/escudos/independiente.svg"
       },
       "score": {
         "home": null,
@@ -40932,19 +40797,154 @@
         "htAway": null
       },
       "venue": {
-        "id": "6nan0as2jh7b0oex8qew6y5oi",
-        "name": "Estadio Alberto José Armando",
-        "shortName": "Estadio Alberto José Armando",
-        "lat": "-34.635582546",
-        "lng": "-58.364637494"
+        "id": "dvkiycglynkq2xlamwy8dzf6f",
+        "name": "Estadio Diego Armando Maradona",
+        "shortName": "Estadio Diego Armando Maradona",
+        "lat": "-34.606119915",
+        "lng": "-58.472607136"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "av89nve38oaavmyd16oy1ek2c",
+      "date": "2026-11-22",
+      "time": "16:00",
+      "week": "Eliminatoria",
+      "stage": "Clausura - 8th Finals",
+      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "e8ma1lonj51sqmwy00mwnw1ke",
+        "name": "Rosario Central",
+        "clubName": "Rosario Central",
+        "shortName": "Rosario",
+        "officialName": "CA Rosario Central",
+        "code": "ROS",
+        "nickname": "Canalla",
+        "logo": "assets/icons/escudos/rosario-central.svg"
+      },
+      "away": {
+        "id": "9vph9w7uflam4cks28dfp98h4",
+        "name": "Gimnasia Mendoza",
+        "clubName": "Gimnasia Mendoza",
+        "shortName": "Gim Mendoza",
+        "officialName": "CA Gimnasia y Esgrima de Mendoza",
+        "code": "GMD",
+        "nickname": null,
+        "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "8sgezad3ax5yejy1c7m6wl0q6",
+        "name": "Estadio Gigante de Arroyito",
+        "shortName": "Estadio Gigante de Arroyito",
+        "lat": "-32.913990521",
+        "lng": "-60.674561262"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "aupsvorrk2oshzhha6gi7eivo",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "week": "Eliminatoria",
+      "stage": "Clausura - 8th Finals",
+      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "115foion8jwrvp2e7xif675kx",
+        "name": "River Plate",
+        "clubName": "River Plate",
+        "shortName": "River",
+        "officialName": "CA River Plate",
+        "code": "RIV",
+        "nickname": "Millonario",
+        "logo": "assets/icons/escudos/river.svg"
+      },
+      "away": {
+        "id": "19ij50t7wklqr3w2bye5r7tp4",
+        "name": "Lanús",
+        "clubName": "Lanús",
+        "shortName": "Lanús",
+        "officialName": "CA Lanús",
+        "code": "LAN",
+        "nickname": "Granate",
+        "logo": "assets/icons/escudos/lanus.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "7xyfskcpghmryithcog91y6y3",
+        "name": "Estadio Monumental",
+        "shortName": "Estadio Monumental",
+        "lat": "-34.545325187",
+        "lng": "-58.449722528"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "audeqlshxlojc30t8s1qsu4gk",
+      "date": "2026-11-22",
+      "time": "22:00",
+      "week": "Eliminatoria",
+      "stage": "Clausura - 8th Finals",
+      "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "2zjoq67ogz8lmaoesxkubxhp6",
+        "name": "Instituto",
+        "clubName": "Instituto",
+        "shortName": "Instituto",
+        "officialName": "Instituto AC Córdoba",
+        "code": "INS",
+        "nickname": null,
+        "logo": "assets/icons/escudos/instituto.svg"
+      },
+      "away": {
+        "id": "3rw8ouixzsh3x8dgy8ifev925",
+        "name": "Huracán",
+        "clubName": "Huracán",
+        "shortName": "Huracán",
+        "officialName": "CA Huracán",
+        "code": "HUR",
+        "nickname": "El Globo",
+        "logo": "assets/icons/escudos/huracan.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "biabh59k1zbdgx66fi5gfgfr5",
+        "name": "Estadio Mario Alberto Kempes",
+        "shortName": "Estadio Mario Alberto Kempes",
+        "lat": "-31.368991412",
+        "lng": "-64.246051311"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
     },
     {
       "id": "avzv2to75kgvcl7bvs9sykx04",
-      "date": "2026-11-22Z",
-      "time": "",
+      "date": "2026-11-23",
+      "time": "17:00",
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
@@ -40987,33 +40987,33 @@
       "substitutionsCount": 0
     },
     {
-      "id": "aw94xqyfzym0kmpolq2ihz0gk",
-      "date": "2026-11-22Z",
-      "time": "",
+      "id": "avqke3zr47j7poekifmroy2ok",
+      "date": "2026-11-25",
+      "time": "21:00",
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
       "status": "Fixture",
       "winner": null,
       "home": {
-        "id": "7tev5pifn8hdy4vlts0coha1b",
-        "name": "Argentinos Juniors",
-        "clubName": "Argentinos Juniors",
-        "shortName": "Argentinos",
-        "officialName": "AA Argentinos Juniors",
-        "code": "ARG",
-        "nickname": "El Bicho",
-        "logo": "assets/icons/escudos/argentinos.svg"
+        "id": "ciqt22ivoc48zj62detdyh1mm",
+        "name": "Boca Juniors",
+        "clubName": "Boca Juniors",
+        "shortName": "Boca",
+        "officialName": "CA Boca Juniors",
+        "code": "BOC",
+        "nickname": "Xeneize",
+        "logo": "assets/icons/escudos/boca.svg"
       },
       "away": {
-        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
-        "name": "Independiente",
-        "clubName": "Independiente",
+        "id": "8inprqnxjps9ckiamn3cfoo8v",
+        "name": "Independiente Rivadavia",
+        "clubName": "Independiente Rivadavia",
         "shortName": "Independiente",
-        "officialName": "CA Independiente",
-        "code": "CAI",
-        "nickname": "El Rojo de Avellaneda",
-        "logo": "assets/icons/escudos/independiente.svg"
+        "officialName": "CS Independiente Rivadavia",
+        "code": "IND",
+        "nickname": null,
+        "logo": "assets/icons/escudos/independiente-rivadavia.svg"
       },
       "score": {
         "home": null,
@@ -41022,11 +41022,11 @@
         "htAway": null
       },
       "venue": {
-        "id": "dvkiycglynkq2xlamwy8dzf6f",
-        "name": "Estadio Diego Armando Maradona",
-        "shortName": "Estadio Diego Armando Maradona",
-        "lat": "-34.606119915",
-        "lng": "-58.472607136"
+        "id": "6nan0as2jh7b0oex8qew6y5oi",
+        "name": "Estadio Alberto José Armando",
+        "shortName": "Estadio Alberto José Armando",
+        "lat": "-34.635582546",
+        "lng": "-58.364637494"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
