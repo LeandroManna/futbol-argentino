@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:03:33",
+  "generatedAt": "2026-11-21T16:09:51",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 503,
     "teams": 30,
-    "played": 495,
+    "played": 496,
     "fixtures": 7,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -40678,8 +40678,8 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
         "name": "Vélez Sarsfield",
@@ -40701,8 +40701,8 @@
         "logo": "assets/icons/escudos/belgrano.svg"
       },
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 5,
+        "away": 3,
         "htHome": 0,
         "htAway": 1
       },
@@ -40713,8 +40713,8 @@
         "lat": "-34.635357444",
         "lng": "-58.520666957"
       },
-      "cardsCount": 6,
-      "substitutionsCount": 8
+      "cardsCount": 7,
+      "substitutionsCount": 11
     },
     {
       "id": "avhckatzn4a11fefas1rio0es",
@@ -41334,16 +41334,23 @@
       "logo": "assets/icons/escudos/belgrano.svg",
       "homeVenue": "Estadio Julio César Villagra",
       "stats": {
-        "played": 36,
+        "played": 37,
         "won": 17,
         "drawn": 10,
-        "lost": 9,
-        "goalsFor": 45,
-        "goalsAgainst": 34,
-        "goalDifference": 11,
+        "lost": 10,
+        "goalsFor": 48,
+        "goalsAgainst": 39,
+        "goalDifference": 9,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-20",
+          "stage": "Clausura - 8th Finals",
+          "home": "Vélez",
+          "away": "Belgrano",
+          "score": "5-3"
+        },
         {
           "date": "2026-11-05",
           "stage": "Clausura",
@@ -41371,13 +41378,6 @@
           "home": "Belgrano",
           "away": "River",
           "score": "0-3"
-        },
-        {
-          "date": "2026-10-11",
-          "stage": "Clausura",
-          "home": "Racing",
-          "away": "Belgrano",
-          "score": "0-2"
         }
       ]
     },
@@ -42726,16 +42726,23 @@
       "logo": "assets/icons/escudos/velez.svg",
       "homeVenue": "Estadio José Amalfitani",
       "stats": {
-        "played": 33,
-        "won": 14,
+        "played": 34,
+        "won": 15,
         "drawn": 14,
         "lost": 5,
-        "goalsFor": 43,
-        "goalsAgainst": 30,
-        "goalDifference": 13,
+        "goalsFor": 48,
+        "goalsAgainst": 33,
+        "goalDifference": 15,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-20",
+          "stage": "Clausura - 8th Finals",
+          "home": "Vélez",
+          "away": "Belgrano",
+          "score": "5-3"
+        },
         {
           "date": "2026-11-06",
           "stage": "Clausura",
@@ -42763,13 +42770,6 @@
           "home": "Vélez",
           "away": "Gim Mendoza",
           "score": "1-0"
-        },
-        {
-          "date": "2026-10-12",
-          "stage": "Clausura",
-          "home": "Lanús",
-          "away": "Vélez",
-          "score": "2-0"
         }
       ]
     }
