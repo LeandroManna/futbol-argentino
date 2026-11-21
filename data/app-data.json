@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:50:03",
+  "generatedAt": "2026-11-21T08:03:33",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -8,8 +8,8 @@
     "matches": 503,
     "teams": 30,
     "played": 495,
-    "fixtures": 8,
-    "playing": 0,
+    "fixtures": 7,
+    "playing": 1,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -32,7 +32,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-21T00:38:03Z",
+    "lastUpdated": "2026-11-21T01:48:38Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40678,7 +40678,7 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "a3kgi895b7b3ecfzmoyxbw2pl",
@@ -40701,10 +40701,10 @@
         "logo": "assets/icons/escudos/belgrano.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 1,
+        "away": 1,
+        "htHome": 0,
+        "htAway": 1
       },
       "venue": {
         "id": "86tjf697g6ddl07i419fn27wl",
@@ -40713,8 +40713,8 @@
         "lat": "-34.635357444",
         "lng": "-58.520666957"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 6,
+      "substitutionsCount": 8
     },
     {
       "id": "avhckatzn4a11fefas1rio0es",
@@ -41341,7 +41341,7 @@
         "goalsFor": 45,
         "goalsAgainst": 34,
         "goalDifference": 11,
-        "upcoming": 1
+        "upcoming": 0
       },
       "recentMatches": [
         {
@@ -42733,7 +42733,7 @@
         "goalsFor": 43,
         "goalsAgainst": 30,
         "goalDifference": 13,
-        "upcoming": 1
+        "upcoming": 0
       },
       "recentMatches": [
         {
