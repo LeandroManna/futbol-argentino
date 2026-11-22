@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:36:26",
+  "generatedAt": "2026-11-22T08:52:16",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,9 +7,9 @@
   "summary": {
     "matches": 503,
     "teams": 30,
-    "played": 497,
+    "played": 498,
     "fixtures": 5,
-    "playing": 1,
+    "playing": 0,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -40768,8 +40768,8 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Playing",
-      "winner": null,
+      "status": "Played",
+      "winner": "away",
       "home": {
         "id": "7tev5pifn8hdy4vlts0coha1b",
         "name": "Argentinos Juniors",
@@ -40804,7 +40804,7 @@
         "lng": "-58.472607136"
       },
       "cardsCount": 3,
-      "substitutionsCount": 4
+      "substitutionsCount": 9
     },
     {
       "id": "av89nve38oaavmyd16oy1ek2c",
@@ -41102,16 +41102,23 @@
       "logo": "assets/icons/escudos/argentinos.svg",
       "homeVenue": "Estadio Diego Armando Maradona",
       "stats": {
-        "played": 35,
+        "played": 36,
         "won": 19,
         "drawn": 9,
-        "lost": 7,
-        "goalsFor": 44,
-        "goalsAgainst": 32,
-        "goalDifference": 12,
+        "lost": 8,
+        "goalsFor": 45,
+        "goalsAgainst": 34,
+        "goalDifference": 11,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-21",
+          "stage": "Clausura - 8th Finals",
+          "home": "Argentinos",
+          "away": "Independiente",
+          "score": "1-2"
+        },
         {
           "date": "2026-11-07",
           "stage": "Clausura",
@@ -41139,13 +41146,6 @@
           "home": "Banfield",
           "away": "Argentinos",
           "score": "0-1"
-        },
-        {
-          "date": "2026-10-11",
-          "stage": "Clausura",
-          "home": "Platense",
-          "away": "Argentinos",
-          "score": "1-1"
         }
       ]
     },
@@ -41914,16 +41914,23 @@
       "logo": "assets/icons/escudos/independiente.svg",
       "homeVenue": "Estadio Libertadores de América",
       "stats": {
-        "played": 33,
-        "won": 12,
+        "played": 34,
+        "won": 13,
         "drawn": 11,
         "lost": 10,
-        "goalsFor": 40,
-        "goalsAgainst": 39,
-        "goalDifference": 1,
+        "goalsFor": 42,
+        "goalsAgainst": 40,
+        "goalDifference": 2,
         "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-21",
+          "stage": "Clausura - 8th Finals",
+          "home": "Argentinos",
+          "away": "Independiente",
+          "score": "1-2"
+        },
         {
           "date": "2026-11-06",
           "stage": "Clausura",
@@ -41951,13 +41958,6 @@
           "home": "Racing",
           "away": "Independiente",
           "score": "1-1"
-        },
-        {
-          "date": "2026-10-11",
-          "stage": "Clausura",
-          "home": "Talleres",
-          "away": "Independiente",
-          "score": "0-0"
         }
       ]
     },
