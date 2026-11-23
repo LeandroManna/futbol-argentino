@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T22:21:29",
+  "generatedAt": "2026-11-23T02:58:12",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
   },
   "summary": {
-    "matches": 503,
+    "matches": 505,
     "teams": 30,
-    "played": 498,
+    "played": 499,
     "fixtures": 5,
-    "playing": 0,
+    "playing": 1,
     "stages": {
       "Apertura": 240,
       "Apertura - 8th Finals": 8,
@@ -17,7 +17,8 @@
       "Apertura - Semi-finals": 2,
       "Apertura - Final": 1,
       "Clausura": 240,
-      "Clausura - 8th Finals": 8
+      "Clausura - 8th Finals": 8,
+      "Clausura - Quarter-finals": 2
     }
   },
   "standings": {
@@ -32,7 +33,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-22T22:15:38Z",
+    "lastUpdated": "2026-11-23T02:56:56Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40813,8 +40814,8 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "e8ma1lonj51sqmwy00mwnw1ke",
         "name": "Rosario Central",
@@ -40836,10 +40837,10 @@
         "logo": "assets/icons/escudos/gimnasia-mendoza.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 3,
+        "away": 1,
+        "htHome": 3,
+        "htAway": 0
       },
       "venue": {
         "id": "8sgezad3ax5yejy1c7m6wl0q6",
@@ -40848,8 +40849,8 @@
         "lat": "-32.913990521",
         "lng": "-60.674561262"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 1,
+      "substitutionsCount": 9
     },
     {
       "id": "aupsvorrk2oshzhha6gi7eivo",
@@ -40858,7 +40859,7 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
+      "status": "Playing",
       "winner": null,
       "home": {
         "id": "115foion8jwrvp2e7xif675kx",
@@ -40881,8 +40882,8 @@
         "logo": "assets/icons/escudos/lanus.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
+        "home": 1,
+        "away": 0,
         "htHome": null,
         "htAway": null
       },
@@ -41027,6 +41028,96 @@
         "shortName": "Estadio Alberto José Armando",
         "lat": "-34.635582546",
         "lng": "-58.364637494"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "4rckwa6torvf3i85n5la930gk",
+      "date": "2026-11-29Z",
+      "time": "",
+      "week": "Eliminatoria",
+      "stage": "Clausura - Quarter-finals",
+      "stageId": "8l2tv8pm4j3pfhyro0q5s4opg",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "a3kgi895b7b3ecfzmoyxbw2pl",
+        "name": "Vélez Sarsfield",
+        "clubName": "Vélez Sarsfield",
+        "shortName": "Vélez",
+        "officialName": "CA Vélez Sarsfield",
+        "code": "VEL",
+        "nickname": "El Fortín",
+        "logo": "assets/icons/escudos/velez.svg"
+      },
+      "away": {
+        "id": "ag3u5yhvyaxwtebl9xp5e2vaa",
+        "name": "Independiente",
+        "clubName": "Independiente",
+        "shortName": "Independiente",
+        "officialName": "CA Independiente",
+        "code": "CAI",
+        "nickname": "El Rojo de Avellaneda",
+        "logo": "assets/icons/escudos/independiente.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "86tjf697g6ddl07i419fn27wl",
+        "name": "Estadio José Amalfitani",
+        "shortName": "Estadio José Amalfitani",
+        "lat": "-34.635357444",
+        "lng": "-58.520666957"
+      },
+      "cardsCount": 0,
+      "substitutionsCount": 0
+    },
+    {
+      "id": "50in1ig13m3rr3ti0r55w65n8",
+      "date": "2026-11-29Z",
+      "time": "",
+      "week": "Eliminatoria",
+      "stage": "Clausura - Quarter-finals",
+      "stageId": "8l2tv8pm4j3pfhyro0q5s4opg",
+      "status": "Fixture",
+      "winner": null,
+      "home": {
+        "id": "e8ma1lonj51sqmwy00mwnw1ke",
+        "name": "Rosario Central",
+        "clubName": "Rosario Central",
+        "shortName": "Rosario",
+        "officialName": "CA Rosario Central",
+        "code": "ROS",
+        "nickname": "Canalla",
+        "logo": "assets/icons/escudos/rosario-central.svg"
+      },
+      "away": {
+        "id": "8bh6iyg42ta2y8mgkkgd2hy6o",
+        "name": "Barracas Central",
+        "clubName": "Barracas Central",
+        "shortName": "Barracas",
+        "officialName": "CA Barracas Central",
+        "code": "BAC",
+        "nickname": null,
+        "logo": "assets/icons/escudos/barracas-central.svg"
+      },
+      "score": {
+        "home": null,
+        "away": null,
+        "htHome": null,
+        "htAway": null
+      },
+      "venue": {
+        "id": "8sgezad3ax5yejy1c7m6wl0q6",
+        "name": "Estadio Gigante de Arroyito",
+        "shortName": "Estadio Gigante de Arroyito",
+        "lat": "-32.913990521",
+        "lng": "-60.674561262"
       },
       "cardsCount": 0,
       "substitutionsCount": 0
@@ -41283,7 +41374,7 @@
         "goalsFor": 33,
         "goalsAgainst": 28,
         "goalDifference": 5,
-        "upcoming": 0
+        "upcoming": 1
       },
       "recentMatches": [
         {
@@ -41798,16 +41889,23 @@
       "logo": "assets/icons/escudos/gimnasia-mendoza.svg",
       "homeVenue": "Estadio Víctor Antonio Legrotaglie",
       "stats": {
-        "played": 32,
+        "played": 33,
         "won": 11,
         "drawn": 8,
-        "lost": 13,
-        "goalsFor": 32,
-        "goalsAgainst": 39,
-        "goalDifference": -7,
-        "upcoming": 1
+        "lost": 14,
+        "goalsFor": 33,
+        "goalsAgainst": 42,
+        "goalDifference": -9,
+        "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-22",
+          "stage": "Clausura - 8th Finals",
+          "home": "Rosario",
+          "away": "Gim Mendoza",
+          "score": "3-1"
+        },
         {
           "date": "2026-11-07",
           "stage": "Clausura",
@@ -41834,13 +41932,6 @@
           "stage": "Clausura",
           "home": "Vélez",
           "away": "Gim Mendoza",
-          "score": "1-0"
-        },
-        {
-          "date": "2026-10-12",
-          "stage": "Clausura",
-          "home": "Gim Mendoza",
-          "away": "Newell's",
           "score": "1-0"
         }
       ]
@@ -41921,7 +42012,7 @@
         "goalsFor": 42,
         "goalsAgainst": 40,
         "goalDifference": 2,
-        "upcoming": 0
+        "upcoming": 1
       },
       "recentMatches": [
         {
@@ -42095,7 +42186,7 @@
         "goalsFor": 37,
         "goalsAgainst": 29,
         "goalDifference": 8,
-        "upcoming": 1
+        "upcoming": 0
       },
       "recentMatches": [
         {
@@ -42327,7 +42418,7 @@
         "goalsFor": 54,
         "goalsAgainst": 34,
         "goalDifference": 20,
-        "upcoming": 1
+        "upcoming": 0
       },
       "recentMatches": [
         {
@@ -42378,16 +42469,23 @@
       "logo": "assets/icons/escudos/rosario-central.svg",
       "homeVenue": "Estadio Gigante de Arroyito",
       "stats": {
-        "played": 35,
-        "won": 20,
+        "played": 36,
+        "won": 21,
         "drawn": 8,
         "lost": 7,
-        "goalsFor": 51,
-        "goalsAgainst": 31,
-        "goalDifference": 20,
+        "goalsFor": 54,
+        "goalsAgainst": 32,
+        "goalDifference": 22,
         "upcoming": 1
       },
       "recentMatches": [
+        {
+          "date": "2026-11-22",
+          "stage": "Clausura - 8th Finals",
+          "home": "Rosario",
+          "away": "Gim Mendoza",
+          "score": "3-1"
+        },
         {
           "date": "2026-11-07",
           "stage": "Clausura",
@@ -42415,13 +42513,6 @@
           "home": "Atl. Tucumán",
           "away": "Rosario",
           "score": "2-3"
-        },
-        {
-          "date": "2026-10-11",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "Independiente",
-          "score": "5-0"
         }
       ]
     },
@@ -42733,7 +42824,7 @@
         "goalsFor": 48,
         "goalsAgainst": 33,
         "goalDifference": 15,
-        "upcoming": 0
+        "upcoming": 1
       },
       "recentMatches": [
         {
