@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:31:27",
+  "generatedAt": "2026-11-24T20:21:11",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -33,7 +33,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-24T08:31:50Z",
+    "lastUpdated": "2026-11-24T18:29:43Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -39589,7 +39589,7 @@
         "lat": "-34.635357444",
         "lng": "-58.520666957"
       },
-      "cardsCount": 9,
+      "cardsCount": 10,
       "substitutionsCount": 7
     },
     {
@@ -40984,7 +40984,7 @@
         "lat": "-34.910956553",
         "lng": "-57.932581902"
       },
-      "cardsCount": 14,
+      "cardsCount": 18,
       "substitutionsCount": 12
     },
     {
