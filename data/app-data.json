@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:43:35",
+  "generatedAt": "2026-11-26T14:31:23",
   "signature": {
     "name": "leandro manna",
     "portfolio": "https://leandromanna.com"
@@ -7,8 +7,8 @@
   "summary": {
     "matches": 506,
     "teams": 30,
-    "played": 502,
-    "fixtures": 4,
+    "played": 503,
+    "fixtures": 3,
     "playing": 0,
     "stages": {
       "Apertura": 240,
@@ -33,7 +33,7 @@
       "endDate": "2026-12-14Z",
       "name": "2026"
     },
-    "lastUpdated": "2026-11-26T01:56:41Z",
+    "lastUpdated": "2026-11-26T09:55:53Z",
     "stages": [
       {
         "id": "8jk6tta4w03e78qqgyv1t0n4k",
@@ -40994,8 +40994,8 @@
       "week": "Eliminatoria",
       "stage": "Clausura - 8th Finals",
       "stageId": "8kvx4rxa6ft0nijwiq7e4y7f8",
-      "status": "Fixture",
-      "winner": null,
+      "status": "Played",
+      "winner": "home",
       "home": {
         "id": "ciqt22ivoc48zj62detdyh1mm",
         "name": "Boca Juniors",
@@ -41017,10 +41017,10 @@
         "logo": "assets/icons/escudos/independiente-rivadavia.svg"
       },
       "score": {
-        "home": null,
-        "away": null,
-        "htHome": null,
-        "htAway": null
+        "home": 2,
+        "away": 0,
+        "htHome": 1,
+        "htAway": 0
       },
       "venue": {
         "id": "6nan0as2jh7b0oex8qew6y5oi",
@@ -41029,8 +41029,8 @@
         "lat": "-34.635582546",
         "lng": "-58.364637494"
       },
-      "cardsCount": 0,
-      "substitutionsCount": 0
+      "cardsCount": 6,
+      "substitutionsCount": 9
     },
     {
       "id": "4rckwa6torvf3i85n5la930gk",
@@ -41528,16 +41528,23 @@
       "logo": "assets/icons/escudos/boca.svg",
       "homeVenue": "Estadio Alberto José Armando",
       "stats": {
-        "played": 33,
-        "won": 17,
+        "played": 34,
+        "won": 18,
         "drawn": 12,
         "lost": 4,
-        "goalsFor": 48,
+        "goalsFor": 50,
         "goalsAgainst": 26,
-        "goalDifference": 22,
-        "upcoming": 1
+        "goalDifference": 24,
+        "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-25",
+          "stage": "Clausura - 8th Finals",
+          "home": "Boca",
+          "away": "Independiente",
+          "score": "2-0"
+        },
         {
           "date": "2026-11-07",
           "stage": "Clausura",
@@ -41565,13 +41572,6 @@
           "home": "Boca",
           "away": "Talleres",
           "score": "2-1"
-        },
-        {
-          "date": "2026-10-09",
-          "stage": "Clausura",
-          "home": "Instituto",
-          "away": "Boca",
-          "score": "2-2"
         }
       ]
     },
@@ -42108,16 +42108,23 @@
       "logo": "assets/icons/escudos/independiente-rivadavia.svg",
       "homeVenue": "Estadio Bautista Gargantini",
       "stats": {
-        "played": 33,
+        "played": 34,
         "won": 16,
         "drawn": 9,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 51,
-        "goalsAgainst": 41,
-        "goalDifference": 10,
-        "upcoming": 1
+        "goalsAgainst": 43,
+        "goalDifference": 8,
+        "upcoming": 0
       },
       "recentMatches": [
+        {
+          "date": "2026-11-25",
+          "stage": "Clausura - 8th Finals",
+          "home": "Boca",
+          "away": "Independiente",
+          "score": "2-0"
+        },
         {
           "date": "2026-11-07",
           "stage": "Clausura",
@@ -42145,13 +42152,6 @@
           "home": "Independiente",
           "away": "Tigre",
           "score": "2-2"
-        },
-        {
-          "date": "2026-10-11",
-          "stage": "Clausura",
-          "home": "Rosario",
-          "away": "Independiente",
-          "score": "5-0"
         }
       ]
     },
